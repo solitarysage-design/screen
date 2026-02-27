@@ -1,0 +1,8 @@
+jquants-api-client>=2.0
+yfinance>=0.2
+pandas>=2.0
+numpy>=1.26
+requests>=2.31
+tenacity>=8.2
+diskcache>=5.6
+click>=8.1

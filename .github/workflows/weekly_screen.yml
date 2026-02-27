@@ -1,0 +1,87 @@
+name: Weekly Stock Screener
+on:
+  schedule:
+    - cron: '0 0 * * 1'   # Every Monday 00:00 UTC = 09:00 JST
+  workflow_dispatch:
+    inputs:
+      asof_date:
+        description: 'Screening date (YYYY-MM-DD, empty = today)'
+        required: false
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      # 1. Checkout
+      - uses: actions/checkout@v4
+
+      # 2. Python setup
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 3. Install dependencies
+      - run: |
+          pip install -r requirements.txt
+          pip install -e .
+
+      # 4. Download previous artifacts (for delta)
+      - name: Download previous artifacts
+        uses: dawidd6/action-download-artifact@v6
+        with:
+          workflow: weekly_screen.yml
+          name: weekly-screen-output
+          path: outputs/prev
+          search_artifacts: true
+          if_no_artifact_found: warn
+        continue-on-error: true
+
+      # 5. Run screening
+      - name: Run weekly screening
+        run: python -m screening.run_weekly
+        env:
+          JQUANTS_MAIL_ADDRESS: ${{ secrets.JQUANTS_MAIL_ADDRESS }}
+          JQUANTS_PASSWORD: ${{ secrets.JQUANTS_PASSWORD }}
+          SCREEN_ASOF_DATE: ${{ github.event.inputs.asof_date || '' }}
+
+      # 6. Upload artifacts
+      - name: Upload screening results
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-screen-output
+          path: outputs/latest/
+          retention-days: 90
+
+      # 7. Slack notification (optional)
+      - name: Slack notification
+        if: always() && env.SLACK_WEBHOOK_URL != ''
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          python -c "
+          import json, os, urllib.request
+          kpi_file = 'outputs/latest/kpi_summary.json'
+          if os.path.exists(kpi_file):
+              kpi = json.load(open(kpi_file))
+          else:
+              kpi = {'status': 'unknown'}
+          run_url = f'https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}'
+          status = 'Success' if '${{ job.status }}' == 'success' else 'Failed'
+          msg = {
+              'text': f'{status} Weekly Screening\n'
+                      f'core_pass_verified: {kpi.get(\"core_pass_verified\", \"?\")}\n'
+                      f'manual_dividend_check: {kpi.get(\"manual_dividend_check\", \"?\")}\n'
+                      f'manual_shares_check: {kpi.get(\"manual_shares_check\", \"?\")}\n'
+                      f'data_fill: {kpi.get(\"data_fill\", \"?\")}\n'
+                      f'<{run_url}|Actions Run>'
+          }
+          req = urllib.request.Request(
+              os.environ['SLACK_WEBHOOK_URL'],
+              data=json.dumps(msg).encode(),
+              headers={'Content-Type': 'application/json'},
+              method='POST'
+          )
+          urllib.request.urlopen(req)
+          "

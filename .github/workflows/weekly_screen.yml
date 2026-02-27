@@ -1,7 +1,7 @@
 name: Weekly Stock Screener
 on:
   schedule:
-    - cron: '0 0 * * 1'   # Every Monday 00:00 UTC = 09:00 JST
+    - cron: '0 9 * * 5'   # Every Friday 09:00 UTC = 18:00 JST
   workflow_dispatch:
     inputs:
       asof_date:

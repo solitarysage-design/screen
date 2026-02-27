@@ -8,6 +8,11 @@ on:
         description: 'Screening date (YYYY-MM-DD, empty = today)'
         required: false
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   screen:
     runs-on: ubuntu-latest
@@ -54,7 +59,15 @@ jobs:
           path: outputs/latest/
           retention-days: 90
 
-      # 7. Slack notification (optional)
+      # 7. Deploy HTML report to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./outputs/latest
+          keep_files: false
+
+      # 8. Slack notification (optional)
       - name: Slack notification
         if: always() && env.SLACK_WEBHOOK_URL != ''
         env:
@@ -67,15 +80,45 @@ jobs:
               kpi = json.load(open(kpi_file))
           else:
               kpi = {'status': 'unknown'}
-          run_url = f'https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}'
-          status = 'Success' if '${{ job.status }}' == 'success' else 'Failed'
+
+          repo = '${{ github.repository }}'
+          run_url = f'https://github.com/{repo}/actions/runs/${{ github.run_id }}'
+          pages_url = f'https://{repo.split(\"/\")[0]}.github.io/{repo.split(\"/\")[1]}/report.html'
+          status_emoji = ':white_check_mark:' if '${{ job.status }}' == 'success' else ':x:'
+          status_text = 'Success' if '${{ job.status }}' == 'success' else 'Failed'
+
           msg = {
-              'text': f'{status} Weekly Screening\n'
-                      f'core_pass_verified: {kpi.get(\"core_pass_verified\", \"?\")}\n'
-                      f'manual_dividend_check: {kpi.get(\"manual_dividend_check\", \"?\")}\n'
-                      f'manual_shares_check: {kpi.get(\"manual_shares_check\", \"?\")}\n'
-                      f'data_fill: {kpi.get(\"data_fill\", \"?\")}\n'
-                      f'<{run_url}|Actions Run>'
+              'blocks': [
+                  {
+                      'type': 'header',
+                      'text': {'type': 'plain_text', 'text': f'{status_text} Weekly Screening'}
+                  },
+                  {
+                      'type': 'section',
+                      'fields': [
+                          {'type': 'mrkdwn', 'text': f'*Core Verified:* {kpi.get(\"core_pass_verified\", \"?\")}'},
+                          {'type': 'mrkdwn', 'text': f'*Shares Queue:* {kpi.get(\"manual_shares_check\", \"?\")}'},
+                          {'type': 'mrkdwn', 'text': f'*Dividend Queue:* {kpi.get(\"manual_dividend_check\", \"?\")}'},
+                          {'type': 'mrkdwn', 'text': f'*Data Fill:* {kpi.get(\"data_fill\", \"?\")}'},
+                      ]
+                  },
+                  {
+                      'type': 'actions',
+                      'elements': [
+                          {
+                              'type': 'button',
+                              'text': {'type': 'plain_text', 'text': 'View Report'},
+                              'url': pages_url,
+                              'style': 'primary'
+                          },
+                          {
+                              'type': 'button',
+                              'text': {'type': 'plain_text', 'text': 'Actions Run'},
+                              'url': run_url
+                          }
+                      ]
+                  }
+              ]
           }
           req = urllib.request.Request(
               os.environ['SLACK_WEBHOOK_URL'],

@@ -329,6 +329,12 @@ def main() -> None:
     with open(latest_kpi, "w", encoding="utf-8") as f:
         json.dump(kpi, f, ensure_ascii=False, indent=2)
 
+    # 12. Generate HTML report
+    from screening.build_report import build_html_report
+    report_path = build_html_report(output_dir, kpi)
+    # Copy report to latest/
+    shutil.copy2(str(report_path), str(OUTPUTS_ROOT / "latest" / "report.html"))
+
     # Print KPI summary
     logger.info("=" * 60)
     logger.info("Weekly Screening Complete (%.1fs)", elapsed)

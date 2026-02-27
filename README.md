@@ -87,7 +87,7 @@ C:/Users/solit/projects/screen/output/
 
 ## CI/CD (GitHub Actions)
 
-毎週月曜 09:00 JST に自動実行されます。手動トリガーも可能です。
+毎週金曜 16:00 JST に自動実行されます。手動トリガーも可能です。
 
 ### Secrets 設定
 

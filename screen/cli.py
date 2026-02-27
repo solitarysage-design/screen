@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import logging
+import os
 import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -484,8 +485,12 @@ def run(asof, universe, min_yield, lookback_days, rs_mode, export, explain, cust
 
     # ── Export ────────────────────────────────────────────────────────────
     if export:
-        # 実行日ごとにサブディレクトリを作成して上書きを防ぐ
-        dated_dir = OUTPUT_DIR / asof_date.strftime("%Y%m%d")
+        # SCREEN_OUTPUT_DIR が明示指定されている場合はそのまま使用（run_weekly 経由）
+        # 未指定の場合は実行日ごとにサブディレクトリを作成して上書きを防ぐ
+        if os.environ.get("SCREEN_OUTPUT_DIR"):
+            dated_dir = OUTPUT_DIR
+        else:
+            dated_dir = OUTPUT_DIR / asof_date.strftime("%Y%m%d")
         dated_dir.mkdir(parents=True, exist_ok=True)
 
         # Drop large list columns and stringify remaining list cols for CSV

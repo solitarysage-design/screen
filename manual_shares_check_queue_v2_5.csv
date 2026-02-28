@@ -43,8 +43,8 @@
 40080,住友精化,missing,shares_missing,shares_missing; div_split_adjusted,
 79660,リンテック,missing,shares_missing,shares_missing,
 21080,日本甜菜製糖,missing,shares_missing,shares_missing; div_split_adjusted,
-66250,ＪＡＬＣＯホールディングス,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
 97760,札幌臨床検査センター,missing,shares_missing,shares_missing; div_split_adjusted,
+66250,ＪＡＬＣＯホールディングス,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
 62470,日阪製作所,missing,shares_missing,shares_missing,
 68440,新電元工業,missing,shares_missing,shares_missing; div_split_adjusted,
 45280,小野薬品工業,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -56,8 +56,8 @@
 72120,エフテック,missing,shares_missing,shares_missing,
 46200,藤倉化成,missing,shares_missing,shares_missing,
 81540,加賀電子,missing,shares_missing,shares_missing; div_split_adjusted,
-59010,東洋製罐グループホールディングス,missing,shares_missing,shares_missing,
 80010,伊藤忠商事,yfinance_corrected,shares_estimate_mismatch,div_split_adjusted; shares_estimate_mismatch,0.017846688492213054
+59010,東洋製罐グループホールディングス,missing,shares_missing,shares_missing,
 93010,三菱倉庫,missing,shares_missing,shares_missing; div_split_adjusted,
 63360,石井表記,missing,shares_missing,shares_missing,
 43600,マナック・ケミカル・パートナーズ,missing,shares_missing,shares_missing; div_history_short,
@@ -74,8 +74,8 @@
 31860,ネクステージ,missing,shares_missing,shares_missing; div_split_adjusted,
 70220,サノヤスホールディングス,missing,shares_missing,shares_missing,
 19390,四電工,missing,shares_missing,shares_missing; div_split_adjusted,
-51950,バンドー化学,missing,shares_missing,shares_missing; div_split_adjusted,
 90680,丸全昭和運輸,missing,shares_missing,shares_missing; div_split_adjusted,
+51950,バンドー化学,missing,shares_missing,shares_missing; div_split_adjusted,
 74500,サンデー,missing,shares_missing,shares_missing,
 41160,大日精化工業,missing,shares_missing,shares_missing; div_split_adjusted,
 78000,アミファ,missing,shares_missing,shares_missing,
@@ -112,8 +112,8 @@
 45520,ＪＣＲファーマ,missing,shares_missing,shares_missing; div_split_adjusted,
 19510,エクシオグループ,missing,shares_missing,shares_missing; div_split_adjusted,
 71800,九州フィナンシャルグループ,missing,shares_missing,shares_missing,
-66640,オプトエレクトロニクス,missing,shares_missing,shares_missing,
 61460,ディスコ,missing,shares_missing,shares_missing; div_split_adjusted,
+66640,オプトエレクトロニクス,missing,shares_missing,shares_missing,
 34490,テクノフレックス,missing,shares_missing,shares_missing,
 70180,内海造船,missing,shares_missing,shares_missing; div_split_adjusted,
 57150,古河機械金属,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -161,8 +161,8 @@
 69980,日本タングステン,missing,shares_missing,shares_missing; div_split_adjusted,
 13330,マルハニチロ,yfinance_corrected,shares_estimate_mismatch,div_split_adjusted; shares_estimate_mismatch,0.023115485945493536
 60180,阪神内燃機工業,missing,shares_missing,shares_missing; div_split_adjusted,
-46110,大日本塗料,missing,shares_missing,shares_missing; div_split_adjusted,
 95130,電源開発,missing,shares_missing,shares_missing; div_split_adjusted,
+46110,大日本塗料,missing,shares_missing,shares_missing; div_split_adjusted,
 19460,トーエネック,missing,shares_missing,shares_missing; div_split_adjusted,
 68380,多摩川ホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
 60420,ニッキ,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -181,7 +181,6 @@
 18600,戸田建設,missing,shares_missing,shares_missing,
 62890,技研製作所,missing,shares_missing,shares_missing,
 83700,紀陽銀行,missing,shares_missing,shares_missing; div_split_adjusted,
-68820,三社電機製作所,missing,shares_missing,shares_missing,
 62380,フリュー,missing,shares_missing,shares_missing; div_split_adjusted,
 63100,井関農機,missing,shares_missing,shares_missing; div_split_adjusted,
 79490,小松ウオール工業,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -191,7 +190,6 @@
 63240,ハーモニック・ドライブ・システムズ,missing,shares_missing,shares_missing; div_split_adjusted,
 47200,城南進学研究社,missing,shares_missing,shares_missing,
 28840,ヨシムラ・フード・ホールディングス,missing,shares_missing,shares_missing; div_history_short,
-79110,ＴＯＰＰＡＮホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
 17360,オーテック,missing,shares_missing,shares_missing; div_split_adjusted,
 36110,マツオカコーポレーション,missing,shares_missing,shares_missing,
 21120,塩水港精糖,missing,shares_missing,shares_missing,
@@ -211,6 +209,7 @@
 70110,三菱重工業,missing,shares_missing,shares_missing; div_split_adjusted,
 14180,インターライフホールディングス,missing,shares_missing,shares_missing,
 92790,ギフトホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
+79110,ＴＯＰＰＡＮホールディングス,missing,shares_missing,shares_missing,
 76980,アイスコ,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
 17620,高松コンストラクショングループ,missing,shares_missing,shares_missing; div_split_adjusted,
 63280,荏原実業,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -235,14 +234,14 @@
 60930,エスクロー・エージェント・ジャパン,missing,shares_missing,shares_missing; div_split_adjusted,
 95370,北陸瓦斯,missing,shares_missing,shares_missing; div_split_adjusted,
 89180,ランド,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
-38610,王子ホールディングス,missing,shares_missing,shares_missing,
 76000,日本エム・ディ・エム,missing,shares_missing,shares_missing,
+38610,王子ホールディングス,missing,shares_missing,shares_missing,
 45070,塩野義製薬,missing,shares_missing,shares_missing; div_split_adjusted,
 63090,巴工業,missing,shares_missing,shares_missing; div_split_adjusted,
 39740,ＳＣＡＴ,missing,shares_missing,shares_missing; div_split_adjusted,
 95310,東京瓦斯,missing,shares_missing,shares_missing; div_split_adjusted,
-19410,中電工,missing,shares_missing,shares_missing,
 57020,大紀アルミニウム工業所,missing,shares_missing,shares_missing,
+19410,中電工,missing,shares_missing,shares_missing,
 64280,オーイズミ,missing,shares_missing,shares_missing; div_split_adjusted,
 72140,ＧＭＢ,missing,shares_missing,shares_missing,
 27840,アルフレッサ　ホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -266,9 +265,9 @@
 81270,ヤマトインターナショナル,missing,shares_missing,shares_missing,
 91930,東京汽船,missing,shares_missing,shares_missing,
 56990,イボキン,missing,shares_missing,shares_missing; div_split_adjusted,
+18870,日本国土開発,missing,shares_missing,shares_missing,
 31230,サイボー,missing,shares_missing,shares_missing,
 90720,ニッコンホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
-18870,日本国土開発,missing,shares_missing,shares_missing,
 19690,高砂熱学工業,missing,shares_missing,shares_missing; div_split_adjusted,
 28020,味の素,missing,shares_missing,shares_missing; div_split_adjusted,
 48280,ビジネスエンジニアリング,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -296,8 +295,8 @@
 69070,ジオマテック,missing,shares_missing,shares_missing,
 94750,昭文社ホールディングス,missing,shares_missing,shares_missing,
 49180,アイビー化粧品,missing,shares_missing,shares_missing; div_split_adjusted,
-60890,ウィルグループ,missing,shares_missing,shares_missing; div_split_adjusted,
 76490,スギホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
+60890,ウィルグループ,missing,shares_missing,shares_missing; div_split_adjusted,
 39430,大石産業,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
 38480,データ・アプリケーション,missing,shares_missing,shares_missing; div_split_adjusted,
 77310,ニコン,missing,shares_missing,shares_missing,
@@ -399,8 +398,8 @@
 32420,アーバネットコーポレーション,missing,shares_missing,shares_missing; div_split_adjusted,
 18970,金下建設,missing,shares_missing,shares_missing; div_split_adjusted,
 21850,シイエム・シイ,missing,shares_missing,shares_missing; div_split_adjusted,
-37870,テクノマセマティカル,missing,shares_missing,shares_missing; div_history_short,
 43670,広栄化学,missing,shares_missing,shares_missing; div_split_adjusted,
+37870,テクノマセマティカル,missing,shares_missing,shares_missing; div_history_short,
 70440,ピアラ,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
 37680,リスクモンスター,missing,shares_missing,shares_missing; div_split_adjusted,
 22880,丸大食品,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -512,8 +511,8 @@
 91430,ＳＧホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
 18530,森組,missing,shares_missing,shares_missing,
 74870,小津産業,missing,shares_missing,shares_missing,
-33530,メディカル一光グループ,missing,shares_missing,shares_missing; div_split_adjusted,
 24850,ティア,missing,shares_missing,shares_missing; div_split_adjusted,
+33530,メディカル一光グループ,missing,shares_missing,shares_missing; div_split_adjusted,
 79900,グローブライド,missing,shares_missing,shares_missing; div_split_adjusted,
 80250,ツカモトコーポレーション,missing,shares_missing,shares_missing; div_split_adjusted,
 63510,鶴見製作所,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -579,28 +578,18 @@
 99030,カンセキ,missing,shares_missing,shares_missing; div_split_adjusted,
 49980,フマキラー,missing,shares_missing,shares_missing; div_split_adjusted,
 77400,タムロン,missing,shares_missing,shares_missing; div_split_adjusted,
-31390,ラクト・ジャパン,missing,shares_missing,shares_missing; div_split_adjusted; fcf_payout_extreme:19.90; yield_total_fallback_dps,0.03455497382198953
 30680,ＷＤＩ,missing,shares_missing,shares_missing,
 28770,日東ベスト,missing,shares_missing,shares_missing,
-22040,中村屋,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.02108433734939759
 90060,京浜急行電鉄,missing,shares_missing,shares_missing; div_split_adjusted,
-61510,日東工器,missing,shares_missing,shares_missing; yield_total_fallback_dps,0.02073365231259968
 65940,ニデック,missing,shares_missing,shares_missing; div_split_adjusted,
-81410,新光商事,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.01155268022181146
 38510,日本一ソフトウェア,missing,shares_missing,shares_missing; div_split_adjusted,
 67690,ザインエレクトロニクス,missing,shares_missing,shares_missing; div_split_adjusted,
-59000,ダイケン,missing,shares_missing,shares_missing; yield_total_fallback_dps,0.024125452352231604
 61470,ヤマザキ,missing,shares_missing,shares_missing,
-36790,じげん,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.02359550561797753
-49850,アース製薬,missing,shares_missing,shares_missing; yield_total_fallback_dps,0.024606299212598427
 98950,コンセック,missing,shares_missing,shares_missing; div_split_adjusted,
 31920,白鳩,missing,shares_missing,shares_missing; div_history_short,
 62920,カワタ,missing,shares_missing,shares_missing,
 89040,ＡＶＡＮＴＩＡ,missing,shares_missing,shares_missing; div_split_adjusted,
 74260,山大,missing,shares_missing,shares_missing; div_split_adjusted,
-30930,トレジャー・ファクトリー,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.01791359325605901
-32710,ＴＨＥグローバル社,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.040983606557377046
-37710,システムリサーチ,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.031965903036760786
 60820,ライドオンエクスプレスホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
 43730,シンプレクス・ホールディングス,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
 29080,フジッコ,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -608,31 +597,20 @@
 88360,ＲＩＳＥ,missing,shares_missing,shares_missing; div_history_short,
 21930,クックパッド,missing,shares_missing,shares_missing; div_split_adjusted,
 75960,魚力,missing,shares_missing,shares_missing,
-29910,ランドネット,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps; div_history_short,0.02371987951807229
 23730,ケア２１,missing,shares_missing,shares_missing; div_split_adjusted,
 34900,アズ企画設計,missing,shares_missing,shares_missing; div_history_short,
-47540,トスネット,missing,shares_missing,shares_missing; yield_total_fallback_dps,0.024057217165149546
-98280,Ｇｅｎｋｉ　Ｇｌｏｂａｌ　Ｄｉｎｉｎｇ　Ｃｏｎｃｅｐｔｓ,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.023255813953488372
-82030,ＭｒＭａｘＨＤ,missing,shares_missing,shares_missing; yield_total_fallback_dps,0.03391959798994975
 21690,ＣＤＳ,missing,shares_missing,shares_missing; div_split_adjusted,
-13790,ホクト,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.02584493041749503
-99020,日伝,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.029296875
 28830,大冷,missing,shares_missing,shares_missing,
 24320,ディー・エヌ・エー,missing,shares_missing,shares_missing; div_split_adjusted,
 74940,コナカ,missing,shares_missing,shares_missing; div_split_adjusted,
-65130,オリジン,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.0315884476534296
 74140,小野建,missing,shares_missing,shares_missing,
-90240,西武ホールディングス,missing,shares_missing,shares_missing; yield_total_fallback_dps,0.008620689655172414
 96440,タナベコンサルティンググループ,missing,shares_missing,shares_missing; div_split_adjusted,
 99360,王将フードサービス,missing,shares_missing,shares_missing; div_split_adjusted,
 34690,デュアルタップ,missing,shares_missing,shares_missing; div_split_adjusted,
-60350,アイ・アールジャパンホールディングス,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.02442002442002442
 40710,プラスアルファ・コンサルティング,missing,shares_missing,shares_missing; div_history_short,
-52710,トーヨーアサノ,missing,shares_missing,shares_missing; div_history_short; yield_total_fallback_dps,0.03538717735220649
 22110,不二家,missing,shares_missing,shares_missing; div_split_adjusted,
 79650,象印マホービン,missing,shares_missing,shares_missing; div_split_adjusted,
 35360,アクサスホールディングス,missing,shares_missing,shares_missing,
-36900,イルグルム,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.01369150779896014
 85950,ジャフコ　グループ,missing,shares_missing,shares_missing; div_split_adjusted,
 45440,Ｈ．Ｕ．グループホールディングス,missing,shares_missing,shares_missing,
 89290,青山財産ネットワークス,missing,shares_missing,shares_missing; div_split_adjusted,
@@ -641,25 +619,19 @@
 91730,東海汽船,missing,shares_missing,shares_missing; div_split_adjusted,
 66590,メディアリンクス,missing,shares_missing,shares_missing; div_history_short,
 34570,Ａｎｄ　Ｄｏホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
-96580,ビジネスブレイン太田昭和,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.0432520325203252
-38020,エコミック,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps; div_history_short,0.026694045174537988
 94345,ソフトバンク（優先株式）,missing,shares_missing,no_stmt_data; div_history_short,
 23710,カカクコム,missing,shares_missing,shares_missing; div_split_adjusted,
 95190,レノバ,missing,shares_missing,shares_missing; div_history_short,
 50765,インフロニア・ホールディングス（優先株式）,missing,shares_missing,no_stmt_data; div_history_short,
 47710,エフアンドエム,missing,shares_missing,shares_missing; div_split_adjusted,
 75550,大田花き,missing,shares_missing,shares_missing,
-37630,プロシップ,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.021476510067114093
 26830,魚喜,missing,shares_missing,shares_missing; div_split_adjusted,
 26700,エービーシー・マート,missing,shares_missing,shares_missing; div_split_adjusted,
 76830,ダブルエー,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
 54010,日本製鉄,missing,shares_missing,shares_missing; div_split_adjusted,
 41240,大阪油化工業,missing,shares_missing,shares_missing,
 36760,デジタルハーツホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
-96020,東宝,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.054313099041533544
 47070,キタック,missing,shares_missing,shares_missing,
-54460,北越メタル,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.03461538461538462
-34610,パルマ,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.020257826887661142
 43510,山田再生系債権回収総合事務所,missing,shares_missing,shares_missing,
 24590,アウンコンサルティング,missing,shares_missing,shares_missing; div_split_adjusted; div_history_short,
 33720,関門海,missing,shares_missing,shares_missing; div_history_short,
@@ -667,18 +639,13 @@
 48490,エン,missing,shares_missing,shares_missing; div_split_adjusted,
 63250,タカキタ,missing,shares_missing,shares_missing,
 70590,コプロ・ホールディングス,missing,shares_missing,shares_missing; div_split_adjusted,
-42930,セプテーニ・ホールディングス,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.04326923076923077
-44390,東名,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.0183752417794971
 13820,ホーブ,missing,shares_missing,shares_missing; div_split_adjusted,
 97880,ナック,missing,shares_missing,shares_missing; div_split_adjusted,
-54080,中山製鋼所,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.02050473186119874
 91420,九州旅客鉄道,missing,shares_missing,shares_missing,
-78500,総合商研,missing,shares_missing,shares_missing; yield_total_fallback_dps,0.033860045146726865
 35980,山喜,missing,shares_missing,shares_missing,
 62570,藤商事,missing,shares_missing,shares_missing; div_split_adjusted,
 78970,ホクシン,missing,shares_missing,shares_missing,
 81290,東邦ホールディングス,missing,shares_missing,shares_missing,
-64240,高見沢サイバネティックス,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.021344717182497332
 20030,日東富士製粉,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.0392156862745098
 49350,リベルタ,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.005494505494505495
 36730,ブロードリーフ,missing,shares_missing,shares_missing; div_split_adjusted; yield_total_fallback_dps,0.006963788300835654

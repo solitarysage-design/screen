@@ -141,8 +141,8 @@
 68570,アドバンテスト,dps_fallback,0.0014525139664804,div_split_adjusted,yield_total_fallback_dps
 73500,おきなわフィナンシャルグループ,dps_fallback,0.0174708818635607,div_history_short,yield_total_fallback_dps
 72410,フタバ産業,dps_fallback,0.0323955669224211,,yield_total_fallback_dps
-49660,上村工業,dps_fallback,0.0129091747349008,div_split_adjusted,yield_total_fallback_dps
 61380,ダイジェット工業,dps_fallback,0.0206611570247933,div_split_adjusted,yield_total_fallback_dps
+49660,上村工業,dps_fallback,0.0129091747349008,div_split_adjusted,yield_total_fallback_dps
 58050,ＳＷＣＣ,dps_fallback,0.0088025889967637,div_split_adjusted,yield_total_fallback_dps
 78770,永大化工,dps_fallback,0.0262123197903014,div_split_adjusted,yield_total_fallback_dps
 69710,京セラ,dps_fallback,0.0180929980097702,div_split_adjusted,yield_total_fallback_dps
@@ -169,23 +169,23 @@
 43200,ＣＥホールディングス,dps_fallback,0.0393939393939393,div_split_adjusted,yield_total_fallback_dps
 31160,トヨタ紡織,dps_fallback,0.0268666041861918,,yield_total_fallback_dps
 63570,三精テクノロジーズ,dps_fallback,0.0207156308851224,,yield_total_fallback_dps
-32890,東急不動産ホールディングス,dps_fallback,0.0232410060490289,,yield_total_fallback_dps
 63950,タダノ,dps_fallback,0.0156143923964697,,yield_total_fallback_dps
+32890,東急不動産ホールディングス,dps_fallback,0.0232410060490289,,yield_total_fallback_dps
 77390,キヤノン電子,dps_fallback,0.0193103448275862,div_split_adjusted,yield_total_fallback_dps
 60580,ベクトル,dps_fallback,0.022268615170494,div_split_adjusted,yield_total_fallback_dps
 88020,三菱地所,dps_fallback,0.0081470253884047,,yield_total_fallback_dps
 81050,Ｂｉｔｃｏｉｎ　Ｊａｐａｎ,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
 63650,電業社機械製作所,dps_fallback,0.028735632183908,div_split_adjusted,yield_total_fallback_dps
-69520,カシオ計算機,dps_fallback,0.0286350620426344,,yield_total_fallback_dps
 64400,ＪＵＫＩ,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
 46670,アイサンテクノロジー,dps_fallback,0.0116822429906542,,yield_total_fallback_dps
+69520,カシオ計算機,dps_fallback,0.0286350620426344,,yield_total_fallback_dps
 80450,横浜丸魚,dps_fallback,0.0165471594043022,,yield_total_fallback_dps
 63900,加藤製作所,dps_fallback,0.0392596747055524,div_split_adjusted,yield_total_fallback_dps
 77460,岡本硝子,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
 65330,Ｏｒｃｈｅｓｔｒａ　Ｈｏｌｄｉｎｇｓ,dps_fallback,0.009590235396687,div_split_adjusted,yield_total_fallback_dps
 97330,ナガセ,dps_fallback,0.0356252226576416,div_split_adjusted,yield_total_fallback_dps
-57060,三井金属,dps_fallback,0.0048767271742075,div_split_adjusted,yield_total_fallback_dps
 46580,日本空調サービス,dps_fallback,0.0265017667844522,div_split_adjusted,yield_total_fallback_dps
+57060,三井金属,dps_fallback,0.0048767271742075,div_split_adjusted,yield_total_fallback_dps
 51610,西川ゴム工業,dps_fallback,0.0459845984598459,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
 69950,東海理化電機製作所,dps_fallback,0.0282317979197622,,yield_total_fallback_dps
 31040,富士紡ホールディングス,dps_fallback,0.0118505013673655,div_split_adjusted,yield_total_fallback_dps
@@ -235,8 +235,8 @@
 31570,ジオリーブグループ,dps_fallback,0.0231284236153377,div_split_adjusted,yield_total_fallback_dps
 53330,日本碍子,dps_fallback,0.0130804447351209,,yield_total_fallback_dps
 33520,バッファロー,dps_fallback,0.0326086956521739,div_split_adjusted,yield_total_fallback_dps
-52140,日本電気硝子,dps_fallback,0.018898095653438,div_split_adjusted,yield_total_fallback_dps
 80850,ナラサキ産業,dps_fallback,0.0254237288135593,div_split_adjusted,yield_total_fallback_dps
+52140,日本電気硝子,dps_fallback,0.018898095653438,div_split_adjusted,yield_total_fallback_dps
 65250,ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ,dps_fallback,0.00572400990099,div_history_short,yield_total_fallback_dps
 46310,ＤＩＣ,dps_fallback,0.0225784601490178,div_split_adjusted,yield_total_fallback_dps
 77810,平山ホールディングス,dps_fallback,0.0325309043591411,div_split_adjusted,yield_total_fallback_dps
@@ -247,8 +247,8 @@
 53440,ＭＡＲＵＷＡ,dps_fallback,0.0015339425587467,,yield_total_fallback_dps
 45470,キッセイ薬品工業,dps_fallback,0.0199600798403193,,yield_total_fallback_dps
 76020,レダックス,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
-52800,ヨシコン,dps_fallback,0.0271247739602169,,yield_total_fallback_dps
 63230,ローツェ,dps_fallback,0.0051066386302192,div_split_adjusted,yield_total_fallback_dps
+52800,ヨシコン,dps_fallback,0.0271247739602169,,yield_total_fallback_dps
 53810,マイポックス,dps_fallback,0.0112739571589627,div_split_adjusted,yield_total_fallback_dps
 61970,ソラスト,dps_fallback,0.0210084033613445,div_split_adjusted,yield_total_fallback_dps
 63020,住友重機械工業,dps_fallback,0.0202494735136886,div_split_adjusted,yield_total_fallback_dps
@@ -260,16 +260,16 @@
 69810,村田製作所,dps_fallback,0.0138753651411879,div_split_adjusted,yield_total_fallback_dps
 80350,東京エレクトロン,dps_fallback,0.013451488298114,div_split_adjusted,yield_total_fallback_dps
 68710,日本マイクロニクス,dps_fallback,0.0057377049180327,div_split_adjusted,yield_total_fallback_dps
-80740,ユアサ商事,dps_fallback,0.0293209876543209,div_split_adjusted,yield_total_fallback_dps
 65990,エブレン,dps_fallback,0.0126984126984126,div_history_short,yield_total_fallback_dps
+80740,ユアサ商事,dps_fallback,0.0293209876543209,div_split_adjusted,yield_total_fallback_dps
 32660,ファンドクリエーショングループ,dps_fallback,0.0094339622641509,div_split_adjusted,yield_total_fallback_dps
-86990,ＨＳホールディングス,dps_fallback,0.0076745970836531,,yield_total_fallback_dps
 72240,新明和工業,dps_fallback,0.0190965846492838,,yield_total_fallback_dps
+86990,ＨＳホールディングス,dps_fallback,0.0076745970836531,,yield_total_fallback_dps
 57130,住友金属鉱山,dps_fallback,0.0082376237623762,div_split_adjusted,yield_total_fallback_dps
 13320,ニッスイ,dps_fallback,0.0180761781794706,,yield_total_fallback_dps
 86170,光世証券,dps_fallback,0.008347245409015,div_split_adjusted,yield_total_fallback_dps
-25030,キリンホールディングス,dps_fallback,0.0262282970077576,,yield_total_fallback_dps
 62500,やまびこ,dps_fallback,0.0234375,div_split_adjusted,yield_total_fallback_dps
+25030,キリンホールディングス,dps_fallback,0.0262282970077576,,yield_total_fallback_dps
 61400,旭ダイヤモンド工業,dps_fallback,0.0181818181818181,,yield_total_fallback_dps
 93640,上組,dps_fallback,0.0223521320495185,div_split_adjusted,yield_total_fallback_dps
 56320,三菱製鋼,dps_fallback,0.0301318267419962,div_split_adjusted,yield_total_fallback_dps
@@ -285,20 +285,20 @@
 59710,共和工業所,dps_fallback,0.010443864229765,div_split_adjusted,yield_total_fallback_dps
 53100,東洋炭素,dps_fallback,0.0227987421383647,div_split_adjusted,yield_total_fallback_dps
 45160,日本新薬,dps_fallback,0.0241057542768273,,yield_total_fallback_dps
-84390,東京センチュリー,dps_fallback,0.0271572492334647,div_split_adjusted,yield_total_fallback_dps
 43850,メルカリ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
+84390,東京センチュリー,dps_fallback,0.0271572492334647,div_split_adjusted,yield_total_fallback_dps
 80120,長瀬産業,dps_fallback,0.018167137666532,,yield_total_fallback_dps
-30030,ヒューリック,dps_fallback,0.0260995650072498,div_split_adjusted,yield_total_fallback_dps
 66530,正興電機製作所,dps_fallback,0.0148312940304041,,yield_total_fallback_dps
+30030,ヒューリック,dps_fallback,0.0260995650072498,div_split_adjusted,yield_total_fallback_dps
 67230,ルネサスエレクトロニクス,dps_fallback,0.0094307847760188,div_history_short,yield_total_fallback_dps
 87150,アニコム　ホールディングス,dps_fallback,0.0069049553208773,div_split_adjusted,yield_total_fallback_dps
 90360,東部ネットワーク,dps_fallback,0.0126156433978132,,yield_total_fallback_dps
 35690,セーレン,dps_fallback,0.018707015130674,,yield_total_fallback_dps
 79880,ニフコ,dps_fallback,0.0135281385281385,div_split_adjusted,yield_total_fallback_dps
 68770,ＯＢＡＲＡ　ＧＲＯＵＰ,dps_fallback,0.0254668930390492,div_split_adjusted,yield_total_fallback_dps
-88600,フジ住宅,dps_fallback,0.0344086021505376,,yield_total_fallback_dps
 46170,中国塗料,dps_fallback,0.0205508474576271,,yield_total_fallback_dps
 66740,ジーエス・ユアサ　コーポレーション,dps_fallback,0.0134892086330935,div_split_adjusted,yield_total_fallback_dps
+88600,フジ住宅,dps_fallback,0.0344086021505376,,yield_total_fallback_dps
 63010,小松製作所,dps_fallback,0.0252223549714589,,yield_total_fallback_dps
 53340,日本特殊陶業,dps_fallback,0.0225230924965203,,yield_total_fallback_dps
 25790,コカ・コーラ　ボトラーズジャパンホールディングス,dps_fallback,0.0128516003879728,,yield_total_fallback_dps
@@ -335,8 +335,8 @@
 17210,コムシスホールディングス,dps_fallback,0.0199583477959042,,yield_total_fallback_dps
 40620,イビデン,dps_fallback,0.0041941910454021,div_split_adjusted,yield_total_fallback_dps
 46940,ビー・エム・エル,dps_fallback,0.0275545350172215,div_split_adjusted,yield_total_fallback_dps
-80970,三愛オブリ,dps_fallback,0.0389559797428905,,yield_total_fallback_dps
 40430,トクヤマ,dps_fallback,0.0223413762287756,div_split_adjusted,yield_total_fallback_dps
+80970,三愛オブリ,dps_fallback,0.0389559797428905,,yield_total_fallback_dps
 61340,ＦＵＪＩ,dps_fallback,0.0131341323263831,,yield_total_fallback_dps
 13810,アクシーズ,dps_fallback,0.0282663316582914,,yield_total_fallback_dps
 27050,大戸屋ホールディングス,dps_fallback,0.0013227513227513,,yield_total_fallback_dps
@@ -344,9 +344,9 @@
 53310,ノリタケ,dps_fallback,0.0192857142857142,div_split_adjusted,yield_total_fallback_dps
 80460,丸藤シートパイル,dps_fallback,0.0247619047619047,div_split_adjusted,yield_total_fallback_dps
 65010,日立製作所,dps_fallback,0.0082280903176425,div_split_adjusted,yield_total_fallback_dps
-59450,天龍製鋸,dps_fallback,0.0316358024691358,div_split_adjusted,yield_total_fallback_dps
 80010,伊藤忠商事,dps_fallback,0.0881057268722467,div_split_adjusted,yield_total_fallback_dps
 91710,栗林商船,dps_fallback,0.0114784205693296,,yield_total_fallback_dps
+59450,天龍製鋸,dps_fallback,0.0316358024691358,div_split_adjusted,yield_total_fallback_dps
 31060,倉敷紡績,dps_fallback,0.017910447761194,div_split_adjusted,yield_total_fallback_dps
 87390,スパークス・グループ,dps_fallback,0.032,div_split_adjusted,yield_total_fallback_dps
 63780,木村化工機,dps_fallback,0.0276653171390013,,yield_total_fallback_dps
@@ -363,8 +363,8 @@
 29180,わらべや日洋ホールディングス,dps_fallback,0.0261627906976744,,yield_total_fallback_dps
 27340,サーラコーポレーション,dps_fallback,0.0245499181669394,,yield_total_fallback_dps
 99840,ソフトバンクグループ,dps_fallback,0.0107605771582293,div_split_adjusted,yield_total_fallback_dps
-69860,双葉電子工業,dps_fallback,0.0132802124833997,,yield_total_fallback_dps
 34330,トーカロ,dps_fallback,0.02176,div_split_adjusted,yield_total_fallback_dps
+69860,双葉電子工業,dps_fallback,0.0132802124833997,,yield_total_fallback_dps
 81570,都築電気,dps_fallback,0.0237125748502994,,yield_total_fallback_dps
 64740,不二越,dps_fallback,0.0186219739292365,div_split_adjusted,yield_total_fallback_dps
 67940,フォスター電機,dps_fallback,0.0191693290734824,,yield_total_fallback_dps
@@ -377,8 +377,8 @@
 97430,丹青社,dps_fallback,0.0276752767527675,div_split_adjusted,yield_total_fallback_dps
 93190,中央倉庫,dps_fallback,0.0207972270363951,,yield_total_fallback_dps
 56440,メタルアート,dps_fallback,0.0237924865831842,div_split_adjusted,yield_total_fallback_dps
-42460,ダイキョーニシカワ,dps_fallback,0.0381355932203389,div_split_adjusted,yield_total_fallback_dps
 75640,ワークマン,dps_fallback,0.0093830334190231,div_split_adjusted,yield_total_fallback_dps
+42460,ダイキョーニシカワ,dps_fallback,0.0381355932203389,div_split_adjusted,yield_total_fallback_dps
 53020,日本カーボン,dps_fallback,0.0396039603960396,div_split_adjusted,yield_total_fallback_dps
 42510,恵和,dps_fallback,0.0254916241806263,div_split_adjusted,yield_total_fallback_dps
 32360,プロパスト,dps_fallback,0.0146341463414634,div_split_adjusted,yield_total_fallback_dps
@@ -400,8 +400,8 @@
 80530,住友商事,dps_fallback,0.019510730901996,,yield_total_fallback_dps
 75380,大水,dps_fallback,0.013215859030837,,yield_total_fallback_dps
 29140,日本たばこ産業,dps_fallback,0.0324035410055119,div_split_adjusted,yield_total_fallback_dps
-17800,ヤマウラ,dps_fallback,0.0142942227516378,,yield_total_fallback_dps
 64950,宮入バルブ製作所,dps_fallback,0.0072727272727272,,yield_total_fallback_dps
+17800,ヤマウラ,dps_fallback,0.0142942227516378,,yield_total_fallback_dps
 80810,カナデン,dps_fallback,0.0296359017781541,,yield_total_fallback_dps
 40780,堺化学工業,dps_fallback,0.0325301204819277,div_split_adjusted,yield_total_fallback_dps
 95030,関西電力,dps_fallback,0.0212539851222104,,yield_total_fallback_dps
@@ -417,31 +417,31 @@
 49680,荒川化学工業,dps_fallback,0.031491002570694,,yield_total_fallback_dps
 83370,千葉興業銀行,dps_fallback,0.0040749796251018,,yield_total_fallback_dps
 38630,日本製紙,dps_fallback,0.007587253414264,,yield_total_fallback_dps
-43010,アミューズ,dps_fallback,0.019047619047619,div_split_adjusted,yield_total_fallback_dps
 71810,かんぽ生命保険,dps_fallback,0.0203841630733045,,yield_total_fallback_dps
+43010,アミューズ,dps_fallback,0.019047619047619,div_split_adjusted,yield_total_fallback_dps
 90220,東海旅客鉄道,dps_fallback,0.0067274305555555,div_split_adjusted,yield_total_fallback_dps
 99560,バローホールディングス,dps_fallback,0.0181091877496671,div_split_adjusted,yield_total_fallback_dps
 85440,京葉銀行,dps_fallback,0.0133214920071047,div_split_adjusted,yield_total_fallback_dps
 86300,ＳＯＭＰＯホールディングス,dps_fallback,0.021136909527622,div_split_adjusted,yield_total_fallback_dps
 87720,アサックス,dps_fallback,0.0213675213675213,div_split_adjusted,yield_total_fallback_dps
-70580,共栄セキュリティーサービス,dps_fallback,0.0285714285714285,,yield_total_fallback_dps
 96470,協和コンサルタンツ,dps_fallback,0.0034722222222222,div_split_adjusted,yield_total_fallback_dps
 69540,ファナック,dps_fallback,0.0132700688879516,div_split_adjusted,yield_total_fallback_dps
+70580,共栄セキュリティーサービス,dps_fallback,0.0285714285714285,,yield_total_fallback_dps
 30970,物語コーポレーション,dps_fallback,0.0071856287425149,div_split_adjusted,yield_total_fallback_dps
 62030,豊和工業,dps_fallback,0.0107933081489476,div_split_adjusted,yield_total_fallback_dps
 80220,美津濃,dps_fallback,0.03690036900369,div_split_adjusted,yield_total_fallback_dps
-33750,ＺＯＡ,dps_fallback,0.0344488188976378,div_split_adjusted,yield_total_fallback_dps
 77290,東京精密,dps_fallback,0.0146242774566473,,yield_total_fallback_dps
+33750,ＺＯＡ,dps_fallback,0.0344488188976378,div_split_adjusted,yield_total_fallback_dps
 49600,ケミプロ化成,dps_fallback,0.0046916890080428,,yield_total_fallback_dps
 65170,デンヨー,dps_fallback,0.0192554557124518,,yield_total_fallback_dps
-54800,日本冶金工業,dps_fallback,0.0414312617702448,div_split_adjusted,yield_total_fallback_dps
 28050,ヱスビー食品,dps_fallback,0.0172972972972972,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
+54800,日本冶金工業,dps_fallback,0.0414312617702448,div_split_adjusted,yield_total_fallback_dps
 72440,市光工業,dps_fallback,0.0228070175438596,,yield_total_fallback_dps
-30200,アプライド,dps_fallback,0.0230149597238204,div_split_adjusted,yield_total_fallback_dps
 63300,東洋エンジニアリング,dps_fallback,0.0068870523415977,div_split_adjusted,yield_total_fallback_dps
 83930,宮崎銀行,dps_fallback,0.0113168724279835,div_split_adjusted,yield_total_fallback_dps
-79520,河合楽器製作所,dps_fallback,0.0319435104236718,div_split_adjusted,yield_total_fallback_dps
+30200,アプライド,dps_fallback,0.0230149597238204,div_split_adjusted,yield_total_fallback_dps
 40990,四国化成ホールディングス,dps_fallback,0.0095419847328244,,yield_total_fallback_dps
+79520,河合楽器製作所,dps_fallback,0.0319435104236718,div_split_adjusted,yield_total_fallback_dps
 58200,三ッ星,dps_fallback,0.0164728682170542,div_split_adjusted,yield_total_fallback_dps
 68500,チノー,dps_fallback,0.0429645542427497,div_split_adjusted,yield_total_fallback_dps
 80600,キヤノンマーケティングジャパン,dps_fallback,0.019988577955454,,yield_total_fallback_dps
@@ -449,20 +449,20 @@
 42240,ロンシール工業,dps_fallback,0.0304347826086956,div_split_adjusted,yield_total_fallback_dps
 69960,ニチコン,dps_fallback,0.0162262401483541,,yield_total_fallback_dps
 41120,保土谷化学工業,dps_fallback,0.0376411543287327,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
-39120,モバイルファクトリー,dps_fallback,0.0305280528052805,div_split_adjusted,yield_total_fallback_dps
 86040,野村ホールディングス,dps_fallback,0.0392426850258175,,yield_total_fallback_dps
+39120,モバイルファクトリー,dps_fallback,0.0305280528052805,div_split_adjusted,yield_total_fallback_dps
 66370,寺崎電気産業,dps_fallback,0.0091638029782359,,yield_total_fallback_dps
 78100,クロスフォー,dps_fallback,0.0015486725663716,div_split_adjusted,yield_total_fallback_dps
 30360,アルコニックス,dps_fallback,0.0224242424242424,div_split_adjusted,yield_total_fallback_dps
-62670,ゼネラルパッカー,dps_fallback,0.026602176541717,div_split_adjusted,yield_total_fallback_dps
 84730,ＳＢＩホールディングス,dps_fallback,0.0507462686567164,div_split_adjusted,yield_total_fallback_dps
+62670,ゼネラルパッカー,dps_fallback,0.026602176541717,div_split_adjusted,yield_total_fallback_dps
 61430,ソディック,dps_fallback,0.0190664036817883,,yield_total_fallback_dps
 33740,内外テック,dps_fallback,0.0376364320662401,div_split_adjusted,yield_total_fallback_dps
 89190,カチタス,dps_fallback,0.0156643356643356,div_split_adjusted,yield_total_fallback_dps
 66520,ＩＤＥＣ,dps_fallback,0.0393343419062027,,yield_total_fallback_dps
+91190,飯野海運,dps_fallback,0.0348557692307692,,yield_total_fallback_dps
 31930,エターナルホスピタリティグループ,dps_fallback,0.0123489932885906,div_split_adjusted,yield_total_fallback_dps
 45340,持田製薬,dps_fallback,0.0201765447667087,div_split_adjusted,yield_total_fallback_dps
-91190,飯野海運,dps_fallback,0.0348557692307692,,yield_total_fallback_dps
 17180,美樹工業,dps_fallback,0.02389486260454,div_split_adjusted,yield_total_fallback_dps
 23740,セントケア・ホールディング,dps_fallback,0.0247729149463253,div_split_adjusted,yield_total_fallback_dps
 76350,杉田エース,dps_fallback,0.0235710076605774,,yield_total_fallback_dps
@@ -476,8 +476,8 @@
 84180,山口フィナンシャルグループ,dps_fallback,0.0218023255813953,,yield_total_fallback_dps
 63690,トーヨーカネツ,dps_fallback,0.0764991896272285,div_split_adjusted,yield_total_fallback_dps
 85620,福島銀行,dps_fallback,0.0121654501216545,div_split_adjusted,yield_total_fallback_dps
-80160,オンワードホールディングス,dps_fallback,0.0318237454100367,,yield_total_fallback_dps
 85630,大東銀行,dps_fallback,0.0265780730897009,div_split_adjusted,yield_total_fallback_dps
+80160,オンワードホールディングス,dps_fallback,0.0318237454100367,,yield_total_fallback_dps
 59860,モリテック　スチール,dps_fallback,0.0169491525423728,,yield_total_fallback_dps
 23930,日本ケアサプライ,dps_fallback,0.0285481239804241,div_split_adjusted; fcf_payout_extreme:10.15,yield_total_fallback_dps
 83880,阿波銀行,dps_fallback,0.0158597662771285,div_split_adjusted,yield_total_fallback_dps
@@ -486,8 +486,8 @@
 88010,三井不動産,dps_fallback,0.0147163541419416,div_split_adjusted,yield_total_fallback_dps
 70420,アクセスグループ・ホールディングス,dps_fallback,0.0420757363253856,div_split_adjusted; yield_split_mismatch; div_history_short,yield_total_fallback_dps
 42120,積水樹脂,dps_fallback,0.0281803542673107,,yield_total_fallback_dps
-95020,中部電力,dps_fallback,0.0227488151658767,,yield_total_fallback_dps
 86000,トモニホールディングス,dps_fallback,0.0167853509664293,,yield_total_fallback_dps
+95020,中部電力,dps_fallback,0.0227488151658767,,yield_total_fallback_dps
 17260,ビーアールホールディングス,dps_fallback,0.0283553875236294,div_split_adjusted,yield_total_fallback_dps
 65030,三菱電機,dps_fallback,0.0083458521115005,,yield_total_fallback_dps
 54440,大和工業,dps_fallback,0.0307574009996155,,yield_total_fallback_dps
@@ -503,16 +503,16 @@
 50130,ユシロ,dps_fallback,0.0304347826086956,,yield_total_fallback_dps
 64660,ＴＶＥ,dps_fallback,0.0081549439347604,div_split_adjusted,yield_total_fallback_dps
 79390,研創,dps_fallback,0.0333333333333333,,yield_total_fallback_dps
-79080,きもと,dps_fallback,0.0266666666666666,div_split_adjusted,yield_total_fallback_dps
 19490,住友電設,dps_fallback,0.0150360453141091,,yield_total_fallback_dps
+79080,きもと,dps_fallback,0.0266666666666666,div_split_adjusted,yield_total_fallback_dps
 77160,ナカニシ,dps_fallback,0.0191036002939015,div_split_adjusted,yield_total_fallback_dps
 46270,ナトコ,dps_fallback,0.0286839145106861,,yield_total_fallback_dps
 76150,京都きもの友禅ホールディングス,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
 67280,アルバック,dps_fallback,0.015648854961832,,yield_total_fallback_dps
 80930,極東貿易,dps_fallback,0.0315031503150315,div_split_adjusted,yield_total_fallback_dps
 35530,共和レザー,dps_fallback,0.0264900662251655,,yield_total_fallback_dps
-74200,佐鳥電機,dps_fallback,0.0427010923535253,,yield_total_fallback_dps
 77450,Ａ＆Ｄホロンホールディングス,dps_fallback,0.0141342756183745,,yield_total_fallback_dps
+74200,佐鳥電機,dps_fallback,0.0427010923535253,,yield_total_fallback_dps
 65660,要興業,dps_fallback,0.0175328741390106,,yield_total_fallback_dps
 58440,京都フィナンシャルグループ,dps_fallback,0.0154758834150116,div_split_adjusted; div_history_short,yield_total_fallback_dps
 69080,イリソ電子工業,dps_fallback,0.0260416666666666,div_split_adjusted,yield_total_fallback_dps
@@ -532,12 +532,12 @@
 39540,昭和パックス,dps_fallback,0.0127388535031847,div_split_adjusted,yield_total_fallback_dps
 62230,西部技研,dps_fallback,0.0275807722616233,div_history_short,yield_total_fallback_dps
 41180,カネカ,dps_fallback,0.0246258761129001,div_split_adjusted,yield_total_fallback_dps
-46280,エスケー化研,dps_fallback,0.0104895104895104,div_split_adjusted,yield_total_fallback_dps
-68140,古野電気,dps_fallback,0.0138713745271122,,yield_total_fallback_dps
 81370,サンワテクノス,dps_fallback,0.0344827586206896,,yield_total_fallback_dps
+68140,古野電気,dps_fallback,0.0138713745271122,,yield_total_fallback_dps
+46280,エスケー化研,dps_fallback,0.0104895104895104,div_split_adjusted,yield_total_fallback_dps
 62840,日精エー・エス・ビー機械,dps_fallback,0.0215982721382289,,yield_total_fallback_dps
-72770,ＴＢＫ,dps_fallback,0.0195121951219512,,yield_total_fallback_dps
 52080,有沢製作所,dps_fallback,0.0362948960302457,div_split_adjusted,yield_total_fallback_dps
+72770,ＴＢＫ,dps_fallback,0.0195121951219512,,yield_total_fallback_dps
 72800,ミツバ,dps_fallback,0.0068259385665529,,yield_total_fallback_dps
 70880,フォーラムエンジニアリング,dps_fallback,0.03125,div_split_adjusted,yield_total_fallback_dps
 27800,コメ兵ホールディングス,dps_fallback,0.0224864864864864,,yield_total_fallback_dps
@@ -545,10 +545,10 @@
 80370,カメイ,dps_fallback,0.0215022091310751,,yield_total_fallback_dps
 77010,島津製作所,dps_fallback,0.0151410874053682,,yield_total_fallback_dps
 81980,マックスバリュ東海,dps_fallback,0.0199203187250996,div_split_adjusted,yield_total_fallback_dps
-80980,稲畑産業,dps_fallback,0.0287026406429391,,yield_total_fallback_dps
 99130,日邦産業,dps_fallback,0.020026350461133,,yield_total_fallback_dps
-44630,日華化学,dps_fallback,0.029066517607602,,yield_total_fallback_dps
+80980,稲畑産業,dps_fallback,0.0287026406429391,,yield_total_fallback_dps
 87500,第一生命ホールディングス,dps_fallback,0.08504034761018,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
+44630,日華化学,dps_fallback,0.029066517607602,,yield_total_fallback_dps
 85930,三菱ＨＣキャピタル,dps_fallback,0.0264200792602377,div_split_adjusted,yield_total_fallback_dps
 63820,トリニティ工業,dps_fallback,0.0408163265306122,,yield_total_fallback_dps
 80300,中央魚類,dps_fallback,0.0285714285714285,div_split_adjusted,yield_total_fallback_dps
@@ -557,27 +557,28 @@
 42290,群栄化学工業,dps_fallback,0.018018018018018,div_split_adjusted,yield_total_fallback_dps
 53320,ＴＯＴＯ,dps_fallback,0.0163585800752494,div_split_adjusted,yield_total_fallback_dps
 65240,湖北工業,dps_fallback,0.0068807339449541,div_split_adjusted; div_history_short,yield_total_fallback_dps
-43620,日本精化,dps_fallback,0.0264569181265641,,yield_total_fallback_dps
-32910,飯田グループホールディングス,dps_fallback,0.0323624595469255,div_split_adjusted,yield_total_fallback_dps
 77170,ブイ・テクノロジー,dps_fallback,0.0171673819742489,div_split_adjusted,yield_total_fallback_dps
+43620,日本精化,dps_fallback,0.0264569181265641,,yield_total_fallback_dps
 93610,伏木海陸運送,dps_fallback,0.0255972696245733,div_split_adjusted,yield_total_fallback_dps
-63340,明治機械,dps_fallback,0.0145985401459854,div_split_adjusted,yield_total_fallback_dps
+32910,飯田グループホールディングス,dps_fallback,0.0323624595469255,div_split_adjusted,yield_total_fallback_dps
 68530,共和電業,dps_fallback,0.023391812865497,,yield_total_fallback_dps
+63340,明治機械,dps_fallback,0.0145985401459854,div_split_adjusted,yield_total_fallback_dps
 61670,冨士ダイス,dps_fallback,0.0302571860816944,,yield_total_fallback_dps
-49260,シーボン,dps_fallback,0.0147058823529411,,yield_total_fallback_dps
 13330,マルハニチロ,dps_fallback,0.0693787448754336,div_split_adjusted,yield_total_fallback_dps
-32520,地主,dps_fallback,0.0248901903367496,,yield_total_fallback_dps
+49260,シーボン,dps_fallback,0.0147058823529411,,yield_total_fallback_dps
 80860,ニプロ,dps_fallback,0.0157183275699465,div_split_adjusted,yield_total_fallback_dps
+32520,地主,dps_fallback,0.0248901903367496,,yield_total_fallback_dps
 90570,遠州トラック,dps_fallback,0.0251968503937007,,yield_total_fallback_dps
 23370,いちご,dps_fallback,0.0237020316027088,div_split_adjusted,yield_total_fallback_dps
 63310,三菱化工機,dps_fallback,0.055045871559633,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
 68630,ニレコ,dps_fallback,0.0410189982728842,,yield_total_fallback_dps
 89340,サンフロンティア不動産,dps_fallback,0.0232804232804232,div_split_adjusted,yield_total_fallback_dps
+63730,大同工業,dps_fallback,0.0167897918065816,div_history_short,yield_total_fallback_dps
 63600,東京自働機械製作所,dps_fallback,0.0599250936329588,div_split_adjusted,yield_total_fallback_dps
-74660,ＳＰＫ,dps_fallback,0.0219619326500732,div_split_adjusted; fcf_payout_extreme:29.13,yield_total_fallback_dps
 16050,ＩＮＰＥＸ,dps_fallback,0.0226315789473684,div_split_adjusted,yield_total_fallback_dps
-98310,ヤマダホールディングス,dps_fallback,0.0223906313238826,div_split_adjusted,yield_total_fallback_dps
+74660,ＳＰＫ,dps_fallback,0.0219619326500732,div_split_adjusted; fcf_payout_extreme:29.13,yield_total_fallback_dps
 79550,クリナップ,dps_fallback,0.0289719626168224,,yield_total_fallback_dps
+98310,ヤマダホールディングス,dps_fallback,0.0223906313238826,div_split_adjusted,yield_total_fallback_dps
 43900,アイ・ピー・エス,dps_fallback,0.0122699386503067,div_split_adjusted; div_history_short,yield_total_fallback_dps
 64970,ハマイ,dps_fallback,0.0248579545454545,,yield_total_fallback_dps
 72030,トヨタ自動車,dps_fallback,0.0235294117647058,div_split_adjusted,yield_total_fallback_dps
@@ -609,16 +610,16 @@
 74630,アドヴァングループ,dps_fallback,0.0394088669950738,div_split_adjusted,yield_total_fallback_dps
 98160,ストライダーズ,dps_fallback,0.015432098765432,div_split_adjusted,yield_total_fallback_dps
 69190,ケル,dps_fallback,0.0490196078431372,div_split_adjusted,yield_total_fallback_dps
-36120,ワールド,dps_fallback,0.0484554815263476,div_split_adjusted,yield_total_fallback_dps
 75100,たけびし,dps_fallback,0.023502653525398,,yield_total_fallback_dps
+36120,ワールド,dps_fallback,0.0484554815263476,div_split_adjusted,yield_total_fallback_dps
 88690,明和地所,dps_fallback,0.0338983050847457,,yield_total_fallback_dps
 81470,トミタ,dps_fallback,0.0151619572708476,,yield_total_fallback_dps
 81520,ソマール,dps_fallback,0.0146198830409356,div_split_adjusted,yield_total_fallback_dps
 94210,エヌジェイホールディングス,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
 98270,リリカラ,dps_fallback,0.0530973451327433,,yield_total_fallback_dps
+80780,阪和興業,dps_fallback,0.0250836120401337,div_split_adjusted,yield_total_fallback_dps
 60920,エンバイオ・ホールディングス,dps_fallback,0.0126582278481012,div_history_short,yield_total_fallback_dps
 54060,神戸製鋼所,dps_fallback,0.0439560439560439,div_split_adjusted,yield_total_fallback_dps
-80780,阪和興業,dps_fallback,0.0250836120401337,div_split_adjusted,yield_total_fallback_dps
 85080,Ｊトラスト,dps_fallback,0.0259740259740259,div_split_adjusted,yield_total_fallback_dps
 75390,アイナボホールディングス,dps_fallback,0.0322180916976456,div_split_adjusted,yield_total_fallback_dps
 68700,日本フェンオール,dps_fallback,0.0361328125,,yield_total_fallback_dps
@@ -632,8 +633,8 @@
 21390,中広,dps_fallback,0.0217785843920145,,yield_total_fallback_dps
 97680,いであ,dps_fallback,0.0218579234972677,,yield_total_fallback_dps
 99730,ＫＯＺＯホールディングス,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
-50710,ヴィス,dps_fallback,0.0294648226097414,,yield_total_fallback_dps
 57530,日本伸銅,dps_fallback,0.0050573162508428,div_split_adjusted,yield_total_fallback_dps
+50710,ヴィス,dps_fallback,0.0294648226097414,,yield_total_fallback_dps
 40260,神島化学工業,dps_fallback,0.022110552763819,,yield_total_fallback_dps
 55630,新日本電工,dps_fallback,0.0234541577825159,,yield_total_fallback_dps
 43560,応用技術,dps_fallback,0.0166021029330381,div_split_adjusted,yield_total_fallback_dps
@@ -659,8 +660,8 @@
 64480,ブラザー工業,dps_fallback,0.0309405940594059,,yield_total_fallback_dps
 99270,ワットマン,dps_fallback,0.0206398348813209,div_split_adjusted,yield_total_fallback_dps
 33880,明治電機工業,dps_fallback,0.0239808153477218,div_split_adjusted,yield_total_fallback_dps
-49250,ハーバー研究所,dps_fallback,0.0217983651226158,,yield_total_fallback_dps
 66580,シライ電子工業,dps_fallback,0.0355029585798816,div_split_adjusted,yield_total_fallback_dps
+49250,ハーバー研究所,dps_fallback,0.0217983651226158,,yield_total_fallback_dps
 44910,コンピューターマネージメント,dps_fallback,0.0167560321715817,div_split_adjusted,yield_total_fallback_dps
 81510,東陽テクニカ,dps_fallback,0.0362394957983193,,yield_total_fallback_dps
 82600,井筒屋,dps_fallback,0.0115606936416184,div_split_adjusted; div_history_short,yield_total_fallback_dps
@@ -690,9 +691,9 @@
 64450,ジャノメ,dps_fallback,0.0269905533063427,div_split_adjusted,yield_total_fallback_dps
 69290,日本セラミック,dps_fallback,0.0319693094629156,,yield_total_fallback_dps
 30990,三越伊勢丹ホールディングス,dps_fallback,0.0175324675324675,,yield_total_fallback_dps
+30230,ラサ商事,dps_fallback,0.0303925707049387,,yield_total_fallback_dps
 61830,ベルシステム２４ホールディングス,dps_fallback,0.040458530006743,,yield_total_fallback_dps
 60800,Ｍ＆Ａキャピタルパートナーズ,dps_fallback,0.0139304812834224,div_split_adjusted; div_history_short,yield_total_fallback_dps
-30230,ラサ商事,dps_fallback,0.0303925707049387,,yield_total_fallback_dps
 81170,中央自動車工業,dps_fallback,0.0700440528634361,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
 53010,東海カーボン,dps_fallback,0.0269420745397395,,yield_total_fallback_dps
 62370,イワキ,dps_fallback,0.0236886632825719,div_split_adjusted,yield_total_fallback_dps
@@ -705,25 +706,25 @@
 71910,イントラスト,dps_fallback,0.0208507089241034,div_split_adjusted,yield_total_fallback_dps
 33260,ランシステム,dps_fallback,0.0,div_split_adjusted; div_history_short,yield_total_fallback_dps
 34430,川田テクノロジーズ,dps_fallback,0.0262681159420289,div_split_adjusted,yield_total_fallback_dps
-93660,サンリツ,dps_fallback,0.0317948717948717,div_split_adjusted,yield_total_fallback_dps
 22080,ブルボン,dps_fallback,0.0110447761194029,,yield_total_fallback_dps
+93660,サンリツ,dps_fallback,0.0317948717948717,div_split_adjusted,yield_total_fallback_dps
 13800,秋川牧園,dps_fallback,0.0094073377234242,,yield_total_fallback_dps
 20010,ニップン,dps_fallback,0.0230205790024415,div_split_adjusted,yield_total_fallback_dps
 93240,安田倉庫,dps_fallback,0.0137147335423197,,yield_total_fallback_dps
 65550,ＭＳ＆Ｃｏｎｓｕｌｔｉｎｇ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
-40930,東邦アセチレン,dps_fallback,0.0301075268817204,div_split_adjusted,yield_total_fallback_dps
 29700,グッドライフカンパニー,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
+40930,東邦アセチレン,dps_fallback,0.0301075268817204,div_split_adjusted,yield_total_fallback_dps
 52680,旭コンクリート工業,dps_fallback,0.017017017017017,,yield_total_fallback_dps
 36400,電算,dps_fallback,0.0097754293262879,div_split_adjusted,yield_total_fallback_dps
-31560,レスター,dps_fallback,0.0380952380952381,,yield_total_fallback_dps
 49570,ヤスハラケミカル,dps_fallback,0.0087591240875912,,yield_total_fallback_dps
+31560,レスター,dps_fallback,0.0380952380952381,,yield_total_fallback_dps
 50360,日本ビジネスシステムズ,dps_fallback,0.0242424242424242,div_split_adjusted; div_history_short,yield_total_fallback_dps
 97020,アイ・エス・ビー,dps_fallback,0.0270135067533766,div_split_adjusted,yield_total_fallback_dps
 72180,田中精密工業,dps_fallback,0.0252167060677699,div_split_adjusted,yield_total_fallback_dps
-64840,ＫＶＫ,dps_fallback,0.0294117647058823,div_split_adjusted,yield_total_fallback_dps
 70870,ウイルテック,dps_fallback,0.0290275761973875,,yield_total_fallback_dps
-79940,オカムラ,dps_fallback,0.0343818580833942,,yield_total_fallback_dps
+64840,ＫＶＫ,dps_fallback,0.0294117647058823,div_split_adjusted,yield_total_fallback_dps
 28150,アリアケジャパン,dps_fallback,0.0213464696223316,div_split_adjusted,yield_total_fallback_dps
+79940,オカムラ,dps_fallback,0.0343818580833942,,yield_total_fallback_dps
 83490,東北銀行,dps_fallback,0.029940119760479,div_split_adjusted,yield_total_fallback_dps
 52040,石塚硝子,dps_fallback,0.01625,div_split_adjusted,yield_total_fallback_dps
 18790,新日本建設,dps_fallback,0.0254429804634257,div_split_adjusted,yield_total_fallback_dps
@@ -770,29 +771,29 @@
 30940,スーパーバリュー,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
 94780,ＳＥホールディングス・アンド・インキュベーションズ,dps_fallback,0.0076754385964912,div_split_adjusted,yield_total_fallback_dps
 14350,ｒｏｂｏｔ　ｈｏｍｅ,dps_fallback,0.0094339622641509,div_split_adjusted,yield_total_fallback_dps
-64890,前澤工業,dps_fallback,0.0214669051878354,,yield_total_fallback_dps
 49110,資生堂,dps_fallback,0.0121212121212121,,yield_total_fallback_dps
+64890,前澤工業,dps_fallback,0.0214669051878354,,yield_total_fallback_dps
 40940,日本化学産業,dps_fallback,0.0273025118310884,,yield_total_fallback_dps
 31970,すかいらーくホールディングス,dps_fallback,0.0051474680022259,,yield_total_fallback_dps
+34820,ロードスターキャピタル,dps_fallback,0.0184940554821664,div_split_adjusted,yield_total_fallback_dps
 63810,アネスト岩田,dps_fallback,0.0256556442417331,,yield_total_fallback_dps
 98960,ＪＫホールディングス,dps_fallback,0.0288461538461538,,yield_total_fallback_dps
-34820,ロードスターキャピタル,dps_fallback,0.0184940554821664,div_split_adjusted,yield_total_fallback_dps
 64920,岡野バルブ製造,dps_fallback,0.0050709939148073,div_split_adjusted,yield_total_fallback_dps
 26660,オートウェーブ,dps_fallback,0.0169491525423728,div_history_short,yield_total_fallback_dps
 65780,コレックホールディングス,dps_fallback,0.0177383592017738,div_split_adjusted,yield_total_fallback_dps
-41510,協和キリン,dps_fallback,0.0201039861351819,,yield_total_fallback_dps
 94460,サカイホールディングス,dps_fallback,0.0351351351351351,div_split_adjusted,yield_total_fallback_dps
+41510,協和キリン,dps_fallback,0.0201039861351819,,yield_total_fallback_dps
 79440,ローランド,dps_fallback,0.0422360248447205,,yield_total_fallback_dps
-87250,ＭＳ＆ＡＤインシュアランスグループホールディングス,dps_fallback,0.0331352833638025,div_split_adjusted,yield_total_fallback_dps
 68610,キーエンス,dps_fallback,0.0052982137450802,div_split_adjusted,yield_total_fallback_dps
-46290,大伸化学,dps_fallback,0.0222593210907067,,yield_total_fallback_dps
+87250,ＭＳ＆ＡＤインシュアランスグループホールディングス,dps_fallback,0.0331352833638025,div_split_adjusted,yield_total_fallback_dps
 81180,キング,dps_fallback,0.0158450704225352,,yield_total_fallback_dps
+46290,大伸化学,dps_fallback,0.0222593210907067,,yield_total_fallback_dps
 64180,日本金銭機械,dps_fallback,0.0397772474144789,div_split_adjusted,yield_total_fallback_dps
 21480,アイティメディア,dps_fallback,0.0524658971668415,div_split_adjusted,yield_total_fallback_dps
 67630,帝国通信工業,dps_fallback,0.0343642611683848,div_split_adjusted,yield_total_fallback_dps
-64550,モリタホールディングス,dps_fallback,0.0193850267379679,,yield_total_fallback_dps
 67310,ピクセラ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
-51220,オカモト,dps_fallback,0.0196078431372549,div_split_adjusted,yield_total_fallback_dps
+64550,モリタホールディングス,dps_fallback,0.0193850267379679,,yield_total_fallback_dps
+51220,オカモト,dps_fallback,0.0196078431372549,,yield_total_fallback_dps
 35600,ほぼ日,dps_fallback,0.0251396648044692,,yield_total_fallback_dps
 45390,日本ケミファ,dps_fallback,0.0281214848143982,div_split_adjusted,yield_total_fallback_dps
 52730,三谷セキサン,dps_fallback,0.0171324422843256,,yield_total_fallback_dps
@@ -811,8 +812,8 @@
 24330,博報堂ＤＹホールディングス,dps_fallback,0.02732707087959,div_split_adjusted,yield_total_fallback_dps
 58430,ニッポンインシュア,dps_fallback,0.0070527097253155,div_history_short,yield_total_fallback_dps
 20530,中部飼料,dps_fallback,0.0261701056869652,,yield_total_fallback_dps
-59700,ジーテクト,dps_fallback,0.0420899854862119,div_split_adjusted,yield_total_fallback_dps
 39580,笹徳印刷,dps_fallback,0.0341880341880341,div_history_short,yield_total_fallback_dps
+59700,ジーテクト,dps_fallback,0.0420899854862119,div_split_adjusted,yield_total_fallback_dps
 45260,理研ビタミン,dps_fallback,0.0303225806451612,div_split_adjusted,yield_total_fallback_dps
 74820,シモジマ,dps_fallback,0.0361204013377926,,yield_total_fallback_dps
 49760,東洋ドライルーブ,dps_fallback,0.0608365019011406,div_split_adjusted,yield_total_fallback_dps
@@ -825,8 +826,8 @@
 65860,マキタ,dps_fallback,0.0181668042939719,div_split_adjusted,yield_total_fallback_dps
 92200,エフビー介護サービス,dps_fallback,0.0268292682926829,div_history_short,yield_total_fallback_dps
 67750,ＴＢグループ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
-58190,カナレ電気,dps_fallback,0.0266729059429106,,yield_total_fallback_dps
 39320,アカツキ,dps_fallback,0.0308441558441558,,yield_total_fallback_dps
+58190,カナレ電気,dps_fallback,0.0266729059429106,,yield_total_fallback_dps
 99060,藤井産業,dps_fallback,0.031063321385902,,yield_total_fallback_dps
 21520,幼児活動研究会,dps_fallback,0.0154440154440154,div_split_adjusted,yield_total_fallback_dps
 92780,ブックオフグループホールディングス,dps_fallback,0.0130684788290642,,yield_total_fallback_dps
@@ -837,18 +838,18 @@
 78050,プリントネット,dps_fallback,0.0180806675938803,div_history_short,yield_total_fallback_dps
 30750,銚子丸,dps_fallback,0.0074257425742574,div_split_adjusted,yield_total_fallback_dps
 64440,サンデン,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
-42040,積水化学工業,dps_fallback,0.0259101344703181,,yield_total_fallback_dps
 49740,タカラバイオ,dps_fallback,0.014821272885789,div_split_adjusted,yield_total_fallback_dps
+42040,積水化学工業,dps_fallback,0.0259101344703181,,yield_total_fallback_dps
 47630,クリーク・アンド・リバー社,dps_fallback,0.0276280323450134,div_split_adjusted,yield_total_fallback_dps
 98570,英和,dps_fallback,0.0291226792864943,,yield_total_fallback_dps
 97150,トランス・コスモス,dps_fallback,0.0259485924112607,div_split_adjusted,yield_total_fallback_dps
 19140,日本基礎技術,dps_fallback,0.0321285140562249,,yield_total_fallback_dps
-61180,アイダエンジニアリング,dps_fallback,0.0310924369747899,,yield_total_fallback_dps
 29110,旭松食品,dps_fallback,0.0149317406143344,div_split_adjusted,yield_total_fallback_dps
+61180,アイダエンジニアリング,dps_fallback,0.0310924369747899,,yield_total_fallback_dps
 54450,東京鐵鋼,dps_fallback,0.0585023400936037,div_split_adjusted,yield_total_fallback_dps
-90420,阪急阪神ホールディングス,dps_fallback,0.0131723380900109,div_split_adjusted,yield_total_fallback_dps
-60870,アビスト,dps_fallback,0.0294797687861271,div_split_adjusted,yield_total_fallback_dps
 89280,穴吹興産,dps_fallback,0.0199655765920826,div_split_adjusted,yield_total_fallback_dps
+60870,アビスト,dps_fallback,0.0294797687861271,div_split_adjusted,yield_total_fallback_dps
+90420,阪急阪神ホールディングス,dps_fallback,0.0131723380900109,div_split_adjusted,yield_total_fallback_dps
 70850,カーブスホールディングス,dps_fallback,0.0207823960880195,,yield_total_fallback_dps
 95110,沖縄電力,dps_fallback,0.0168067226890756,div_split_adjusted; fcf_payout_extreme:39.80,yield_total_fallback_dps
 53680,日本インシュレーション,dps_fallback,0.0272660280029476,,yield_total_fallback_dps
@@ -856,13 +857,13 @@
 63060,日工,dps_fallback,0.0364880273660205,div_split_adjusted,yield_total_fallback_dps
 31670,ＴＯＫＡＩホールディングス,dps_fallback,0.028052805280528,,yield_total_fallback_dps
 72610,マツダ,dps_fallback,0.0396110911055095,div_split_adjusted,yield_total_fallback_dps
-93360,大栄環境,dps_fallback,0.0124352331606217,div_history_short,yield_total_fallback_dps
 26640,カワチ薬品,dps_fallback,0.0241691842900302,div_split_adjusted,yield_total_fallback_dps
+93360,大栄環境,dps_fallback,0.0124352331606217,div_history_short,yield_total_fallback_dps
 90630,岡山県貨物運送,dps_fallback,0.0145077720207253,div_split_adjusted,yield_total_fallback_dps
 45400,ツムラ,dps_fallback,0.0324582338902147,,yield_total_fallback_dps
 71570,ライフネット生命保険,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
-81500,三信電気,dps_fallback,0.0416666666666666,,yield_total_fallback_dps
 39480,光ビジネスフォーム,dps_fallback,0.029968454258675,,yield_total_fallback_dps
+81500,三信電気,dps_fallback,0.0416666666666666,,yield_total_fallback_dps
 30500,ＤＣＭホールディングス,dps_fallback,0.0264084507042253,,yield_total_fallback_dps
 33060,日本製麻,dps_fallback,0.005641748942172,div_split_adjusted,yield_total_fallback_dps
 72830,愛三工業,dps_fallback,0.0296167247386759,,yield_total_fallback_dps
@@ -882,8 +883,8 @@
 60910,ウエスコホールディングス,dps_fallback,0.0263446761800219,,yield_total_fallback_dps
 81150,ムーンバット,dps_fallback,0.036036036036036,div_split_adjusted,yield_total_fallback_dps
 60590,ウチヤマホールディングス,dps_fallback,0.0252525252525252,div_split_adjusted,yield_total_fallback_dps
-52690,日本コンクリート工業,dps_fallback,0.0361111111111111,,yield_total_fallback_dps
 78230,アートネイチャー,dps_fallback,0.0341047503045067,div_split_adjusted,yield_total_fallback_dps
+52690,日本コンクリート工業,dps_fallback,0.0361111111111111,,yield_total_fallback_dps
 53570,ヨータイ,dps_fallback,0.0447316103379721,,yield_total_fallback_dps
 48140,ネクストウェア,dps_fallback,0.0,div_split_adjusted; div_history_short,yield_total_fallback_dps
 73050,新家工業,dps_fallback,0.0512820512820512,div_split_adjusted,yield_total_fallback_dps
@@ -914,8 +915,8 @@
 52330,太平洋セメント,dps_fallback,0.0178054751836189,div_split_adjusted,yield_total_fallback_dps
 28940,石井食品,dps_fallback,0.0108991825613079,,yield_total_fallback_dps
 21630,アルトナー,dps_fallback,0.0400977995110024,div_split_adjusted,yield_total_fallback_dps
-64880,ヨシタケ,dps_fallback,0.0251396648044692,div_split_adjusted,yield_total_fallback_dps
 45580,中京医薬品,dps_fallback,0.0242718446601941,,yield_total_fallback_dps
+64880,ヨシタケ,dps_fallback,0.0251396648044692,div_split_adjusted,yield_total_fallback_dps
 88910,ＡＭＧホールディングス,dps_fallback,0.0214362272240085,div_split_adjusted,yield_total_fallback_dps
 78640,フジシールインターナショナル,dps_fallback,0.0236111111111111,div_split_adjusted,yield_total_fallback_dps
 65180,三相電機,dps_fallback,0.0206440957886044,div_split_adjusted,yield_total_fallback_dps
@@ -974,12 +975,12 @@
 92020,ＡＮＡホールディングス,dps_fallback,0.0176315016162209,div_split_adjusted,yield_total_fallback_dps
 98690,加藤産業,dps_fallback,0.0204678362573099,,yield_total_fallback_dps
 30580,三洋堂ホールディングス,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
-85960,九州リースサービス,dps_fallback,0.0349143610013175,,yield_total_fallback_dps
 39100,エムケイシステム,dps_fallback,0.0130718954248366,div_split_adjusted,yield_total_fallback_dps
+85960,九州リースサービス,dps_fallback,0.0349143610013175,,yield_total_fallback_dps
 18820,東亜道路工業,dps_fallback,0.0461065573770491,div_split_adjusted,yield_total_fallback_dps
 74610,キムラ,dps_fallback,0.0303030303030303,div_split_adjusted,yield_total_fallback_dps
-20020,日清製粉グループ本社,dps_fallback,0.0251831501831501,div_split_adjusted,yield_total_fallback_dps
 36680,コロプラ,dps_fallback,0.045045045045045,div_split_adjusted,yield_total_fallback_dps
+20020,日清製粉グループ本社,dps_fallback,0.0251831501831501,div_split_adjusted,yield_total_fallback_dps
 92640,ポエック,dps_fallback,0.0394811054709531,,yield_total_fallback_dps
 79560,ピジョン,dps_fallback,0.0440707451435198,div_split_adjusted,yield_total_fallback_dps
 81440,デンキョーグループホールディングス,dps_fallback,0.0285918513223731,div_split_adjusted,yield_total_fallback_dps
@@ -1038,8 +1039,8 @@
 59360,東洋シヤッター,dps_fallback,0.0382678751258811,,yield_total_fallback_dps
 21170,ウェルネオシュガー,dps_fallback,0.0336633663366336,div_split_adjusted,yield_total_fallback_dps
 24750,ＷＤＢホールディングス,dps_fallback,0.0452841973766396,div_split_adjusted,yield_total_fallback_dps
-42430,ニックス,dps_fallback,0.0217864923747276,,yield_total_fallback_dps
 46450,市進ホールディングス,dps_fallback,0.0231481481481481,,yield_total_fallback_dps
+42430,ニックス,dps_fallback,0.0217864923747276,,yield_total_fallback_dps
 21360,ヒップ,dps_fallback,0.0338345864661654,div_split_adjusted,yield_total_fallback_dps
 47510,サイバーエージェント,dps_fallback,0.0123367198838896,,yield_total_fallback_dps
 78460,パイロットコーポレーション,dps_fallback,0.0239754098360655,div_split_adjusted,yield_total_fallback_dps
@@ -1058,8 +1059,8 @@
 59620,浅香工業,dps_fallback,0.0241545893719806,div_split_adjusted,yield_total_fallback_dps
 75610,ハークスレイ,dps_fallback,0.0334620334620334,div_split_adjusted,yield_total_fallback_dps
 28970,日清食品ホールディングス,dps_fallback,0.0212378640776699,div_split_adjusted,yield_total_fallback_dps
-39470,ダイナパック,dps_fallback,0.0275157232704402,div_split_adjusted,yield_total_fallback_dps
 76240,ＮａＩＴＯ,dps_fallback,0.0277777777777777,div_split_adjusted,yield_total_fallback_dps
+39470,ダイナパック,dps_fallback,0.0275157232704402,div_split_adjusted,yield_total_fallback_dps
 32760,ＪＰＭＣ,dps_fallback,0.04,div_split_adjusted,yield_total_fallback_dps
 21790,成学社,dps_fallback,0.0230862697448359,div_split_adjusted,yield_total_fallback_dps
 23530,日本駐車場開発,dps_fallback,0.0278745644599303,div_split_adjusted,yield_total_fallback_dps
@@ -1093,8 +1094,8 @@
 44520,花王,dps_fallback,0.0227749475576865,,yield_total_fallback_dps
 85840,ジャックス,dps_fallback,0.0428893905191873,div_split_adjusted,yield_total_fallback_dps
 97530,アイエックス・ナレッジ,dps_fallback,0.028169014084507,,yield_total_fallback_dps
-49670,小林製薬,dps_fallback,0.0174957118353344,div_split_adjusted,yield_total_fallback_dps
 99280,ミロク情報サービス,dps_fallback,0.0305047143649473,,yield_total_fallback_dps
+49670,小林製薬,dps_fallback,0.0174957118353344,div_split_adjusted,yield_total_fallback_dps
 30480,ビックカメラ,dps_fallback,0.0227209753394292,div_split_adjusted,yield_total_fallback_dps
 89120,エリアクエスト,dps_fallback,0.0175438596491228,div_split_adjusted,yield_total_fallback_dps
 30800,ジェーソン,dps_fallback,0.0169491525423728,,yield_total_fallback_dps
@@ -1109,8 +1110,8 @@
 40720,電算システムホールディングス,dps_fallback,0.0192616372391653,div_history_short,yield_total_fallback_dps
 27980,ワイズテーブルコーポレーション,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
 38170,ＳＲＡホールディングス,dps_fallback,0.0355731225296442,,yield_total_fallback_dps
-74530,良品計画,dps_fallback,0.0139004726160689,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
 66320,ＪＶＣケンウッド,dps_fallback,0.0115340253748558,div_split_adjusted,yield_total_fallback_dps
+74530,良品計画,dps_fallback,0.0139004726160689,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
 77750,大研医器,dps_fallback,0.0482180293501048,div_split_adjusted,yield_total_fallback_dps
 98530,銀座ルノアール,dps_fallback,0.0031347962382445,,yield_total_fallback_dps
 79150,ＮＩＳＳＨＡ,dps_fallback,0.0367107195301027,,yield_total_fallback_dps
@@ -1126,8 +1127,8 @@
 81250,ワキタ,dps_fallback,0.048828125,,yield_total_fallback_dps
 61350,牧野フライス製作所,dps_fallback,0.0154772141014617,div_split_adjusted,yield_total_fallback_dps
 31770,ありがとうサービス,dps_fallback,0.0366350067842605,,yield_total_fallback_dps
-19660,高田工業所,dps_fallback,0.0365153886280646,,yield_total_fallback_dps
 68070,日本航空電子工業,dps_fallback,0.0221975582685904,,yield_total_fallback_dps
+19660,高田工業所,dps_fallback,0.0365153886280646,,yield_total_fallback_dps
 99860,蔵王産業,dps_fallback,0.0378071833648393,,yield_total_fallback_dps
 62870,サトー,dps_fallback,0.03,,yield_total_fallback_dps
 34200,ケー・エフ・シー,dps_fallback,0.0377030162412993,,yield_total_fallback_dps
@@ -1143,8 +1144,8 @@
 94230,フォーバル・リアルストレート,dps_fallback,0.0224137931034482,div_split_adjusted,yield_total_fallback_dps
 40510,ＧＭＯフィナンシャルゲート,dps_fallback,0.0187145557655954,div_split_adjusted,yield_total_fallback_dps
 87690,アドバンテッジリスクマネジメント,dps_fallback,0.0303605313092979,div_split_adjusted,yield_total_fallback_dps
-82550,アクシアル　リテイリング,dps_fallback,0.0206896551724137,div_split_adjusted,yield_total_fallback_dps
 23170,システナ,dps_fallback,0.0271493212669683,div_split_adjusted,yield_total_fallback_dps
+82550,アクシアル　リテイリング,dps_fallback,0.0206896551724137,div_split_adjusted,yield_total_fallback_dps
 45380,扶桑薬品工業,dps_fallback,0.0325655281969817,div_split_adjusted,yield_total_fallback_dps
 25730,北海道コカ・コーラボトリング,dps_fallback,0.0073710073710073,div_split_adjusted,yield_total_fallback_dps
 24180,ツカダ・グローバルホールディング,dps_fallback,0.0157593123209169,div_split_adjusted,yield_total_fallback_dps
@@ -1213,8 +1214,8 @@
 23450,クシム,dps_fallback,0.0,div_split_adjusted,yield_total_fallback_dps
 42450,ダイキアクシス,dps_fallback,0.0310077519379844,div_split_adjusted,yield_total_fallback_dps
 46860,ジャストシステム,dps_fallback,0.0056050955414012,,yield_total_fallback_dps
-43610,川口化学工業,dps_fallback,0.0368098159509202,div_split_adjusted,yield_total_fallback_dps
 36320,グリーホールディングス,dps_fallback,0.0366161616161616,div_split_adjusted,yield_total_fallback_dps
+43610,川口化学工業,dps_fallback,0.0368098159509202,div_split_adjusted,yield_total_fallback_dps
 73660,ＬＩＴＡＬＩＣＯ,dps_fallback,0.0066914498141263,div_split_adjusted; div_history_short,yield_total_fallback_dps
 32410,ウィル,dps_fallback,0.0322033898305084,div_split_adjusted,yield_total_fallback_dps
 87830,ａｂｃ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
@@ -1276,8 +1277,8 @@
 61860,一蔵,dps_fallback,0.0358974358974358,fcf_payout_extreme:19.25,yield_total_fallback_dps
 27630,エフティグループ,dps_fallback,0.0425367362722351,div_split_adjusted,yield_total_fallback_dps
 14380,岐阜造園,dps_fallback,0.0191184280403611,div_history_short,yield_total_fallback_dps
-74350,ナ・デックス,dps_fallback,0.0314285714285714,,yield_total_fallback_dps
 24250,ケアサービス,dps_fallback,0.025,div_split_adjusted,yield_total_fallback_dps
+74350,ナ・デックス,dps_fallback,0.0314285714285714,,yield_total_fallback_dps
 98760,コックス,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
 65520,ＧａｍｅＷｉｔｈ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
 31730,Ｃｏｍｉｎｉｘ,dps_fallback,0.0329341317365269,div_split_adjusted,yield_total_fallback_dps
@@ -1291,8 +1292,8 @@
 97900,福井コンピュータホールディングス,dps_fallback,0.0203784570596797,div_split_adjusted,yield_total_fallback_dps
 71260,グローバルスタイル,dps_fallback,0.0210727969348659,div_split_adjusted; div_history_short,yield_total_fallback_dps
 76340,星医療酸器,dps_fallback,0.0134874759152215,,yield_total_fallback_dps
-72940,ヨロズ,dps_fallback,0.0279783393501805,,yield_total_fallback_dps
 75220,ワタミ,dps_fallback,0.0102459016393442,div_split_adjusted,yield_total_fallback_dps
+72940,ヨロズ,dps_fallback,0.0279783393501805,,yield_total_fallback_dps
 62330,ＫＬＡＳＳ,dps_fallback,0.0246913580246913,,yield_total_fallback_dps
 63910,加地テック,dps_fallback,0.0105263157894736,div_split_adjusted,yield_total_fallback_dps
 38040,システム　ディ,dps_fallback,0.0149625935162094,div_split_adjusted,yield_total_fallback_dps
@@ -1311,8 +1312,8 @@
 47770,ガーラ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
 38410,ジーダット,dps_fallback,0.0333889816360601,div_split_adjusted,yield_total_fallback_dps
 98300,トラスコ中山,dps_fallback,0.0214030915576694,div_split_adjusted,yield_total_fallback_dps
-90210,西日本旅客鉄道,dps_fallback,0.0251937984496124,div_split_adjusted,yield_total_fallback_dps
 73140,小田原機器,dps_fallback,0.0236686390532544,div_split_adjusted,yield_total_fallback_dps
+90210,西日本旅客鉄道,dps_fallback,0.0251937984496124,div_split_adjusted,yield_total_fallback_dps
 96320,スバル興業,dps_fallback,0.0218878248974008,div_split_adjusted,yield_total_fallback_dps
 36610,エムアップホールディングス,dps_fallback,0.0263543191800878,div_split_adjusted,yield_total_fallback_dps
 46850,菱友システムズ,dps_fallback,0.0463215258855585,div_split_adjusted,yield_total_fallback_dps
@@ -1339,10 +1340,10 @@
 81790,ロイヤルホールディングス,dps_fallback,0.02088772845953,div_split_adjusted,yield_total_fallback_dps
 38360,アバントグループ,dps_fallback,0.017531556802244,div_split_adjusted,yield_total_fallback_dps
 39030,ｇｕｍｉ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
-61610,エスティック,dps_fallback,0.0253623188405797,div_split_adjusted,yield_total_fallback_dps
 64250,ユニバーサルエンターテインメント,dps_fallback,0.0402684563758389,,yield_total_fallback_dps
-79800,重松製作所,dps_fallback,0.0167224080267558,,yield_total_fallback_dps
+61610,エスティック,dps_fallback,0.0253623188405797,div_split_adjusted,yield_total_fallback_dps
 42350,ウルトラファブリックス・ホールディングス,dps_fallback,0.0543933054393305,div_split_adjusted,yield_total_fallback_dps
+79800,重松製作所,dps_fallback,0.0167224080267558,,yield_total_fallback_dps
 47840,ＧＭＯインターネット,dps_fallback,0.0089610389610389,div_split_adjusted,yield_total_fallback_dps
 29160,仙波糖化工業,dps_fallback,0.0204081632653061,,yield_total_fallback_dps
 94140,日本ＢＳ放送,dps_fallback,0.0303030303030303,div_split_adjusted,yield_total_fallback_dps
@@ -1370,8 +1371,8 @@
 24130,エムスリー,dps_fallback,0.0122235157159487,div_split_adjusted,yield_total_fallback_dps
 29220,なとり,dps_fallback,0.0121703853955375,,yield_total_fallback_dps
 63670,ダイキン工業,dps_fallback,0.0165704243032889,,yield_total_fallback_dps
-30410,ビューティカダンホールディングス,dps_fallback,0.0101744186046511,div_split_adjusted,yield_total_fallback_dps
 50110,ニチレキグループ,dps_fallback,0.0307377049180327,,yield_total_fallback_dps
+30410,ビューティカダンホールディングス,dps_fallback,0.0101744186046511,div_split_adjusted,yield_total_fallback_dps
 90200,東日本旅客鉄道,dps_fallback,0.0155440414507772,div_split_adjusted,yield_total_fallback_dps
 95170,イーレックス,dps_fallback,0.014945652173913,div_split_adjusted,yield_total_fallback_dps
 92330,アジア航測,dps_fallback,0.0335110434120335,,yield_total_fallback_dps
@@ -1393,8 +1394,8 @@
 61940,アトラエ,dps_fallback,0.0420054200542005,div_history_short,yield_total_fallback_dps
 98900,マキヤ,dps_fallback,0.0200642054574638,,yield_total_fallback_dps
 23950,新日本科学,dps_fallback,0.0293599530240751,div_split_adjusted,yield_total_fallback_dps
-38390,ＯＤＫソリューションズ,dps_fallback,0.015625,div_split_adjusted,yield_total_fallback_dps
 13750,ユキグニファクトリー,dps_fallback,0.013611615245009,,yield_total_fallback_dps
+38390,ＯＤＫソリューションズ,dps_fallback,0.015625,div_split_adjusted,yield_total_fallback_dps
 38580,ユビキタスＡＩ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
 98610,吉野家ホールディングス,dps_fallback,0.0064662140316844,div_split_adjusted,yield_total_fallback_dps
 90480,名古屋鉄道,dps_fallback,0.02087852494577,div_split_adjusted,yield_total_fallback_dps
@@ -1416,8 +1417,8 @@
 41720,東和ハイシステム,dps_fallback,0.0383980181668042,div_history_short,yield_total_fallback_dps
 39350,エディア,dps_fallback,0.009090909090909,div_split_adjusted; div_history_short,yield_total_fallback_dps
 37740,インターネットイニシアティブ,dps_fallback,0.0153643546971027,div_split_adjusted,yield_total_fallback_dps
-36080,ＴＳＩホールディングス,dps_fallback,0.0564726324934839,,yield_total_fallback_dps
 71870,ジェイリース,dps_fallback,0.03125,div_split_adjusted,yield_total_fallback_dps
+36080,ＴＳＩホールディングス,dps_fallback,0.0564726324934839,,yield_total_fallback_dps
 45240,森下仁丹,dps_fallback,0.0233843537414966,div_split_adjusted,yield_total_fallback_dps
 73880,ＦＰパートナー,dps_fallback,0.0376894715280622,div_split_adjusted; div_history_short,yield_total_fallback_dps
 97130,ロイヤルホテル,dps_fallback,0.0053475935828877,div_history_short,yield_total_fallback_dps
@@ -1441,8 +1442,8 @@
 94320,ＮＴＴ,dps_fallback,0.0339204168068043,div_split_adjusted,yield_total_fallback_dps
 45270,ロート製薬,dps_fallback,0.0147420147420147,div_split_adjusted,yield_total_fallback_dps
 47140,リソー教育グループ,dps_fallback,0.0495049504950495,div_split_adjusted,yield_total_fallback_dps
-93250,ファイズホールディングス,dps_fallback,0.0216666666666666,div_split_adjusted; div_history_short,yield_total_fallback_dps
 35370,昭栄薬品,dps_fallback,0.0240592227020357,div_split_adjusted,yield_total_fallback_dps
+93250,ファイズホールディングス,dps_fallback,0.0216666666666666,div_split_adjusted; div_history_short,yield_total_fallback_dps
 44090,東邦化学工業,dps_fallback,0.0254452926208651,,yield_total_fallback_dps
 39550,イムラ,dps_fallback,0.0315457413249211,div_split_adjusted,yield_total_fallback_dps
 33910,ツルハホールディングス,dps_fallback,0.1017142857142857,div_split_adjusted,yield_total_fallback_dps
@@ -1464,8 +1465,8 @@
 25400,養命酒製造,dps_fallback,0.0111386138613861,div_split_adjusted,yield_total_fallback_dps
 82000,リンガーハット,dps_fallback,0.0053380782918149,,yield_total_fallback_dps
 82780,フジ,dps_fallback,0.0143266475644699,,yield_total_fallback_dps
-43350,ＩＰＳホールディングス,dps_fallback,0.0310204081632653,div_split_adjusted,yield_total_fallback_dps
 93390,コーチ・エィ,dps_fallback,0.0160128102481985,div_history_short; fcf_payout_extreme:46.00,yield_total_fallback_dps
+43350,ＩＰＳホールディングス,dps_fallback,0.0310204081632653,div_split_adjusted,yield_total_fallback_dps
 91600,ノバレーゼ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
 21270,日本Ｍ＆Ａセンターホールディングス,dps_fallback,0.040127299723488,div_split_adjusted,yield_total_fallback_dps
 49010,富士フイルムホールディングス,dps_fallback,0.0200369913686806,div_split_adjusted,yield_total_fallback_dps
@@ -1528,8 +1529,8 @@
 37120,情報企画,dps_fallback,0.0212962962962962,div_split_adjusted,yield_total_fallback_dps
 74380,コンドーテック,dps_fallback,0.0296965784377017,div_split_adjusted,yield_total_fallback_dps
 96270,アインホールディングス,dps_fallback,0.012965964343598,div_split_adjusted,yield_total_fallback_dps
-66540,不二電機工業,dps_fallback,0.0286995515695067,,yield_total_fallback_dps
 58380,楽天銀行,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
+66540,不二電機工業,dps_fallback,0.0286995515695067,,yield_total_fallback_dps
 44330,ヒト・コミュニケーションズ・ホールディングス,dps_fallback,0.0383817427385892,div_split_adjusted,yield_total_fallback_dps
 25900,ダイドーグループホールディングス,dps_fallback,0.0153846153846153,div_split_adjusted,yield_total_fallback_dps
 39850,テモナ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
@@ -1592,8 +1593,8 @@
 39830,オロ,dps_fallback,0.0175350701402805,div_split_adjusted,yield_total_fallback_dps
 65260,ソシオネクスト,dps_fallback,0.0247096614776377,div_split_adjusted; div_history_short,yield_total_fallback_dps
 44490,ギフティ,dps_fallback,0.0096618357487922,div_history_short,yield_total_fallback_dps
-78130,プラッツ,dps_fallback,0.0225,div_split_adjusted,yield_total_fallback_dps
 60780,バリューＨＲ,dps_fallback,0.0174459176552686,div_split_adjusted,yield_total_fallback_dps
+78130,プラッツ,dps_fallback,0.0225,div_split_adjusted,yield_total_fallback_dps
 81130,ユニ・チャーム,dps_fallback,0.0411407199625993,div_split_adjusted; yield_split_mismatch,yield_total_fallback_dps
 24880,ＪＴＰ,dps_fallback,0.0325396825396825,div_split_adjusted,yield_total_fallback_dps
 27360,フェスタリアホールディングス,dps_fallback,0.0110584518167456,div_split_adjusted,yield_total_fallback_dps
@@ -1615,8 +1616,8 @@
 94180,Ｕ−ＮＥＸＴ　ＨＯＬＤＩＮＧＳ,dps_fallback,0.0083288554540569,div_split_adjusted,yield_total_fallback_dps
 36070,クラウディアホールディングス,dps_fallback,0.0288184438040345,div_split_adjusted,yield_total_fallback_dps
 39160,デジタル・インフォメーション・テクノロジー,dps_fallback,0.0683760683760683,div_split_adjusted,yield_total_fallback_dps
-21620,ｎｍｓ　ホールディングス,dps_fallback,0.0308370044052863,div_split_adjusted,yield_total_fallback_dps
 40160,ＭＩＴホールディングス,dps_fallback,0.0205627705627705,,yield_total_fallback_dps
+21620,ｎｍｓ　ホールディングス,dps_fallback,0.0308370044052863,div_split_adjusted,yield_total_fallback_dps
 24610,ファンコミュニケーションズ,dps_fallback,0.0397489539748954,div_split_adjusted,yield_total_fallback_dps
 55710,エキサイトホールディングス,dps_fallback,0.0278035217794253,div_history_short,yield_total_fallback_dps
 18730,日本ハウスホールディングス,dps_fallback,0.0338461538461538,,yield_total_fallback_dps
@@ -1627,8 +1628,8 @@
 74750,アルビス,dps_fallback,0.0252434186801298,div_split_adjusted,yield_total_fallback_dps
 79380,リーガルコーポレーション,dps_fallback,0.0307125307125307,div_split_adjusted,yield_total_fallback_dps
 39960,サインポスト,dps_fallback,0.0,div_split_adjusted; div_history_short,yield_total_fallback_dps
-28720,セイヒョー,dps_fallback,0.0086872586872586,div_split_adjusted,yield_total_fallback_dps
 85180,日本アジア投資,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
+28720,セイヒョー,dps_fallback,0.0086872586872586,div_split_adjusted,yield_total_fallback_dps
 58710,ＳＯＬＩＺＥ　Ｈｏｌｄｉｎｇｓ,dps_fallback,0.0333333333333333,div_history_short,yield_total_fallback_dps
 66340,ネクスグループ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
 60960,レアジョブ,dps_fallback,0.0161812297734627,div_split_adjusted; div_history_short,yield_total_fallback_dps
@@ -1642,10 +1643,10 @@
 27350,ワッツ,dps_fallback,0.0343283582089552,div_split_adjusted,yield_total_fallback_dps
 24280,ウェルネット,dps_fallback,0.0427098674521354,div_split_adjusted,yield_total_fallback_dps
 67860,ＲＶＨ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
-93620,兵機海運,dps_fallback,0.0312075983717774,div_split_adjusted,yield_total_fallback_dps
 49140,高砂香料工業,dps_fallback,0.1734104046242774,div_split_adjusted,yield_total_fallback_dps
-31980,ＳＦＰホールディングス,dps_fallback,0.0118938700823421,,yield_total_fallback_dps
+93620,兵機海運,dps_fallback,0.0312075983717774,div_split_adjusted,yield_total_fallback_dps
 37530,フライトソリューションズ,dps_fallback,0.0,div_history_short,yield_total_fallback_dps
+31980,ＳＦＰホールディングス,dps_fallback,0.0118938700823421,,yield_total_fallback_dps
 24770,手間いらず,dps_fallback,0.012790306294177,div_split_adjusted,yield_total_fallback_dps
 74470,ナガイレーベン,dps_fallback,0.0549450549450549,div_split_adjusted,yield_total_fallback_dps
 30280,アルペン,dps_fallback,0.0224921277552856,,yield_total_fallback_dps

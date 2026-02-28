@@ -99,8 +99,8 @@
 80430,スターゼン,dps_fallback,0.08,high_yield_risk; yf_high_yield
 74640,セフテック,dps_fallback,0.04938988959907031,yf_high_yield
 54640,モリ工業,fwd,0.20568070519098922,high_yield_risk; yf_high_yield
-36330,ＧＭＯペパボ,fwd,0.04685212298682284,yf_high_yield
 78790,ノダ,dps_fallback,0.060455192034139404,high_yield_risk; yf_high_yield
+36330,ＧＭＯペパボ,fwd,0.04685212298682284,yf_high_yield
 78330,アイフィスジャパン,fwd,0.04512893982808023,yf_high_yield
 29320,ＳＴＩフードホールディングス,dps_fallback,0.09331259720062209,high_yield_risk; yf_high_yield
 19720,三晃金属工業,fwd,0.046215673141326186,yf_high_yield
@@ -132,7 +132,7 @@
 98890,ＪＢＣＣホールディングス,dps_fallback,0.09896602658788774,high_yield_risk; yf_high_yield
 93050,ヤマタネ,dps_fallback,0.04516129032258064,yf_high_yield
 64640,ツバキ・ナカシマ,dps_fallback,0.06983240223463687,high_yield_risk; yf_high_yield
-96020,東宝,dps_fallback,0.054313099041533544,yf_high_yield
+96020,東宝,fwd,0.054313099041533544,yf_high_yield
 39160,デジタル・インフォメーション・テクノロジー,dps_fallback,0.06837606837606838,high_yield_risk; yf_high_yield
 34310,宮地エンジニアリンググループ,actual,0.05019424388693845,yf_high_yield
 82730,イズミ,dps_fallback,0.08670520231213873,high_yield_risk; yf_high_yield

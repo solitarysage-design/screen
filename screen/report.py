@@ -1,6 +1,7 @@
 """HTML レポート生成 - ソート可能テーブル版."""
 from __future__ import annotations
 
+import base64
 import json
 import math
 from datetime import date
@@ -491,6 +492,35 @@ document.addEventListener('DOMContentLoaded', () => {
 """
 
 
+# ── CSV download buttons ──────────────────────────────────────────────────────
+
+_DOWNLOAD_FILES = [
+    ("candidates_fixed_v2_6.csv", "Full Candidates (GPT用)"),
+    ("core_verified_top30_v2_6.csv", "Core Verified Top30"),
+    ("manual_shares_check_queue_v2_6.csv", "Manual Shares Queue"),
+    ("manual_dividend_check_queue_v2_6.csv", "Manual Dividend Queue"),
+    ("data_fill_queue_v2_6.csv", "Data Fill Queue"),
+    ("weekly_delta_report_v2_6.csv", "Delta Report"),
+    ("holdings_debug_v2_6.csv", "Holdings Debug"),
+]
+
+
+def _build_download_buttons(output_dir: Path) -> str:
+    buttons = []
+    for filename, label in _DOWNLOAD_FILES:
+        path = output_dir / filename
+        if path.exists():
+            b64 = base64.b64encode(path.read_bytes()).decode("ascii")
+            buttons.append(
+                f'<a class="dl-btn" '
+                f'href="data:text/csv;base64,{b64}" '
+                f'download="{filename}">'
+                f'{label}'
+                f'</a>'
+            )
+    return "\n".join(buttons)
+
+
 # ── write_html ────────────────────────────────────────────────────────────────
 
 def write_html(df: pd.DataFrame, asof: date, output_dir: Path) -> Path:
@@ -520,6 +550,13 @@ def write_html(df: pd.DataFrame, asof: date, output_dir: Path) -> Path:
 .filter-btn {{ background:#fff; color:#475569; border:1.5px solid #cbd5e1; border-radius:7px; padding:6px 14px; font-size:0.82rem; cursor:pointer; font-weight:600; }}
 .filter-btn:hover {{ background:#f1f5f9; }}
 .filter-btn.active-filter {{ background:#3b82f6; color:#fff; border-color:#3b82f6; }}
+.dl-section {{ display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px; }}
+.dl-btn {{
+  display:inline-block; padding:7px 16px; background:#3b82f6; color:#fff;
+  text-decoration:none; border-radius:7px; font-size:0.82rem; font-weight:600;
+  transition:opacity .2s;
+}}
+.dl-btn:hover {{ opacity:0.85; }}
 </style>
 </head>
 <body>
@@ -541,6 +578,10 @@ def write_html(df: pd.DataFrame, asof: date, output_dir: Path) -> Path:
   <button class="filter-btn" id="filter-satellite" onclick="setFilter('satellite')">Satellite ({n_sat})</button>
   <span style="flex:1"></span>
   <button class="btn btn-outline" onclick="openModal()">📋 スクリーニング条件</button>
+</div>
+
+<div class="dl-section">
+{_build_download_buttons(output_dir)}
 </div>
 
 <div class="tbl-wrap">

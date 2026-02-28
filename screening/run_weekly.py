@@ -329,9 +329,17 @@ def main() -> None:
     with open(latest_kpi, "w", encoding="utf-8") as f:
         json.dump(kpi, f, ensure_ascii=False, indent=2)
 
-    # 12. Generate HTML report
-    from screening.build_report import build_html_report
-    report_path = build_html_report(output_dir, kpi)
+    # 12. Generate HTML report (interactive sortable table)
+    from screen.report import write_html
+    candidates_csv = output_dir / "candidates_fixed_v2_6.csv"
+    if candidates_csv.exists():
+        cand_df = pd.read_csv(candidates_csv)
+        asof_date = date.fromisoformat(kpi.get("date", str(date.today())))
+        report_path = write_html(cand_df, asof_date, output_dir)
+    else:
+        logger.warning("candidates_fixed_v2_6.csv not found — falling back to old report")
+        from screening.build_report import build_html_report
+        report_path = build_html_report(output_dir, kpi)
     # Copy report to latest/
     shutil.copy2(str(report_path), str(OUTPUTS_ROOT / "latest" / "report.html"))
 

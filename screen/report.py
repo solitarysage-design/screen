@@ -21,6 +21,26 @@ def _safe_float(val) -> float | None:
         return None
 
 
+def _market_cap(row) -> float | None:
+    price = _safe_float(row.get("price"))
+    shares = _safe_float(row.get("net_shares_latest"))
+    if price is None or shares is None:
+        return None
+    return price * shares
+
+
+def _fiscal_month(row) -> int | None:
+    raw = row.get("fiscal_month")
+    if raw is not None:
+        try:
+            v = int(float(raw))
+            if 1 <= v <= 12:
+                return v
+        except (TypeError, ValueError):
+            pass
+    return None
+
+
 def _row_to_dict(row) -> dict:
     code_raw = str(row.get("code", ""))
     code_disp = (
@@ -33,6 +53,8 @@ def _row_to_dict(row) -> dict:
         "code_disp": code_disp,
         "name": str(row.get("Name") or "—"),
         "sector": str(row.get("Sector33CodeName") or row.get("sector33") or "—"),
+        "market_cap": _market_cap(row),
+        "fiscal_month": _fiscal_month(row),
         "composite_score": _safe_float(row.get("composite_score")),
         "rs_percentile": _safe_float(row.get("rs_percentile")),
         "dividend_yield_fwd": _safe_float(row.get("dividend_yield_fwd")),
@@ -204,8 +226,25 @@ tr.detail-row td { padding: 0; border-bottom: 2px solid #e2e8f0; }
 .modal-close:hover { color: #1e293b; }
 
 @media (max-width: 700px) {
-  .detail-inner { flex-direction: column; }
+  body { padding: 10px; }
+  h1 { font-size: 1.1rem; }
+  .summary-bar { gap: 6px; }
+  .stat-box { padding: 6px 10px; }
+  .stat-box .num { font-size: 1.2rem; }
+  .stat-box .lbl { font-size: 0.65rem; }
+  .controls { gap: 6px; }
+  .filter-btn, .btn { padding: 5px 10px; font-size: 0.75rem; }
+  table { font-size: 0.72rem; }
+  thead th { padding: 6px 6px; font-size: 0.72rem; }
+  td { padding: 6px 6px; }
+  td.code-cell { font-size: 0.78rem; }
+  td.name-cell { font-size: 0.72rem; max-width: 120px; }
+  td.sector-cell { font-size: 0.65rem; }
+  .sbar-wrap { min-width: 60px; height: 16px; }
+  .sbar-val { font-size: 0.62rem; }
+  .detail-inner { flex-direction: column; padding: 10px 12px; }
   .detail-col { min-width: 100%; }
+  .modal { padding: 18px 16px; }
 }
 """
 
@@ -223,6 +262,13 @@ let expandedIdx = null;
 const fmt = (v, digits=1) => v == null ? '—' : v.toFixed(digits);
 const fmtPct = (v) => v == null ? '—' : (v*100).toFixed(1)+'%';
 const fmtNum = (v) => v == null ? '—' : v.toLocaleString('ja-JP', {maximumFractionDigits:0});
+const fmtCap = (v) => {
+  if (v == null) return '—';
+  if (v >= 1e12) return (v/1e12).toFixed(1) + '兆';
+  if (v >= 1e8)  return (v/1e8).toFixed(0) + '億';
+  return fmtNum(v);
+};
+const fmtMonth = (v) => v == null ? '—' : v + '月';
 
 function rsClass(v) {
   if (v == null) return '';
@@ -361,6 +407,8 @@ function render() {
       <td class="td-left code-cell">${row.code_disp}</td>
       <td class="td-left name-cell" title="${row.name}">${row.name}</td>
       <td class="td-left sector-cell">${row.sector}</td>
+      <td>${fmtCap(row.market_cap)}</td>
+      <td>${fmtMonth(row.fiscal_month)}</td>
       <td>${scoreBar(row.composite_score)}</td>
       <td class="${rsClass(row.rs_percentile)}">${fmt(row.rs_percentile,1)}</td>
       <td>${yieldCell(row.dividend_yield_fwd, row.high_yield_risk)}</td>
@@ -379,7 +427,7 @@ function render() {
     dtr.className = 'detail-row';
     dtr.dataset.detail = i;
     const dtd = document.createElement('td');
-    dtd.colSpan = 13;
+    dtd.colSpan = 15;
     dtd.innerHTML = detailHtml(row);
     dtr.appendChild(dtd);
     tbody.appendChild(dtr);
@@ -503,6 +551,8 @@ def write_html(df: pd.DataFrame, asof: date, output_dir: Path) -> Path:
   <th class="th-left" style="width:52px">コード</th>
   <th class="th-left" style="min-width:120px">銘柄名</th>
   <th class="th-left" style="min-width:80px">セクター</th>
+  <th data-col="market_cap"       style="min-width:72px">時価総額</th>
+  <th data-col="fiscal_month"     style="min-width:52px">決算月</th>
   <th data-col="composite_score"  style="min-width:100px">スコア</th>
   <th data-col="rs_percentile"    style="min-width:64px">RS%ile</th>
   <th data-col="dividend_yield_fwd" style="min-width:72px">配当利回り</th>

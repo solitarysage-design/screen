@@ -1,0 +1,127 @@
+name: Regenerate Report & Notify Slack
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: |
+          pip install -r requirements.txt
+          pip install -e .
+
+      # Download latest screening artifact
+      - name: Download latest artifacts
+        uses: dawidd6/action-download-artifact@v6
+        with:
+          workflow: weekly_screen.yml
+          name: weekly-screen-output
+          path: outputs/latest
+          search_artifacts: true
+
+      # Regenerate HTML report from existing CSV
+      - name: Regenerate HTML report
+        run: |
+          python -c "
+          import pandas as pd
+          from pathlib import Path
+          from datetime import date
+          import json
+
+          latest = Path('outputs/latest')
+          csv_path = latest / 'candidates_fixed_v2_6.csv'
+          kpi_path = latest / 'kpi_summary.json'
+
+          if not csv_path.exists():
+              raise FileNotFoundError(f'{csv_path} not found in artifact')
+
+          df = pd.read_csv(csv_path)
+          kpi = json.load(open(kpi_path)) if kpi_path.exists() else {}
+          asof = date.fromisoformat(kpi.get('date', str(date.today())))
+
+          from screen.report import write_html
+          out = write_html(df, asof, latest)
+          print(f'Report generated: {out} ({out.stat().st_size:,} bytes)')
+          "
+
+      # Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./outputs/latest
+          keep_files: false
+
+      # Slack notification
+      - name: Slack notification
+        if: always() && env.SLACK_WEBHOOK_URL != ''
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          python -c "
+          import json, os, urllib.request
+          kpi_file = 'outputs/latest/kpi_summary.json'
+          if os.path.exists(kpi_file):
+              kpi = json.load(open(kpi_file))
+          else:
+              kpi = {'status': 'unknown'}
+
+          repo = '${{ github.repository }}'
+          run_url = f'https://github.com/{repo}/actions/runs/${{ github.run_id }}'
+          pages_url = f'https://{repo.split(\"/\")[0]}.github.io/{repo.split(\"/\")[1]}/report.html'
+
+          msg = {
+              'blocks': [
+                  {
+                      'type': 'header',
+                      'text': {'type': 'plain_text', 'text': ':arrows_counterclockwise: Report Regenerated'}
+                  },
+                  {
+                      'type': 'section',
+                      'fields': [
+                          {'type': 'mrkdwn', 'text': f'*Core Verified:* {kpi.get(\"core_pass_verified\", \"?\")}'},
+                          {'type': 'mrkdwn', 'text': f'*Shares Queue:* {kpi.get(\"manual_shares_check\", \"?\")}'},
+                          {'type': 'mrkdwn', 'text': f'*Dividend Queue:* {kpi.get(\"manual_dividend_check\", \"?\")}'},
+                          {'type': 'mrkdwn', 'text': f'*Data Fill:* {kpi.get(\"data_fill\", \"?\")}'},
+                      ]
+                  },
+                  {
+                      'type': 'actions',
+                      'elements': [
+                          {
+                              'type': 'button',
+                              'text': {'type': 'plain_text', 'text': 'View Report'},
+                              'url': pages_url,
+                              'style': 'primary'
+                          },
+                          {
+                              'type': 'button',
+                              'text': {'type': 'plain_text', 'text': 'Actions Run'},
+                              'url': run_url
+                          }
+                      ]
+                  }
+              ]
+          }
+          req = urllib.request.Request(
+              os.environ['SLACK_WEBHOOK_URL'],
+              data=json.dumps(msg).encode(),
+              headers={'Content-Type': 'application/json'},
+              method='POST'
+          )
+          urllib.request.urlopen(req)
+          "

@@ -243,6 +243,13 @@ def compute_fundamentals_metrics(fund_df: pd.DataFrame) -> pd.DataFrame:
         dps_actual = r.get("dps_actual_annual")
         shares_annual = r.get("shares_annual")
         jq_fy_dates = r.get("jq_fy_dates") or []
+        # Extract fiscal year-end month from the most recent FY date
+        fiscal_month: int | None = None
+        if jq_fy_dates:
+            try:
+                fiscal_month = pd.to_datetime(jq_fy_dates[0]).month
+            except Exception:
+                pass
         quality_flags: list[str] = list(r.get("data_quality_flags") or [])
 
         # ── A) Dividend history: multi-source ────────────────────────────
@@ -328,6 +335,7 @@ def compute_fundamentals_metrics(fund_df: pd.DataFrame) -> pd.DataFrame:
             "bps_latest": _safe(r.get("bps_latest")),
             "eps_fwd": _safe(r.get("eps_fwd")),
             "net_shares_latest": _safe(r.get("net_shares_latest")),
+            "fiscal_month": fiscal_month,
             "eps_q_list": r.get("eps_q_list"),
             "metrics_coverage": round(cov, 2),
             "data_quality_flags": quality_flags,

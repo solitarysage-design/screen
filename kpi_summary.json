@@ -1,0 +1,11 @@
+{
+  "date": "2026-02-28",
+  "status": "success",
+  "total_candidates": 3089,
+  "core_pass_verified": 72,
+  "core_buyable_now_verified": 61,
+  "manual_shares_check": 846,
+  "manual_dividend_check": 160,
+  "data_fill": 908,
+  "elapsed_seconds": 4478.6
+}

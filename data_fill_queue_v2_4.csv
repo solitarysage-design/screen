@@ -1,1262 +1,1264 @@
 ﻿code,Name,yield_basis,data_fill_reason
-58170,ＪＭＡＣＳ,none,missing_dps; missing_total_div; missing_shares
-78850,タカノ,none,missing_dps; missing_total_div; missing_shares
-45030,アステラス製薬,none,missing_dps; missing_total_div; missing_shares
 57070,東邦亜鉛,none,missing_dps; missing_total_div; missing_shares
-45060,住友ファーマ,none,missing_dps; missing_total_div; missing_shares
-68400,ＡＫＩＢＡホールディングス,none,missing_dps; missing_total_div; missing_shares
 34440,菊池製作所,none,missing_dps; missing_total_div; missing_shares
-69970,日本ケミコン,none,missing_total_div; missing_shares
+58170,ＪＭＡＣＳ,none,missing_dps; missing_total_div; missing_shares
+45030,アステラス製薬,none,missing_dps; missing_total_div; missing_shares
+78850,タカノ,none,missing_dps; missing_total_div; missing_shares
+63560,日本ギア工業,none,missing_dps; missing_total_div; missing_shares
 42220,児玉化学工業,none,missing_dps; missing_total_div; missing_shares
-59400,不二サッシ,none,missing_total_div; missing_shares
-67400,ジャパンディスプレイ,none,missing_dps; missing_total_div; missing_shares
-98540,愛眼,none,missing_dps; missing_total_div; missing_shares
-51620,朝日ラバー,none,missing_dps; missing_total_div; missing_shares
+68400,ＡＫＩＢＡホールディングス,none,missing_dps; missing_total_div; missing_shares
 99550,ヨンキュウ,none,missing_total_div; missing_shares
-17230,日本電技,none,missing_dps; missing_total_div; missing_shares
+63840,昭和真空,none,missing_dps; missing_total_div; missing_shares
+67400,ジャパンディスプレイ,none,missing_dps; missing_total_div; missing_shares
+45060,住友ファーマ,none,missing_dps; missing_total_div; missing_shares
+98540,愛眼,none,missing_dps; missing_total_div; missing_shares
+59400,不二サッシ,none,missing_total_div; missing_shares
 64730,ジェイテクト,none,missing_dps; missing_total_div; missing_shares
 43680,扶桑化学工業,none,missing_total_div; missing_shares
+69970,日本ケミコン,none,missing_total_div; missing_shares
 68550,日本電子材料,none,missing_total_div; missing_shares
+45560,カイノス,none,missing_total_div; missing_shares
+95320,大阪瓦斯,none,missing_dps; missing_total_div; missing_shares
 29620,テクニスコ,none,missing_dps; missing_total_div; missing_shares
+68900,フェローテック,none,missing_total_div; missing_shares
 72560,河西工業,none,missing_dps; missing_total_div; missing_shares
 19420,関電工,none,missing_total_div; missing_shares
 41070,伊勢化学工業,none,missing_total_div; missing_shares
-45560,カイノス,none,missing_total_div; missing_shares
-63840,昭和真空,none,missing_dps; missing_total_div; missing_shares
-68900,フェローテック,none,missing_total_div; missing_shares
-64940,ＮＦＫホールディングス,none,missing_dps; missing_total_div; missing_shares
 71730,東京きらぼしフィナンシャルグループ,none,missing_total_div; missing_shares
-95360,西部ガスホールディングス,none,missing_dps; missing_total_div; missing_shares
-66270,テラプローブ,none,missing_total_div; missing_shares
 78870,南海プライウッド,none,missing_dps; missing_total_div; missing_shares
-63560,日本ギア工業,none,missing_dps; missing_total_div; missing_shares
-59830,イワブチ,none,missing_total_div; missing_shares
-65920,マブチモーター,none,missing_dps; missing_total_div; missing_shares
-50200,ＥＮＥＯＳホールディングス,none,missing_dps; missing_total_div; missing_shares
-63470,プラコー,none,missing_dps; missing_total_div; missing_shares
+77950,ＫＹＯＲＩＴＳＵ,none,missing_total_div; missing_shares
 88300,住友不動産,none,missing_dps; missing_total_div; missing_shares
-69990,ＫＯＡ,none,missing_dps; missing_total_div; missing_shares
-95320,大阪瓦斯,none,missing_dps; missing_total_div; missing_shares
-65900,芝浦メカトロニクス,none,missing_total_div; missing_shares
-70030,三井Ｅ＆Ｓ,none,missing_total_div; missing_shares
+38450,アイフリークモバイル,none,missing_dps; missing_total_div; missing_shares
+50200,ＥＮＥＯＳホールディングス,none,missing_dps; missing_total_div; missing_shares
+66270,テラプローブ,none,missing_total_div; missing_shares
+42740,細谷火工,none,missing_total_div; missing_shares
+67410,日本信号,none,missing_total_div; missing_shares
+63470,プラコー,none,missing_dps; missing_total_div; missing_shares
+65920,マブチモーター,none,missing_dps; missing_total_div; missing_shares
+59730,トーアミ,none,missing_dps; missing_total_div; missing_shares
+66430,戸上電機製作所,none,missing_total_div; missing_shares
 83670,南都銀行,none,missing_total_div; missing_shares
+65900,芝浦メカトロニクス,none,missing_total_div; missing_shares
+46590,エイジス,none,missing_dps; missing_total_div; missing_shares
+18270,ナカノフドー建設,none,missing_total_div; missing_shares
+69990,ＫＯＡ,none,missing_dps; missing_total_div; missing_shares
+19820,日比谷総合設備,none,missing_dps; missing_total_div; missing_shares
+70030,三井Ｅ＆Ｓ,none,missing_total_div; missing_shares
+51620,朝日ラバー,none,missing_dps; missing_total_div; missing_shares
+98450,パーカーコーポレーション,none,missing_dps; missing_total_div; missing_shares
+63700,栗田工業,none,missing_dps; missing_total_div; missing_shares
+95360,西部ガスホールディングス,none,missing_dps; missing_total_div; missing_shares
+63150,ＴＯＷＡ,none,missing_total_div; missing_shares
+17230,日本電技,none,missing_dps; missing_total_div; missing_shares
+38910,ニッポン高度紙工業,none,missing_total_div; missing_shares
+66760,バッファロー,none,missing_total_div; missing_shares
+87420,小林洋行,none,missing_total_div; missing_shares
+59740,中国工業,none,missing_total_div; missing_shares
+83450,岩手銀行,none,missing_total_div; missing_shares
+34460,ジェイテックコーポレーション,none,missing_dps; missing_total_div; missing_shares
+18030,清水建設,none,missing_total_div; missing_shares
+79460,光陽社,none,missing_total_div; missing_shares
+66250,ＪＡＬＣＯホールディングス,none,missing_dps; missing_total_div; missing_shares
+79370,ツツミ,none,missing_total_div; missing_shares
+49720,綜研化学,none,missing_dps; missing_total_div; missing_shares
+85240,北洋銀行,none,missing_total_div; missing_shares
+41870,大阪有機化学工業,none,missing_total_div; missing_shares
+80150,豊田通商,none,missing_total_div; missing_shares
+64940,ＮＦＫホールディングス,none,missing_dps; missing_total_div; missing_shares
+21080,日本甜菜製糖,none,missing_dps; missing_total_div; missing_shares
+40080,住友精化,none,missing_dps; missing_total_div; missing_shares
+54760,日本高周波鋼業,none,missing_dps; missing_total_div; missing_shares
+30210,パシフィックネット,none,missing_total_div; missing_shares
+59830,イワブチ,none,missing_total_div; missing_shares
+71920,日本モーゲージサービス,none,missing_total_div; missing_shares
+79010,マツモト,none,missing_dps; missing_total_div; missing_shares
+19520,新日本空調,none,missing_dps; missing_total_div; missing_shares
+45280,小野薬品工業,none,missing_dps; missing_total_div; missing_shares
+24370,Ｓｈｉｎｗａ　Ｗｉｓｅ　Ｈｏｌｄｉｎｇｓ,none,missing_dps; missing_total_div; missing_shares
+78170,パラマウントベッドホールディングス,none,missing_total_div; missing_shares
+96000,アイネット,none,missing_total_div; missing_shares
+97820,ディーエムエス,none,missing_total_div; missing_shares
+81540,加賀電子,none,missing_dps; missing_total_div; missing_shares
+97760,札幌臨床検査センター,none,missing_dps; missing_total_div; missing_shares
+74500,サンデー,none,missing_dps; missing_total_div; missing_shares
+95130,電源開発,none,missing_dps; missing_total_div; missing_shares
+79660,リンテック,none,missing_dps; missing_total_div; missing_shares
+42310,タイガースポリマー,none,missing_total_div; missing_shares
+74770,ムラキ,none,missing_total_div; missing_shares
+29030,シノブフーズ,none,missing_dps; missing_total_div; missing_shares
+93010,三菱倉庫,none,missing_dps; missing_total_div; missing_shares
+22640,森永乳業,none,missing_dps; missing_total_div; missing_shares
+46200,藤倉化成,none,missing_dps; missing_total_div; missing_shares
+66480,かわでん,none,missing_total_div; missing_shares
+71860,横浜フィナンシャルグループ,none,missing_total_div; missing_shares
 83610,大垣共立銀行,none,missing_dps; missing_total_div; missing_shares
 74560,松田産業,none,missing_total_div; missing_shares
-18270,ナカノフドー建設,none,missing_total_div; missing_shares
-79010,マツモト,none,missing_dps; missing_total_div; missing_shares
-77950,ＫＹＯＲＩＴＳＵ,none,missing_total_div; missing_shares
-38450,アイフリークモバイル,none,missing_dps; missing_total_div; missing_shares
-67410,日本信号,none,missing_total_div; missing_shares
-85240,北洋銀行,none,missing_total_div; missing_shares
-83450,岩手銀行,none,missing_total_div; missing_shares
-38910,ニッポン高度紙工業,none,missing_total_div; missing_shares
-63700,栗田工業,none,missing_dps; missing_total_div; missing_shares
-22640,森永乳業,none,missing_dps; missing_total_div; missing_shares
-17580,太洋基礎工業,none,missing_dps; missing_total_div; missing_shares
-19820,日比谷総合設備,none,missing_dps; missing_total_div; missing_shares
-98450,パーカーコーポレーション,none,missing_dps; missing_total_div; missing_shares
-79460,光陽社,none,missing_total_div; missing_shares
-86090,岡三証券グループ,none,missing_total_div; missing_shares
-18030,清水建設,none,missing_total_div; missing_shares
-41870,大阪有機化学工業,none,missing_total_div; missing_shares
-60130,タクマ,none,missing_total_div; missing_shares
-80150,豊田通商,none,missing_total_div; missing_shares
-46590,エイジス,none,missing_dps; missing_total_div; missing_shares
-19520,新日本空調,none,missing_dps; missing_total_div; missing_shares
-62350,オプトラン,none,missing_dps; missing_total_div; missing_shares
-34460,ジェイテックコーポレーション,none,missing_dps; missing_total_div; missing_shares
-18010,大成建設,none,missing_total_div; missing_shares
-59740,中国工業,none,missing_total_div; missing_shares
-66430,戸上電機製作所,none,missing_total_div; missing_shares
-26070,不二製油,none,missing_dps; missing_total_div; missing_shares
-42310,タイガースポリマー,none,missing_total_div; missing_shares
-49720,綜研化学,none,missing_dps; missing_total_div; missing_shares
-65070,シンフォニアテクノロジー,none,missing_total_div; missing_shares
-40080,住友精化,none,missing_dps; missing_total_div; missing_shares
-78170,パラマウントベッドホールディングス,none,missing_total_div; missing_shares
-71920,日本モーゲージサービス,none,missing_total_div; missing_shares
-30210,パシフィックネット,none,missing_total_div; missing_shares
-79660,リンテック,none,missing_dps; missing_total_div; missing_shares
-96000,アイネット,none,missing_total_div; missing_shares
-66760,バッファロー,none,missing_total_div; missing_shares
-21080,日本甜菜製糖,none,missing_dps; missing_total_div; missing_shares
-97760,札幌臨床検査センター,none,missing_dps; missing_total_div; missing_shares
-66250,ＪＡＬＣＯホールディングス,none,missing_dps; missing_total_div; missing_shares
-62470,日阪製作所,none,missing_dps; missing_total_div; missing_shares
-68440,新電元工業,none,missing_dps; missing_total_div; missing_shares
-83360,武蔵野銀行,none,missing_total_div; missing_shares
-71860,横浜フィナンシャルグループ,none,missing_total_div; missing_shares
-45280,小野薬品工業,none,missing_dps; missing_total_div; missing_shares
-34650,ケイアイスター不動産,none,missing_dps; missing_total_div; missing_shares
-79370,ツツミ,none,missing_total_div; missing_shares
-42740,細谷火工,none,missing_total_div; missing_shares
-77190,東京衡機,none,missing_dps; missing_total_div; missing_shares
-29030,シノブフーズ,none,missing_dps; missing_total_div; missing_shares
-63150,ＴＯＷＡ,none,missing_total_div; missing_shares
 77150,長野計器,none,missing_total_div; missing_shares
-72790,ハイレックスコーポレーション,none,missing_dps; missing_total_div; missing_shares
-55410,大平洋金属,none,missing_total_div; missing_shares
-91100,ＮＳユナイテッド海運,none,missing_total_div; missing_shares
-98240,泉州電業,none,missing_dps; missing_total_div; missing_shares
-26920,伊藤忠食品,none,missing_total_div; missing_shares
-72120,エフテック,none,missing_dps; missing_total_div; missing_shares
-96100,ウィルソン・ラーニング　ワールドワイド,none,missing_total_div; missing_shares
-46200,藤倉化成,none,missing_dps; missing_total_div; missing_shares
-81540,加賀電子,none,missing_dps; missing_total_div; missing_shares
-49170,マンダム,none,missing_total_div; missing_shares
-59010,東洋製罐グループホールディングス,none,missing_dps; missing_total_div; missing_shares
-93010,三菱倉庫,none,missing_dps; missing_total_div; missing_shares
-87140,池田泉州ホールディングス,none,missing_total_div; missing_shares
-63360,石井表記,none,missing_dps; missing_total_div; missing_shares
-43600,マナック・ケミカル・パートナーズ,none,missing_dps; missing_total_div; missing_shares
-54760,日本高周波鋼業,none,missing_dps; missing_total_div; missing_shares
-68620,ミナトホールディングス,none,missing_dps; missing_total_div; missing_shares
-83950,佐賀銀行,none,missing_total_div; missing_shares
-42080,ＵＢＥ,none,missing_dps; missing_total_div; missing_shares
-90310,西日本鉄道,none,missing_total_div; missing_shares
-69610,エンプラス,none,missing_total_div; missing_shares
-85220,名古屋銀行,none,missing_dps; missing_total_div; missing_shares
-30400,ソリトンシステムズ,none,missing_total_div; missing_shares
-86240,いちよし証券,none,missing_dps; missing_total_div; missing_shares
-97820,ディーエムエス,none,missing_total_div; missing_shares
-74770,ムラキ,none,missing_total_div; missing_shares
-77600,ＩＭＶ,none,missing_total_div; missing_shares
-63870,サムコ,none,missing_total_div; missing_shares
-62580,平田機工,none,missing_dps; missing_total_div; missing_shares
-40040,レゾナック・ホールディングス,none,missing_dps; missing_total_div; missing_shares
-83920,大分銀行,none,missing_total_div; missing_shares
-61010,ツガミ,none,missing_total_div; missing_shares
-39020,メディカル・データ・ビジョン,none,missing_dps; missing_total_div; missing_shares
-85500,栃木銀行,none,missing_total_div; missing_shares
-61370,小池酸素工業,none,missing_total_div; missing_shares
-85370,大光銀行,none,missing_total_div; missing_shares
-83620,福井銀行,none,missing_total_div; missing_shares
-77800,メニコン,none,missing_dps; missing_total_div; missing_shares
-78750,竹田ｉＰホールディングス,none,missing_total_div; missing_shares
-31860,ネクステージ,none,missing_dps; missing_total_div; missing_shares
-93220,川西倉庫,none,missing_total_div; missing_shares
-70220,サノヤスホールディングス,none,missing_dps; missing_total_div; missing_shares
-19390,四電工,none,missing_dps; missing_total_div; missing_shares
-71840,富山第一銀行,none,missing_total_div; missing_shares
-82850,三谷産業,none,missing_total_div; missing_shares
-97630,丸建リース,none,missing_total_div; missing_shares
-69600,フクダ電子,none,missing_total_div; missing_shares
-90680,丸全昭和運輸,none,missing_dps; missing_total_div; missing_shares
-51950,バンドー化学,none,missing_dps; missing_total_div; missing_shares
-74500,サンデー,none,missing_dps; missing_total_div; missing_shares
-41160,大日精化工業,none,missing_dps; missing_total_div; missing_shares
-39410,レンゴー,none,missing_total_div; missing_shares
-19440,きんでん,none,missing_total_div; missing_shares
-73570,ジオコード,none,missing_total_div; missing_shares
-78000,アミファ,none,missing_dps; missing_total_div; missing_shares
-19650,テクノ菱和,none,missing_dps; missing_total_div; missing_shares
-76080,エスケイジャパン,none,missing_total_div; missing_shares
-18480,富士ピー・エス,none,missing_dps; missing_total_div; missing_shares
-66480,かわでん,none,missing_total_div; missing_shares
-80320,日本紙パルプ商事,none,missing_dps; missing_total_div; missing_shares
+50740,テスホールディングス,none,missing_total_div; missing_shares
+60130,タクマ,none,missing_total_div; missing_shares
 35460,アレンザホールディングス,none,missing_dps; missing_total_div; missing_shares
-89440,ランドビジネス,none,missing_dps; missing_total_div; missing_shares
-58160,オーナンバ,none,missing_total_div; missing_shares
-78190,粧美堂,none,missing_total_div; missing_shares
-63660,千代田化工建設,none,missing_dps; missing_total_div; missing_shares
-73370,ひろぎんホールディングス,none,missing_total_div; missing_shares
-83060,三菱ＵＦＪフィナンシャル・グループ,none,missing_total_div; missing_shares
-62680,ナブテスコ,none,missing_dps; missing_total_div; missing_shares
-44640,ソフト９９コーポレーション,none,missing_dps; missing_total_div; missing_shares
-74550,パリミキホールディングス,none,missing_dps; missing_total_div; missing_shares
-57240,アサカ理研,none,missing_total_div; missing_shares
-18670,植木組,none,missing_total_div; missing_shares
-19380,日本リーテック,none,missing_total_div; missing_shares
-87420,小林洋行,none,missing_total_div; missing_shares
-60220,赤阪鐵工所,none,missing_total_div; missing_shares
-87470,豊トラスティ証券,none,missing_dps; missing_total_div; missing_shares
+65070,シンフォニアテクノロジー,none,missing_total_div; missing_shares
 40820,第一稀元素化学工業,none,missing_dps; missing_total_div; missing_shares
-44610,第一工業製薬,none,missing_total_div; missing_shares
-46350,東京インキ,none,missing_dps; missing_total_div; missing_shares
-31530,八洲電機,none,missing_total_div; missing_shares
-50170,富士石油,none,missing_total_div; missing_shares
-62860,靜甲,none,missing_dps; missing_total_div; missing_shares
-68170,スミダコーポレーション,none,missing_dps; missing_total_div; missing_shares
-19090,日本ドライケミカル,none,missing_total_div; missing_shares
-19480,弘電社,none,missing_total_div; missing_shares
+69600,フクダ電子,none,missing_total_div; missing_shares
+34650,ケイアイスター不動産,none,missing_dps; missing_total_div; missing_shares
+68440,新電元工業,none,missing_dps; missing_total_div; missing_shares
+62580,平田機工,none,missing_dps; missing_total_div; missing_shares
 83080,りそなホールディングス,none,missing_dps; missing_total_div; missing_shares
-18100,松井建設,none,missing_dps; missing_total_div; missing_shares
-96330,東京テアトル,none,missing_total_div; missing_shares
-18120,鹿島建設,none,missing_total_div; missing_shares
-83460,東邦銀行,none,missing_total_div; missing_shares
+68620,ミナトホールディングス,none,missing_dps; missing_total_div; missing_shares
+58160,オーナンバ,none,missing_total_div; missing_shares
+91100,ＮＳユナイテッド海運,none,missing_total_div; missing_shares
+69610,エンプラス,none,missing_total_div; missing_shares
+63870,サムコ,none,missing_total_div; missing_shares
+74550,パリミキホールディングス,none,missing_dps; missing_total_div; missing_shares
 22920,Ｓ　Ｆｏｏｄｓ,none,missing_dps; missing_total_div; missing_shares
-83990,琉球銀行,none,missing_total_div; missing_shares
-97610,東海リース,none,missing_total_div; missing_shares
-15150,日鉄鉱業,none,missing_dps; missing_total_div; missing_shares
-67710,池上通信機,none,missing_total_div; missing_shares
-19500,日本電設工業,none,missing_total_div; missing_shares
-73890,あいちフィナンシャルグループ,none,missing_total_div; missing_shares
-19800,ダイダン,none,missing_total_div; missing_shares
-42860,ＣＬホールディングス,none,missing_total_div; missing_shares
-18710,ピーエス・コンストラクション,none,missing_total_div; missing_shares
-72350,東京ラヂエーター製造,none,missing_total_div; missing_shares
-42030,住友ベークライト,none,missing_total_div; missing_shares
-83770,ほくほくフィナンシャルグループ,none,missing_total_div; missing_shares
-90670,丸運,none,missing_dps; missing_total_div; missing_shares
-63070,サンセイ,none,missing_dps; missing_total_div; missing_shares
-76100,テイツー,none,missing_dps; missing_total_div; missing_shares
-20600,フィード・ワン,none,missing_total_div; missing_shares
+78000,アミファ,none,missing_dps; missing_total_div; missing_shares
+61010,ツガミ,none,missing_total_div; missing_shares
+82850,三谷産業,none,missing_total_div; missing_shares
+44640,ソフト９９コーポレーション,none,missing_dps; missing_total_div; missing_shares
+31530,八洲電機,none,missing_total_div; missing_shares
+40040,レゾナック・ホールディングス,none,missing_dps; missing_total_div; missing_shares
+83950,佐賀銀行,none,missing_total_div; missing_shares
 72990,フジオーゼックス,none,missing_total_div; missing_shares
-26120,かどや製油,none,missing_total_div; missing_shares
-24370,Ｓｈｉｎｗａ　Ｗｉｓｅ　Ｈｏｌｄｉｎｇｓ,none,missing_dps; missing_total_div; missing_shares
+83060,三菱ＵＦＪフィナンシャル・グループ,none,missing_total_div; missing_shares
+83920,大分銀行,none,missing_total_div; missing_shares
+77600,ＩＭＶ,none,missing_total_div; missing_shares
+47200,城南進学研究社,none,missing_dps; missing_total_div; missing_shares
+39020,メディカル・データ・ビジョン,none,missing_dps; missing_total_div; missing_shares
+85220,名古屋銀行,none,missing_dps; missing_total_div; missing_shares
+90310,西日本鉄道,none,missing_total_div; missing_shares
+97630,丸建リース,none,missing_total_div; missing_shares
+43100,ドリームインキュベータ,none,missing_total_div; missing_shares
+83620,福井銀行,none,missing_total_div; missing_shares
+86090,岡三証券グループ,none,missing_total_div; missing_shares
 18140,大末建設,none,missing_total_div; missing_shares
-18850,東亜建設工業,none,missing_total_div; missing_shares
+26920,伊藤忠食品,none,missing_total_div; missing_shares
+63070,サンセイ,none,missing_dps; missing_total_div; missing_shares
+85500,栃木銀行,none,missing_total_div; missing_shares
+93220,川西倉庫,none,missing_total_div; missing_shares
+19440,きんでん,none,missing_total_div; missing_shares
+43470,ブロードメディア,none,missing_dps; missing_total_div; missing_shares
+78190,粧美堂,none,missing_total_div; missing_shares
+77800,メニコン,none,missing_dps; missing_total_div; missing_shares
+90670,丸運,none,missing_dps; missing_total_div; missing_shares
+87470,豊トラスティ証券,none,missing_dps; missing_total_div; missing_shares
 35130,イチカワ,none,missing_total_div; missing_shares
-73800,十六フィナンシャルグループ,none,missing_total_div; missing_shares
-89950,誠建設工業,none,missing_dps; missing_total_div; missing_shares
-62640,マルマエ,none,missing_total_div; missing_shares
-58570,ＡＲＥホールディングス,none,missing_total_div; missing_shares
-42280,積水化成品工業,none,missing_dps; missing_total_div; missing_shares
-83340,群馬銀行,none,missing_total_div; missing_shares
-59730,トーアミ,none,missing_dps; missing_total_div; missing_shares
+42080,ＵＢＥ,none,missing_dps; missing_total_div; missing_shares
+71840,富山第一銀行,none,missing_total_div; missing_shares
+96330,東京テアトル,none,missing_total_div; missing_shares
+41160,大日精化工業,none,missing_dps; missing_total_div; missing_shares
+97610,東海リース,none,missing_total_div; missing_shares
+18670,植木組,none,missing_total_div; missing_shares
+18010,大成建設,none,missing_total_div; missing_shares
+73570,ジオコード,none,missing_total_div; missing_shares
+19390,四電工,none,missing_dps; missing_total_div; missing_shares
+87140,池田泉州ホールディングス,none,missing_total_div; missing_shares
+57240,アサカ理研,none,missing_total_div; missing_shares
+42860,ＣＬホールディングス,none,missing_total_div; missing_shares
+70220,サノヤスホールディングス,none,missing_dps; missing_total_div; missing_shares
+63660,千代田化工建設,none,missing_dps; missing_total_div; missing_shares
+51950,バンドー化学,none,missing_dps; missing_total_div; missing_shares
+67430,大同信号,none,missing_total_div; missing_shares
+35120,日本フエルト,none,missing_dps; missing_total_div; missing_shares
+85370,大光銀行,none,missing_total_div; missing_shares
+83590,八十二銀行,none,missing_total_div; missing_shares
+19090,日本ドライケミカル,none,missing_total_div; missing_shares
+26120,かどや製油,none,missing_total_div; missing_shares
+40630,信越化学工業,none,missing_dps; missing_total_div; missing_shares
+64020,兼松エンジニアリング,none,missing_total_div; missing_shares
+44610,第一工業製薬,none,missing_total_div; missing_shares
+73370,ひろぎんホールディングス,none,missing_total_div; missing_shares
+50170,富士石油,none,missing_total_div; missing_shares
+13840,ホクリヨウ,none,missing_total_div; missing_shares
+19480,弘電社,none,missing_total_div; missing_shares
+62350,オプトラン,none,missing_dps; missing_total_div; missing_shares
+19500,日本電設工業,none,missing_total_div; missing_shares
+68170,スミダコーポレーション,none,missing_dps; missing_total_div; missing_shares
+39410,レンゴー,none,missing_total_div; missing_shares
+77190,東京衡機,none,missing_dps; missing_total_div; missing_shares
+34840,イノベーションホールディングス,none,missing_total_div; missing_shares
+62680,ナブテスコ,none,missing_dps; missing_total_div; missing_shares
+19380,日本リーテック,none,missing_total_div; missing_shares
 66750,サクサ,none,missing_total_div; missing_shares
-66260,ＳＥＭＩＴＥＣ,none,missing_dps; missing_total_div; missing_shares
-41000,戸田工業,none,missing_dps; missing_total_div; missing_shares
-93030,住友倉庫,none,missing_dps; missing_total_div; missing_shares
-45520,ＪＣＲファーマ,none,missing_dps; missing_total_div; missing_shares
-19510,エクシオグループ,none,missing_dps; missing_total_div; missing_shares
-71800,九州フィナンシャルグループ,none,missing_dps; missing_total_div; missing_shares
-61460,ディスコ,none,missing_dps; missing_total_div; missing_shares
-66640,オプトエレクトロニクス,none,missing_dps; missing_total_div; missing_shares
+83360,武蔵野銀行,none,missing_total_div; missing_shares
+90680,丸全昭和運輸,none,missing_dps; missing_total_div; missing_shares
+83770,ほくほくフィナンシャルグループ,none,missing_total_div; missing_shares
+76980,アイスコ,none,missing_dps; missing_total_div; missing_shares
+27490,ＪＰホールディングス,none,missing_total_div; missing_shares
+41820,三菱瓦斯化学,none,missing_dps; missing_total_div; missing_shares
+42030,住友ベークライト,none,missing_total_div; missing_shares
+50760,インフロニア・ホールディングス,none,missing_total_div; missing_shares
+62170,津田駒工業,none,missing_dps; missing_total_div; missing_shares
+20600,フィード・ワン,none,missing_total_div; missing_shares
+73840,プロクレアホールディングス,none,missing_dps; missing_total_div; missing_shares
+52370,ノザワ,none,missing_total_div; missing_shares
 34490,テクノフレックス,none,missing_dps; missing_total_div; missing_shares
+83990,琉球銀行,none,missing_total_div; missing_shares
+66260,ＳＥＭＩＴＥＣ,none,missing_dps; missing_total_div; missing_shares
+89440,ランドビジネス,none,missing_dps; missing_total_div; missing_shares
+72360,ティラド,none,missing_dps; missing_total_div; missing_shares
+94760,中央経済社ホールディングス,none,missing_dps; missing_total_div; missing_shares
+62640,マルマエ,none,missing_total_div; missing_shares
+72350,東京ラヂエーター製造,none,missing_total_div; missing_shares
+76250,グローバルダイニング,none,missing_dps; missing_total_div; missing_shares
+61460,ディスコ,none,missing_dps; missing_total_div; missing_shares
+75010,ティムコ,none,missing_dps; missing_total_div; missing_shares
+73890,あいちフィナンシャルグループ,none,missing_total_div; missing_shares
+62860,靜甲,none,missing_dps; missing_total_div; missing_shares
+15150,日鉄鉱業,none,missing_dps; missing_total_div; missing_shares
+83460,東邦銀行,none,missing_total_div; missing_shares
+30770,ホリイフードサービス,none,missing_dps; missing_total_div; missing_shares
+73800,十六フィナンシャルグループ,none,missing_total_div; missing_shares
+24920,インフォマート,none,missing_dps; missing_total_div; missing_shares
+18100,松井建設,none,missing_dps; missing_total_div; missing_shares
+18120,鹿島建設,none,missing_total_div; missing_shares
+19800,ダイダン,none,missing_total_div; missing_shares
+61780,日本郵政,none,missing_dps; missing_total_div; missing_shares
+59010,東洋製罐グループホールディングス,none,missing_dps; missing_total_div; missing_shares
+31860,ネクステージ,none,missing_dps; missing_total_div; missing_shares
+16620,石油資源開発,none,missing_dps; missing_total_div; missing_shares
+58570,ＡＲＥホールディングス,none,missing_total_div; missing_shares
+33200,クロスプラス,none,missing_dps; missing_total_div; missing_shares
+69690,松尾電機,none,missing_dps; missing_total_div; missing_shares
+66440,大崎電気工業,none,missing_total_div; missing_shares
+40470,関東電化工業,none,missing_dps; missing_total_div; missing_shares
+77440,ノーリツ鋼機,none,missing_dps; missing_total_div; missing_shares
+62470,日阪製作所,none,missing_dps; missing_total_div; missing_shares
+34670,アグレ都市デザイン,none,missing_total_div; missing_shares
+63360,石井表記,none,missing_dps; missing_total_div; missing_shares
+17880,三東工業社,none,missing_total_div; missing_shares
+74600,ヤギ,none,missing_total_div; missing_shares
+83340,群馬銀行,none,missing_total_div; missing_shares
+18410,サンユー建設,none,missing_total_div; missing_shares
+99080,日本電計,none,missing_total_div; missing_shares
+43600,マナック・ケミカル・パートナーズ,none,missing_dps; missing_total_div; missing_shares
+49170,マンダム,none,missing_total_div; missing_shares
+19510,エクシオグループ,none,missing_dps; missing_total_div; missing_shares
+36550,ブレインパッド,none,missing_total_div; missing_shares
+57290,日本精鉱,none,missing_total_div; missing_shares
+67340,ニューテック,none,missing_dps; missing_total_div; missing_shares
+18470,イチケン,none,missing_total_div; missing_shares
+18850,東亜建設工業,none,missing_total_div; missing_shares
+72120,エフテック,none,missing_dps; missing_total_div; missing_shares
+69980,日本タングステン,none,missing_dps; missing_total_div; missing_shares
+46350,東京インキ,none,missing_dps; missing_total_div; missing_shares
 70180,内海造船,none,missing_dps; missing_total_div; missing_shares
+94080,ＢＳＮメディアホールディングス,none,missing_dps; missing_total_div; missing_shares
+86240,いちよし証券,none,missing_dps; missing_total_div; missing_shares
+88040,東京建物,none,missing_total_div; missing_shares
+78750,竹田ｉＰホールディングス,none,missing_total_div; missing_shares
+83870,四国銀行,none,missing_dps; missing_total_div; missing_shares
+18710,ピーエス・コンストラクション,none,missing_total_div; missing_shares
+63610,荏原製作所,none,missing_dps; missing_total_div; missing_shares
 57150,古河機械金属,none,missing_dps; missing_total_div; missing_shares
+80200,兼松,none,missing_dps; missing_total_div; missing_shares
+71800,九州フィナンシャルグループ,none,missing_dps; missing_total_div; missing_shares
+67710,池上通信機,none,missing_total_div; missing_shares
+83430,秋田銀行,none,missing_total_div; missing_shares
+41000,戸田工業,none,missing_dps; missing_total_div; missing_shares
+52610,リソルホールディングス,none,missing_total_div; missing_shares
+60420,ニッキ,none,missing_dps; missing_total_div; missing_shares
+18480,富士ピー・エス,none,missing_dps; missing_total_div; missing_shares
+49730,日本高純度化学,none,missing_dps; missing_total_div; missing_shares
+19460,トーエネック,none,missing_dps; missing_total_div; missing_shares
+22860,林兼産業,none,missing_dps; missing_total_div; missing_shares
+73810,ＣＣＩグループ,none,missing_dps; missing_total_div; missing_shares
+93100,日本トランスシティ,none,missing_total_div; missing_shares
+60180,阪神内燃機工業,none,missing_dps; missing_total_div; missing_shares
+18280,田辺工業,none,missing_total_div; missing_shares
+87050,日産証券グループ,none,missing_dps; missing_total_div; missing_shares
+37410,セック,none,missing_dps; missing_total_div; missing_shares
+78780,光・彩,none,missing_total_div; missing_shares
+76080,エスケイジャパン,none,missing_total_div; missing_shares
+46260,太陽ホールディングス,none,missing_dps; missing_total_div; missing_shares
+63320,月島ホールディングス,none,missing_total_div; missing_shares
+42160,旭有機材,none,missing_dps; missing_total_div; missing_shares
+57410,ＵＡＣＪ,none,missing_dps; missing_total_div; missing_shares
+19610,三機工業,none,missing_dps; missing_total_div; missing_shares
+75050,扶桑電通,none,missing_total_div; missing_shares
+89950,誠建設工業,none,missing_dps; missing_total_div; missing_shares
+74590,メディパルホールディングス,none,missing_total_div; missing_shares
+83650,富山銀行,none,missing_dps; missing_total_div; missing_shares
+93030,住友倉庫,none,missing_dps; missing_total_div; missing_shares
+18150,鉄建建設,none,missing_total_div; missing_shares
+83440,山形銀行,none,missing_total_div; missing_shares
+55410,大平洋金属,none,missing_total_div; missing_shares
+19650,テクノ菱和,none,missing_dps; missing_total_div; missing_shares
+21120,塩水港精糖,none,missing_dps; missing_total_div; missing_shares
+68220,大井電気,none,missing_dps; missing_total_div; missing_shares
+17980,守谷商会,none,missing_total_div; missing_shares
+61370,小池酸素工業,none,missing_total_div; missing_shares
+14330,ベステラ,none,missing_dps; missing_total_div; missing_shares
+90720,ニッコンホールディングス,none,missing_dps; missing_total_div; missing_shares
+43660,ダイトーケミックス,none,missing_total_div; missing_shares
+23540,ＹＥ　ＤＩＧＩＴＡＬ,none,missing_total_div; missing_shares
+41090,ステラ　ケミファ,none,missing_dps; missing_total_div; missing_shares
+64850,前澤給装工業,none,missing_total_div; missing_shares
+27080,久世,none,missing_total_div; missing_shares
+34350,サンコーテクノ,none,missing_dps; missing_total_div; missing_shares
+67520,パナソニック　ホールディングス,none,missing_total_div; missing_shares
+72710,安永,none,missing_total_div; missing_shares
+42200,リケンテクノス,none,missing_dps; missing_total_div; missing_shares
+48850,室町ケミカル,none,missing_dps; missing_total_div; missing_shares
+18020,大林組,none,missing_dps; missing_total_div; missing_shares
+72790,ハイレックスコーポレーション,none,missing_dps; missing_total_div; missing_shares
+66700,ＭＣＪ,none,missing_total_div; missing_shares
+17190,安藤・間,none,missing_total_div; missing_shares
+93550,リンコーコーポレーション,none,missing_total_div; missing_shares
+91150,明海グループ,none,missing_total_div; missing_shares
+87070,岩井コスモホールディングス,none,missing_dps; missing_total_div; missing_shares
+49970,日本農薬,none,missing_total_div; missing_shares
+39340,ベネフィットジャパン,none,missing_total_div; missing_shares
+68750,メガチップス,none,missing_dps; missing_total_div; missing_shares
+82260,理経,none,missing_dps; missing_total_div; missing_shares
+80320,日本紙パルプ商事,none,missing_dps; missing_total_div; missing_shares
+36110,マツオカコーポレーション,none,missing_dps; missing_total_div; missing_shares
+29750,スター・マイカ・ホールディングス,none,missing_total_div; missing_shares
+86220,水戸証券,none,missing_dps; missing_total_div; missing_shares
+18110,錢高組,none,missing_dps; missing_total_div; missing_shares
+95050,北陸電力,none,missing_total_div; missing_shares
+17360,オーテック,none,missing_dps; missing_total_div; missing_shares
+25880,プレミアムウォーターホールディングス,none,missing_total_div; missing_shares
+15140,住石ホールディングス,none,missing_total_div; missing_shares
+33210,ミタチ産業,none,missing_total_div; missing_shares
+18600,戸田建設,none,missing_dps; missing_total_div; missing_shares
+32880,オープンハウスグループ,none,missing_total_div; missing_shares
+74830,ドウシシャ,none,missing_dps; missing_total_div; missing_shares
+17580,太洋基礎工業,none,missing_dps; missing_total_div; missing_shares
+73270,第四北越フィナンシャルグループ,none,missing_dps; missing_total_div; missing_shares
+68940,パルステック工業,none,missing_total_div; missing_shares
+64860,イーグル工業,none,missing_total_div; missing_shares
+19300,北陸電気工事,none,missing_total_div; missing_shares
+17200,東急建設,none,missing_dps; missing_total_div; missing_shares
+68580,小野測器,none,missing_total_div; missing_shares
+19040,大成温調,none,missing_dps; missing_total_div; missing_shares
+38260,システムインテグレータ,none,missing_total_div; missing_shares
+19970,暁飯島工業,none,missing_dps; missing_total_div; missing_shares
+32670,フィル・カンパニー,none,missing_total_div; missing_shares
+19750,朝日工業社,none,missing_total_div; missing_shares
+59020,ホッカンホールディングス,none,missing_total_div; missing_shares
+81010,ＧＳＩクレオス,none,missing_total_div; missing_shares
+59760,高周波熱錬,none,missing_dps; missing_total_div; missing_shares
+68590,エスペック,none,missing_total_div; missing_shares
+59940,ファインシンター,none,missing_dps; missing_total_div; missing_shares
+83830,鳥取銀行,none,missing_total_div; missing_shares
+83700,紀陽銀行,none,missing_dps; missing_total_div; missing_shares
+50790,ノバック,none,missing_dps; missing_total_div; missing_shares
+45120,わかもと製薬,none,missing_total_div; missing_shares
+76100,テイツー,none,missing_dps; missing_total_div; missing_shares
+83580,スルガ銀行,none,missing_total_div; missing_shares
+46640,アール・エス・シー,none,missing_total_div; missing_shares
+92790,ギフトホールディングス,none,missing_dps; missing_total_div; missing_shares
+89350,ＦＪネクストホールディングス,none,missing_total_div; missing_shares
+32940,イーグランド,none,missing_total_div; missing_shares
+82370,松屋,none,missing_dps; missing_total_div; missing_shares
+59920,中央発條,none,missing_dps; missing_total_div; missing_shares
+81270,ヤマトインターナショナル,none,missing_dps; missing_total_div; missing_shares
+52870,イトーヨーギョー,none,missing_dps; missing_total_div; missing_shares
+97420,アイネス,none,missing_dps; missing_total_div; missing_shares
+72500,太平洋工業,none,missing_total_div; missing_shares
+60220,赤阪鐵工所,none,missing_total_div; missing_shares
+62260,守谷輸送機工業,none,missing_total_div; missing_shares
+76000,日本エム・ディ・エム,none,missing_dps; missing_total_div; missing_shares
+62180,エンシュウ,none,missing_dps; missing_total_div; missing_shares
+79320,ニッピ,none,missing_total_div; missing_shares
+68990,ＡＳＴＩ,none,missing_total_div; missing_shares
+64280,オーイズミ,none,missing_dps; missing_total_div; missing_shares
+86160,東海東京フィナンシャル・ホールディングス,none,missing_dps; missing_total_div; missing_shares
+42280,積水化成品工業,none,missing_dps; missing_total_div; missing_shares
+71830,あんしん保証,none,missing_dps; missing_total_div; missing_shares
+61360,オーエスジー,none,missing_total_div; missing_shares
+19600,サンテック,none,missing_dps; missing_total_div; missing_shares
+93070,杉村倉庫,none,missing_total_div; missing_shares
+19670,ヤマト,none,missing_dps; missing_total_div; missing_shares
+80060,ユアサ・フナショク,none,missing_total_div; missing_shares
+28840,ヨシムラ・フード・ホールディングス,none,missing_dps; missing_total_div; missing_shares
+63930,油研工業,none,missing_total_div; missing_shares
+95310,東京瓦斯,none,missing_dps; missing_total_div; missing_shares
+79710,東リ,none,missing_total_div; missing_shares
+86140,東洋証券,none,missing_total_div; missing_shares
+42420,タカギセイコー,none,missing_dps; missing_total_div; missing_shares
+95070,四国電力,none,missing_dps; missing_total_div; missing_shares
+65080,明電舎,none,missing_dps; missing_total_div; missing_shares
+85510,北日本銀行,none,missing_total_div; missing_shares
+82670,イオン,none,missing_dps; missing_total_div; missing_shares
+18330,奥村組,none,missing_total_div; missing_shares
+79490,小松ウオール工業,none,missing_dps; missing_total_div; missing_shares
+39740,ＳＣＡＴ,none,missing_dps; missing_total_div; missing_shares
+66160,トレックス・セミコンダクター,none,missing_dps; missing_total_div; missing_shares
+74620,ＣＡＰＩＴＡ,none,missing_dps; missing_total_div; missing_shares
+17930,大本組,none,missing_total_div; missing_shares
+45780,大塚ホールディングス,none,missing_dps; missing_total_div; missing_shares
+72660,今仙電機製作所,none,missing_total_div; missing_shares
+97080,帝国ホテル,none,missing_dps; missing_total_div; missing_shares
+56990,イボキン,none,missing_dps; missing_total_div; missing_shares
+50190,出光興産,none,missing_dps; missing_total_div; missing_shares
+35510,ダイニック,none,missing_dps; missing_total_div; missing_shares
+38530,アステリア,none,missing_total_div; missing_shares
+33990,丸千代山岡家,none,missing_total_div; missing_shares
+52820,ジオスター,none,missing_dps; missing_total_div; missing_shares
+39530,大村紙業,none,missing_total_div; missing_shares
+26070,不二製油,none,missing_dps; missing_total_div; missing_shares
+66470,森尾電機,none,missing_total_div; missing_shares
+70370,テノ．ホールディングス,none,missing_total_div; missing_shares
+75810,サイゼリヤ,none,missing_total_div; missing_shares
+37990,キーウェアソリューションズ,none,missing_total_div; missing_shares
+52900,ベルテクスコーポレーション,none,missing_total_div; missing_shares
+80760,カノークス,none,missing_total_div; missing_shares
+40920,日本化学工業,none,missing_total_div; missing_shares
+75210,ムサシ,none,missing_total_div; missing_shares
+70110,三菱重工業,none,missing_dps; missing_total_div; missing_shares
+62380,フリュー,none,missing_dps; missing_total_div; missing_shares
+54580,高砂鐵工,none,missing_dps; missing_total_div; missing_shares
+72080,カネミツ,none,missing_total_div; missing_shares
+80650,佐藤商事,none,missing_total_div; missing_shares
+26020,日清オイリオグループ,none,missing_dps; missing_total_div; missing_shares
+74170,南陽,none,missing_total_div; missing_shares
+45530,東和薬品,none,missing_dps; missing_total_div; missing_shares
+17870,ナカボーテック,none,missing_total_div; missing_shares
+19790,大氣社,none,missing_dps; missing_total_div; missing_shares
+71610,じもとホールディングス,none,missing_total_div; missing_shares
+19410,中電工,none,missing_dps; missing_total_div; missing_shares
+80180,三共生興,none,missing_total_div; missing_shares
 19340,ユアテック,none,missing_total_div; missing_shares
 69550,ＦＤＫ,none,missing_dps; missing_total_div; missing_shares
-73840,プロクレアホールディングス,none,missing_dps; missing_total_div; missing_shares
-61780,日本郵政,none,missing_dps; missing_total_div; missing_shares
-34670,アグレ都市デザイン,none,missing_total_div; missing_shares
-41820,三菱瓦斯化学,none,missing_dps; missing_total_div; missing_shares
-17190,安藤・間,none,missing_total_div; missing_shares
-18470,イチケン,none,missing_total_div; missing_shares
-72710,安永,none,missing_total_div; missing_shares
-43470,ブロードメディア,none,missing_dps; missing_total_div; missing_shares
-40470,関東電化工業,none,missing_dps; missing_total_div; missing_shares
-66440,大崎電気工業,none,missing_total_div; missing_shares
-16620,石油資源開発,none,missing_dps; missing_total_div; missing_shares
-35120,日本フエルト,none,missing_dps; missing_total_div; missing_shares
-83870,四国銀行,none,missing_dps; missing_total_div; missing_shares
-43660,ダイトーケミックス,none,missing_total_div; missing_shares
-83430,秋田銀行,none,missing_total_div; missing_shares
-64850,前澤給装工業,none,missing_total_div; missing_shares
-41090,ステラ　ケミファ,none,missing_dps; missing_total_div; missing_shares
-18150,鉄建建設,none,missing_total_div; missing_shares
-83590,八十二銀行,none,missing_total_div; missing_shares
-82370,松屋,none,missing_dps; missing_total_div; missing_shares
-77440,ノーリツ鋼機,none,missing_dps; missing_total_div; missing_shares
-62170,津田駒工業,none,missing_dps; missing_total_div; missing_shares
-80200,兼松,none,missing_dps; missing_total_div; missing_shares
-69690,松尾電機,none,missing_dps; missing_total_div; missing_shares
-83650,富山銀行,none,missing_dps; missing_total_div; missing_shares
-86160,東海東京フィナンシャル・ホールディングス,none,missing_dps; missing_total_div; missing_shares
-75010,ティムコ,none,missing_dps; missing_total_div; missing_shares
-67430,大同信号,none,missing_total_div; missing_shares
-63610,荏原製作所,none,missing_dps; missing_total_div; missing_shares
-50740,テスホールディングス,none,missing_total_div; missing_shares
-99080,日本電計,none,missing_total_div; missing_shares
-76250,グローバルダイニング,none,missing_dps; missing_total_div; missing_shares
-19610,三機工業,none,missing_dps; missing_total_div; missing_shares
-18110,錢高組,none,missing_dps; missing_total_div; missing_shares
-33210,ミタチ産業,none,missing_total_div; missing_shares
-94760,中央経済社ホールディングス,none,missing_dps; missing_total_div; missing_shares
-19750,朝日工業社,none,missing_total_div; missing_shares
-88040,東京建物,none,missing_total_div; missing_shares
-49730,日本高純度化学,none,missing_dps; missing_total_div; missing_shares
-34840,イノベーションホールディングス,none,missing_total_div; missing_shares
-93100,日本トランスシティ,none,missing_total_div; missing_shares
-73810,ＣＣＩグループ,none,missing_dps; missing_total_div; missing_shares
-37410,セック,none,missing_dps; missing_total_div; missing_shares
-40630,信越化学工業,none,missing_dps; missing_total_div; missing_shares
-48850,室町ケミカル,none,missing_dps; missing_total_div; missing_shares
-97080,帝国ホテル,none,missing_dps; missing_total_div; missing_shares
-93070,杉村倉庫,none,missing_total_div; missing_shares
-77220,国際計測器,none,missing_total_div; missing_shares
-83440,山形銀行,none,missing_total_div; missing_shares
-52610,リソルホールディングス,none,missing_total_div; missing_shares
-52870,イトーヨーギョー,none,missing_dps; missing_total_div; missing_shares
-57410,ＵＡＣＪ,none,missing_dps; missing_total_div; missing_shares
-66160,トレックス・セミコンダクター,none,missing_dps; missing_total_div; missing_shares
-59760,高周波熱錬,none,missing_dps; missing_total_div; missing_shares
-50760,インフロニア・ホールディングス,none,missing_total_div; missing_shares
-43100,ドリームインキュベータ,none,missing_total_div; missing_shares
-27490,ＪＰホールディングス,none,missing_total_div; missing_shares
-36550,ブレインパッド,none,missing_total_div; missing_shares
-40400,南海化学,none,missing_dps; missing_total_div; missing_shares
-13840,ホクリヨウ,none,missing_total_div; missing_shares
-50190,出光興産,none,missing_dps; missing_total_div; missing_shares
-97420,アイネス,none,missing_dps; missing_total_div; missing_shares
-75050,扶桑電通,none,missing_total_div; missing_shares
-87050,日産証券グループ,none,missing_dps; missing_total_div; missing_shares
-95070,四国電力,none,missing_dps; missing_total_div; missing_shares
-32880,オープンハウスグループ,none,missing_total_div; missing_shares
-18020,大林組,none,missing_dps; missing_total_div; missing_shares
-72360,ティラド,none,missing_dps; missing_total_div; missing_shares
-67340,ニューテック,none,missing_dps; missing_total_div; missing_shares
-17980,守谷商会,none,missing_total_div; missing_shares
-63320,月島ホールディングス,none,missing_total_div; missing_shares
-74600,ヤギ,none,missing_total_div; missing_shares
-69980,日本タングステン,none,missing_dps; missing_total_div; missing_shares
-60180,阪神内燃機工業,none,missing_dps; missing_total_div; missing_shares
-95130,電源開発,none,missing_dps; missing_total_div; missing_shares
-46110,大日本塗料,none,missing_dps; missing_total_div; missing_shares
-19460,トーエネック,none,missing_dps; missing_total_div; missing_shares
-68380,多摩川ホールディングス,none,missing_dps; missing_total_div; missing_shares
-60420,ニッキ,none,missing_dps; missing_total_div; missing_shares
-54910,日本金属,none,missing_dps; missing_total_div; missing_shares
-68750,メガチップス,none,missing_dps; missing_total_div; missing_shares
-67520,パナソニック　ホールディングス,none,missing_total_div; missing_shares
-82670,イオン,none,missing_dps; missing_total_div; missing_shares
-46260,太陽ホールディングス,none,missing_dps; missing_total_div; missing_shares
-39530,大村紙業,none,missing_total_div; missing_shares
-22860,林兼産業,none,missing_dps; missing_total_div; missing_shares
-42200,リケンテクノス,none,missing_dps; missing_total_div; missing_shares
-19300,北陸電気工事,none,missing_total_div; missing_shares
-42880,アズジェント,none,missing_dps; missing_total_div; missing_shares
-68580,小野測器,none,missing_total_div; missing_shares
-38260,システムインテグレータ,none,missing_total_div; missing_shares
-82260,理経,none,missing_dps; missing_total_div; missing_shares
-33600,シップヘルスケアホールディングス,none,missing_total_div; missing_shares
-49970,日本農薬,none,missing_total_div; missing_shares
-66700,ＭＣＪ,none,missing_total_div; missing_shares
-17870,ナカボーテック,none,missing_total_div; missing_shares
-74830,ドウシシャ,none,missing_dps; missing_total_div; missing_shares
-39340,ベネフィットジャパン,none,missing_total_div; missing_shares
-59940,ファインシンター,none,missing_dps; missing_total_div; missing_shares
-68590,エスペック,none,missing_total_div; missing_shares
-29750,スター・マイカ・ホールディングス,none,missing_total_div; missing_shares
-59020,ホッカンホールディングス,none,missing_total_div; missing_shares
-17200,東急建設,none,missing_dps; missing_total_div; missing_shares
-52820,ジオスター,none,missing_dps; missing_total_div; missing_shares
-89350,ＦＪネクストホールディングス,none,missing_total_div; missing_shares
-71610,じもとホールディングス,none,missing_total_div; missing_shares
-18600,戸田建設,none,missing_dps; missing_total_div; missing_shares
-62890,技研製作所,none,missing_dps; missing_total_div; missing_shares
-81030,明和産業,none,missing_total_div; missing_shares
-95050,北陸電力,none,missing_total_div; missing_shares
-83700,紀陽銀行,none,missing_dps; missing_total_div; missing_shares
-68820,三社電機製作所,none,missing_dps; missing_total_div; missing_shares
-18410,サンユー建設,none,missing_total_div; missing_shares
-61360,オーエスジー,none,missing_total_div; missing_shares
-87070,岩井コスモホールディングス,none,missing_dps; missing_total_div; missing_shares
-64860,イーグル工業,none,missing_total_div; missing_shares
-62380,フリュー,none,missing_dps; missing_total_div; missing_shares
-63100,井関農機,none,missing_dps; missing_total_div; missing_shares
-62260,守谷輸送機工業,none,missing_total_div; missing_shares
-79490,小松ウオール工業,none,missing_dps; missing_total_div; missing_shares
-73270,第四北越フィナンシャルグループ,none,missing_dps; missing_total_div; missing_shares
-19670,ヤマト,none,missing_dps; missing_total_div; missing_shares
-33150,日本コークス工業,none,missing_dps; missing_total_div; missing_shares
-46640,アール・エス・シー,none,missing_total_div; missing_shares
-63240,ハーモニック・ドライブ・システムズ,none,missing_dps; missing_total_div; missing_shares
-67270,ワコム,none,missing_total_div; missing_shares
-57290,日本精鉱,none,missing_total_div; missing_shares
-47200,城南進学研究社,none,missing_dps; missing_total_div; missing_shares
-28840,ヨシムラ・フード・ホールディングス,none,missing_dps; missing_total_div; missing_shares
-17360,オーテック,none,missing_dps; missing_total_div; missing_shares
-36110,マツオカコーポレーション,none,missing_dps; missing_total_div; missing_shares
-25880,プレミアムウォーターホールディングス,none,missing_total_div; missing_shares
-72660,今仙電機製作所,none,missing_total_div; missing_shares
-23540,ＹＥ　ＤＩＧＩＴＡＬ,none,missing_total_div; missing_shares
-21120,塩水港精糖,none,missing_dps; missing_total_div; missing_shares
-65080,明電舎,none,missing_dps; missing_total_div; missing_shares
-95090,北海道電力,none,missing_dps; missing_total_div; missing_shares
-83580,スルガ銀行,none,missing_total_div; missing_shares
-53510,品川リフラ,none,missing_dps; missing_total_div; missing_shares
-81010,ＧＳＩクレオス,none,missing_total_div; missing_shares
-17930,大本組,none,missing_total_div; missing_shares
-40920,日本化学工業,none,missing_total_div; missing_shares
-93530,櫻島埠頭,none,missing_total_div; missing_shares
-27080,久世,none,missing_total_div; missing_shares
-18280,田辺工業,none,missing_total_div; missing_shares
-86140,東洋証券,none,missing_total_div; missing_shares
-96220,スペース,none,missing_total_div; missing_shares
-45780,大塚ホールディングス,none,missing_dps; missing_total_div; missing_shares
-38530,アステリア,none,missing_total_div; missing_shares
-85580,東和銀行,none,missing_dps; missing_total_div; missing_shares
-80880,岩谷産業,none,missing_total_div; missing_shares
-54820,愛知製鋼,none,missing_total_div; missing_shares
-68220,大井電気,none,missing_dps; missing_total_div; missing_shares
-74620,ＣＡＰＩＴＡ,none,missing_dps; missing_total_div; missing_shares
-74590,メディパルホールディングス,none,missing_total_div; missing_shares
-85510,北日本銀行,none,missing_total_div; missing_shares
-25010,サッポロホールディングス,none,missing_dps; missing_total_div; missing_shares
-19600,サンテック,none,missing_dps; missing_total_div; missing_shares
-68320,アオイ電子,none,missing_dps; missing_total_div; missing_shares
-83830,鳥取銀行,none,missing_total_div; missing_shares
-32010,日本毛織,none,missing_total_div; missing_shares
-69620,大真空,none,missing_dps; missing_total_div; missing_shares
-21220,インタースペース,none,missing_dps; missing_total_div; missing_shares
-80650,佐藤商事,none,missing_total_div; missing_shares
-56120,日本鋳鉄管,none,missing_dps; missing_total_div; missing_shares
-70110,三菱重工業,none,missing_dps; missing_total_div; missing_shares
-14180,インターライフホールディングス,none,missing_dps; missing_total_div; missing_shares
-93060,東陽倉庫,none,missing_total_div; missing_shares
-70370,テノ．ホールディングス,none,missing_total_div; missing_shares
-99600,東テク,none,missing_total_div; missing_shares
-63930,油研工業,none,missing_total_div; missing_shares
-92790,ギフトホールディングス,none,missing_dps; missing_total_div; missing_shares
-78270,オービス,none,missing_total_div; missing_shares
-79110,ＴＯＰＰＡＮホールディングス,none,missing_dps; missing_total_div; missing_shares
-76980,アイスコ,none,missing_dps; missing_total_div; missing_shares
-17620,高松コンストラクショングループ,none,missing_dps; missing_total_div; missing_shares
-63280,荏原実業,none,missing_dps; missing_total_div; missing_shares
-63490,小森コーポレーション,none,missing_dps; missing_total_div; missing_shares
-68990,ＡＳＴＩ,none,missing_total_div; missing_shares
 98200,エムティジェネックス,none,missing_dps; missing_total_div; missing_shares
-39180,ＰＣＩホールディングス,none,missing_dps; missing_total_div; missing_shares
-78780,光・彩,none,missing_total_div; missing_shares
-52900,ベルテクスコーポレーション,none,missing_total_div; missing_shares
-14330,ベステラ,none,missing_dps; missing_total_div; missing_shares
-34350,サンコーテクノ,none,missing_dps; missing_total_div; missing_shares
-15140,住石ホールディングス,none,missing_total_div; missing_shares
-45530,東和薬品,none,missing_dps; missing_total_div; missing_shares
-90650,山九,none,missing_dps; missing_total_div; missing_shares
-72080,カネミツ,none,missing_total_div; missing_shares
-24920,インフォマート,none,missing_dps; missing_total_div; missing_shares
-87040,トレイダーズホールディングス,none,missing_total_div; missing_shares
-65160,山洋電気,none,missing_dps; missing_total_div; missing_shares
-31830,ウイン・パートナーズ,none,missing_total_div; missing_shares
-80180,三共生興,none,missing_total_div; missing_shares
-19040,大成温調,none,missing_dps; missing_total_div; missing_shares
-19290,日特建設,none,missing_dps; missing_total_div; missing_shares
-71830,あんしん保証,none,missing_dps; missing_total_div; missing_shares
-75810,サイゼリヤ,none,missing_total_div; missing_shares
-72500,太平洋工業,none,missing_total_div; missing_shares
-51420,アキレス,none,missing_dps; missing_total_div; missing_shares
+62890,技研製作所,none,missing_dps; missing_total_div; missing_shares
 46250,アトミクス,none,missing_total_div; missing_shares
-19450,東京エネシス,none,missing_dps; missing_total_div; missing_shares
-19970,暁飯島工業,none,missing_dps; missing_total_div; missing_shares
-33990,丸千代山岡家,none,missing_total_div; missing_shares
-35510,ダイニック,none,missing_dps; missing_total_div; missing_shares
-93550,リンコーコーポレーション,none,missing_total_div; missing_shares
-38920,岡山製紙,none,missing_total_div; missing_shares
-17880,三東工業社,none,missing_total_div; missing_shares
-52790,日本興業,none,missing_total_div; missing_shares
-18330,奥村組,none,missing_total_div; missing_shares
-72400,ＮＯＫ,none,missing_dps; missing_total_div; missing_shares
-66630,太洋テクノレックス,none,missing_total_div; missing_shares
-32940,イーグランド,none,missing_total_div; missing_shares
-29930,長栄,none,missing_total_div; missing_shares
-60930,エスクロー・エージェント・ジャパン,none,missing_dps; missing_total_div; missing_shares
-95370,北陸瓦斯,none,missing_dps; missing_total_div; missing_shares
-31510,バイタルケーエスケー・ホールディングス,none,missing_total_div; missing_shares
-89180,ランド,none,missing_dps; missing_total_div; missing_shares
-32670,フィル・カンパニー,none,missing_total_div; missing_shares
-76000,日本エム・ディ・エム,none,missing_dps; missing_total_div; missing_shares
-38610,王子ホールディングス,none,missing_dps; missing_total_div; missing_shares
-77230,愛知時計電機,none,missing_total_div; missing_shares
-45070,塩野義製薬,none,missing_dps; missing_total_div; missing_shares
-77690,リズム,none,missing_total_div; missing_shares
-97090,ＮＣＳ＆Ａ,none,missing_total_div; missing_shares
-63090,巴工業,none,missing_dps; missing_total_div; missing_shares
-39740,ＳＣＡＴ,none,missing_dps; missing_total_div; missing_shares
-66470,森尾電機,none,missing_total_div; missing_shares
-95310,東京瓦斯,none,missing_dps; missing_total_div; missing_shares
-57020,大紀アルミニウム工業所,none,missing_dps; missing_total_div; missing_shares
-19410,中電工,none,missing_dps; missing_total_div; missing_shares
-64280,オーイズミ,none,missing_dps; missing_total_div; missing_shares
-72140,ＧＭＢ,none,missing_dps; missing_total_div; missing_shares
-80060,ユアサ・フナショク,none,missing_total_div; missing_shares
-51860,ニッタ,none,missing_total_div; missing_shares
-27840,アルフレッサ　ホールディングス,none,missing_dps; missing_total_div; missing_shares
-45480,生化学工業,none,missing_dps; missing_total_div; missing_shares
-40050,住友化学,none,missing_dps; missing_total_div; missing_shares
-42420,タカギセイコー,none,missing_dps; missing_total_div; missing_shares
-44400,ヴィッツ,none,missing_dps; missing_total_div; missing_shares
-34010,帝人,none,missing_dps; missing_total_div; missing_shares
-59920,中央発條,none,missing_dps; missing_total_div; missing_shares
-26020,日清オイリオグループ,none,missing_dps; missing_total_div; missing_shares
-52880,アジアパイルホールディングス,none,missing_total_div; missing_shares
-79320,ニッピ,none,missing_total_div; missing_shares
-79710,東リ,none,missing_total_div; missing_shares
-72590,アイシン,none,missing_dps; missing_total_div; missing_shares
-40230,クレハ,none,missing_total_div; missing_shares
 63630,酉島製作所,none,missing_dps; missing_total_div; missing_shares
-45120,わかもと製薬,none,missing_total_div; missing_shares
-62180,エンシュウ,none,missing_dps; missing_total_div; missing_shares
-39460,トーモク,none,missing_total_div; missing_shares
-72760,小糸製作所,none,missing_dps; missing_total_div; missing_shares
-80590,第一実業,none,missing_total_div; missing_shares
-98370,モリト,none,missing_total_div; missing_shares
-86220,水戸証券,none,missing_dps; missing_total_div; missing_shares
-68940,パルステック工業,none,missing_total_div; missing_shares
-19640,中外炉工業,none,missing_dps; missing_total_div; missing_shares
-85700,イオンフィナンシャルサービス,none,missing_dps; missing_total_div; missing_shares
-43690,トリケミカル研究所,none,missing_dps; missing_total_div; missing_shares
-94050,朝日放送グループホールディングス,none,missing_total_div; missing_shares
-71500,島根銀行,none,missing_dps; missing_total_div; missing_shares
-56590,日本精線,none,missing_total_div; missing_shares
-19790,大氣社,none,missing_dps; missing_total_div; missing_shares
-81270,ヤマトインターナショナル,none,missing_dps; missing_total_div; missing_shares
-74170,南陽,none,missing_total_div; missing_shares
-75700,橋本総業ホールディングス,none,missing_total_div; missing_shares
-91930,東京汽船,none,missing_dps; missing_total_div; missing_shares
-56990,イボキン,none,missing_dps; missing_total_div; missing_shares
-38370,アドソル日進,none,missing_total_div; missing_shares
-18870,日本国土開発,none,missing_dps; missing_total_div; missing_shares
-31230,サイボー,none,missing_dps; missing_total_div; missing_shares
-90720,ニッコンホールディングス,none,missing_dps; missing_total_div; missing_shares
-18500,南海辰村建設,none,missing_total_div; missing_shares
-64020,兼松エンジニアリング,none,missing_total_div; missing_shares
-19690,高砂熱学工業,none,missing_dps; missing_total_div; missing_shares
-80760,カノークス,none,missing_total_div; missing_shares
-86970,日本取引所グループ,none,missing_total_div; missing_shares
-76190,田中商事,none,missing_total_div; missing_shares
-28020,味の素,none,missing_dps; missing_total_div; missing_shares
-32050,ダイドーリミテッド,none,missing_total_div; missing_shares
-48280,ビジネスエンジニアリング,none,missing_dps; missing_total_div; missing_shares
-72380,曙ブレーキ工業,none,missing_dps; missing_total_div; missing_shares
-75200,エコス,none,missing_dps; missing_total_div; missing_shares
-89200,東祥,none,missing_total_div; missing_shares
-85110,日本証券金融,none,missing_dps; missing_total_div; missing_shares
-75990,ＩＤＯＭ,none,missing_total_div; missing_shares
-88870,シーラホールディングス,none,missing_total_div; missing_shares
-82180,コメリ,none,missing_dps; missing_total_div; missing_shares
-80110,三陽商会,none,missing_dps; missing_total_div; missing_shares
-59900,スーパーツール,none,missing_dps; missing_total_div; missing_shares
-33920,デリカフーズホールディングス,none,missing_total_div; missing_shares
-68100,マクセル,none,missing_dps; missing_total_div; missing_shares
-56020,栗本鐵工所,none,missing_dps; missing_total_div; missing_shares
-29820,ＡＤワークスグループ,none,missing_total_div; missing_shares
-38780,巴川コーポレーション,none,missing_dps; missing_total_div; missing_shares
-82530,クレディセゾン,none,missing_dps; missing_total_div; missing_shares
-69010,澤藤電機,none,missing_dps; missing_total_div; missing_shares
-97290,トーカイ,none,missing_dps; missing_total_div; missing_shares
-75210,ムサシ,none,missing_total_div; missing_shares
-46330,サカタインクス,none,missing_total_div; missing_shares
-21140,フジ日本,none,missing_total_div; missing_shares
-80660,三谷商事,none,missing_total_div; missing_shares
-50210,コスモエネルギーホールディングス,none,missing_dps; missing_total_div; missing_shares
+60930,エスクロー・エージェント・ジャパン,none,missing_dps; missing_total_div; missing_shares
+72400,ＮＯＫ,none,missing_dps; missing_total_div; missing_shares
+67270,ワコム,none,missing_total_div; missing_shares
+32010,日本毛織,none,missing_total_div; missing_shares
+45070,塩野義製薬,none,missing_dps; missing_total_div; missing_shares
+63240,ハーモニック・ドライブ・システムズ,none,missing_dps; missing_total_div; missing_shares
+69620,大真空,none,missing_dps; missing_total_div; missing_shares
+54910,日本金属,none,missing_dps; missing_total_div; missing_shares
 32990,ムゲンエステート,none,missing_total_div; missing_shares
-27300,エディオン,none,missing_dps; missing_total_div; missing_shares
-70040,カナデビア,none,missing_dps; missing_total_div; missing_shares
-18990,福田組,none,missing_total_div; missing_shares
-61030,オークマ,none,missing_dps; missing_total_div; missing_shares
-18520,淺沼組,none,missing_total_div; missing_shares
-75250,リックス,none,missing_total_div; missing_shares
-74250,初穂商事,none,missing_total_div; missing_shares
-90440,南海電気鉄道,none,missing_dps; missing_total_div; missing_shares
-93040,澁澤倉庫,none,missing_dps; missing_total_div; missing_shares
-76060,ユナイテッドアローズ,none,missing_dps; missing_total_div; missing_shares
-72260,極東開発工業,none,missing_dps; missing_total_div; missing_shares
-75230,アールビバン,none,missing_total_div; missing_shares
-43170,レイ,none,missing_total_div; missing_shares
-76700,オーウエル,none,missing_dps; missing_total_div; missing_shares
-37990,キーウェアソリューションズ,none,missing_total_div; missing_shares
-69070,ジオマテック,none,missing_dps; missing_total_div; missing_shares
-96910,両毛システムズ,none,missing_total_div; missing_shares
-94750,昭文社ホールディングス,none,missing_dps; missing_total_div; missing_shares
-49180,アイビー化粧品,none,missing_dps; missing_total_div; missing_shares
-76490,スギホールディングス,none,missing_dps; missing_total_div; missing_shares
-60890,ウィルグループ,none,missing_dps; missing_total_div; missing_shares
+19450,東京エネシス,none,missing_dps; missing_total_div; missing_shares
+14180,インターライフホールディングス,none,missing_dps; missing_total_div; missing_shares
 39430,大石産業,none,missing_dps; missing_total_div; missing_shares
-38480,データ・アプリケーション,none,missing_dps; missing_total_div; missing_shares
-59840,兼房,none,missing_total_div; missing_shares
-91150,明海グループ,none,missing_total_div; missing_shares
-77310,ニコン,none,missing_dps; missing_total_div; missing_shares
-87930,ＮＥＣキャピタルソリューション,none,missing_dps; missing_total_div; missing_shares
-63380,タカトリ,none,missing_dps; missing_total_div; missing_shares
-46730,川崎地質,none,missing_dps; missing_total_div; missing_shares
-87890,フィンテック　グローバル,none,missing_dps; missing_total_div; missing_shares
-59330,アルインコ,none,missing_dps; missing_total_div; missing_shares
-70920,Ｆａｓｔ　Ｆｉｔｎｅｓｓ　Ｊａｐａｎ,none,missing_total_div; missing_shares
-63350,東京機械製作所,none,missing_dps; missing_total_div; missing_shares
-59560,トーソー,none,missing_total_div; missing_shares
-29070,あじかん,none,missing_total_div; missing_shares
-52160,倉元製作所,none,missing_dps; missing_total_div; missing_shares
-59150,駒井ハルテック,none,missing_dps; missing_total_div; missing_shares
-71200,ＳＨＩＮＫＯ,none,missing_total_div; missing_shares
+80110,三陽商会,none,missing_dps; missing_total_div; missing_shares
+29930,長栄,none,missing_total_div; missing_shares
+63280,荏原実業,none,missing_dps; missing_total_div; missing_shares
+27300,エディオン,none,missing_dps; missing_total_div; missing_shares
+68820,三社電機製作所,none,missing_dps; missing_total_div; missing_shares
+18870,日本国土開発,none,missing_dps; missing_total_div; missing_shares
+44400,ヴィッツ,none,missing_dps; missing_total_div; missing_shares
 22070,ｍｅｉｔｏ,none,missing_dps; missing_total_div; missing_shares
-66770,エスケーエレクトロニクス,none,missing_total_div; missing_shares
-79530,菊水化学工業,none,missing_total_div; missing_shares
-17830,ｆａｎｔａｓｉｓｔａ,none,missing_dps; missing_total_div; missing_shares
-42490,森六,none,missing_dps; missing_total_div; missing_shares
-34890,フェイスネットワーク,none,missing_total_div; missing_shares
-62660,タツモ,none,missing_dps; missing_total_div; missing_shares
-19760,明星工業,none,missing_dps; missing_total_div; missing_shares
-35930,ホギメディカル,none,missing_dps; missing_total_div; missing_shares
-51330,テリロジーホールディングス,none,missing_dps; missing_total_div; missing_shares
-79360,アシックス,none,missing_dps; missing_total_div; missing_shares
-98880,ＵＥＸ,none,missing_total_div; missing_shares
-59430,ノーリツ,none,missing_dps; missing_total_div; missing_shares
-32800,エストラスト,none,missing_total_div; missing_shares
-98490,共同紙販ホールディングス,none,missing_dps; missing_total_div; missing_shares
-52500,プライム・ストラテジー,none,missing_dps; missing_total_div; missing_shares
-18200,西松建設,none,missing_dps; missing_total_div; missing_shares
+96220,スペース,none,missing_total_div; missing_shares
+25010,サッポロホールディングス,none,missing_dps; missing_total_div; missing_shares
+77230,愛知時計電機,none,missing_total_div; missing_shares
+99600,東テク,none,missing_total_div; missing_shares
+43170,レイ,none,missing_total_div; missing_shares
+51420,アキレス,none,missing_dps; missing_total_div; missing_shares
+68320,アオイ電子,none,missing_dps; missing_total_div; missing_shares
+98370,モリト,none,missing_total_div; missing_shares
+71200,ＳＨＩＮＫＯ,none,missing_total_div; missing_shares
+66630,太洋テクノレックス,none,missing_total_div; missing_shares
+30400,ソリトンシステムズ,none,missing_total_div; missing_shares
+69010,澤藤電機,none,missing_dps; missing_total_div; missing_shares
+60890,ウィルグループ,none,missing_dps; missing_total_div; missing_shares
+46110,大日本塗料,none,missing_dps; missing_total_div; missing_shares
 37960,いい生活,none,missing_dps; missing_total_div; missing_shares
-68640,エヌエフホールディングス,none,missing_dps; missing_total_div; missing_shares
-89170,ファースト住建,none,missing_dps; missing_total_div; missing_shares
-58520,アーレスティ,none,missing_dps; missing_total_div; missing_shares
-22960,伊藤ハム米久ホールディングス,none,missing_dps; missing_total_div; missing_shares
-59820,マルゼン,none,missing_dps; missing_total_div; missing_shares
-15180,三井松島ホールディングス,none,missing_dps; missing_total_div; missing_shares
-33230,レカム,none,missing_total_div; missing_shares
-30860,Ｊ．フロント　リテイリング,none,missing_total_div; missing_shares
-54580,高砂鐵工,none,missing_dps; missing_total_div; missing_shares
-66140,シキノハイテック,none,missing_dps; missing_total_div; missing_shares
-28710,ニチレイ,none,missing_total_div; missing_shares
-62540,野村マイクロ・サイエンス,none,missing_dps; missing_total_div; missing_shares
-63390,新東工業,none,missing_dps; missing_total_div; missing_shares
-73540,ダイレクトマーケティングミックス,none,missing_dps; missing_total_div; missing_shares
-30790,ディーブイエックス,none,missing_dps; missing_total_div; missing_shares
-37500,ＡＤＲ１２０Ｓ,none,missing_dps; missing_total_div; missing_shares
-81330,伊藤忠エネクス,none,missing_total_div; missing_shares
-25970,ユニカフェ,none,missing_dps; missing_total_div
-58510,リョービ,none,missing_total_div; missing_shares
-34470,信和,none,missing_dps; missing_total_div; missing_shares
-52370,ノザワ,none,missing_total_div; missing_shares
-80700,東京産業,none,missing_dps; missing_total_div; missing_shares
-52320,住友大阪セメント,none,missing_dps; missing_total_div; missing_shares
-42060,アイカ工業,none,missing_total_div; missing_shares
-32770,サンセイランディック,none,missing_dps; missing_total_div; missing_shares
-75950,アルゴグラフィックス,none,missing_dps; missing_total_div; missing_shares
-96860,東洋テック,none,missing_dps; missing_total_div; missing_shares
-91470,ＮＩＰＰＯＮ　ＥＸＰＲＥＳＳホールディングス,none,missing_dps; missing_total_div; missing_shares
-96350,武蔵野興業,none,missing_dps; missing_total_div; missing_shares
-34230,エスイー,none,missing_dps; missing_total_div; missing_shares
-98350,ジュンテンドー,none,missing_dps; missing_total_div; missing_shares
-66380,ミマキエンジニアリング,none,missing_total_div; missing_shares
-21750,エス・エム・エス,none,missing_total_div; missing_shares
-61960,ストライク,none,missing_total_div; missing_shares
-54630,丸一鋼管,none,missing_dps; missing_total_div; missing_shares
-78980,ウッドワン,none,missing_dps; missing_total_div; missing_shares
-14500,ＴＡＮＡＫＥＮ,none,missing_total_div; missing_shares
-71750,今村証券,none,missing_dps; missing_total_div; missing_shares
-32040,トーア紡コーポレーション,none,missing_dps; missing_total_div; missing_shares
-72780,エクセディ,none,missing_dps; missing_total_div; missing_shares
-59280,アルメタックス,none,missing_dps; missing_total_div; missing_shares
-61580,和井田製作所,none,missing_total_div; missing_shares
-26530,イオン九州,none,missing_dps; missing_total_div; missing_shares
-72470,ミクニ,none,missing_dps; missing_total_div; missing_shares
-35010,ＳＵＭＩＮＯＥ,none,missing_dps; missing_total_div; missing_shares
-79140,共同印刷,none,missing_total_div; missing_shares
-85720,アコム,none,missing_dps; missing_total_div; missing_shares
-50790,ノバック,none,missing_dps; missing_total_div; missing_shares
-77300,マニー,none,missing_dps; missing_total_div; missing_shares
-30770,ホリイフードサービス,none,missing_dps; missing_total_div; missing_shares
-61450,ＮＩＴＴＯＫＵ,none,missing_dps; missing_total_div; missing_shares
-18440,大盛工業,none,missing_dps; missing_total_div; missing_shares
-76730,ダイコー通産,none,missing_total_div; missing_shares
-48290,日本エンタープライズ,none,missing_dps; missing_total_div; missing_shares
-86280,松井証券,none,missing_dps; missing_total_div; missing_shares
-33930,スターティアホールディングス,none,missing_total_div; missing_shares
-86130,丸三証券,none,missing_dps; missing_total_div; missing_shares
-96510,日本プロセス,none,missing_dps; missing_total_div; missing_shares
-44940,バリオセキュア,none,missing_dps; missing_total_div; missing_shares
+31510,バイタルケーエスケー・ホールディングス,none,missing_total_div; missing_shares
+21220,インタースペース,none,missing_dps; missing_total_div; missing_shares
+35930,ホギメディカル,none,missing_dps; missing_total_div; missing_shares
+31230,サイボー,none,missing_dps; missing_total_div; missing_shares
+51330,テリロジーホールディングス,none,missing_dps; missing_total_div; missing_shares
+34010,帝人,none,missing_dps; missing_total_div; missing_shares
+39460,トーモク,none,missing_total_div; missing_shares
+38920,岡山製紙,none,missing_total_div; missing_shares
+54820,愛知製鋼,none,missing_total_div; missing_shares
 90100,富士急行,none,missing_dps; missing_total_div; missing_shares
-98780,セキド,none,missing_dps; missing_total_div; missing_shares
-75750,日本ライフライン,none,missing_total_div; missing_shares
-18070,佐藤渡辺,none,missing_dps; missing_total_div; missing_shares
-43920,ＦＩＧ,none,missing_total_div; missing_shares
-52620,日本ヒューム,none,missing_dps; missing_total_div; missing_shares
-33170,フライングガーデン,none,missing_dps; missing_total_div; missing_shares
-74430,横浜魚類,none,missing_dps; missing_total_div; missing_shares
-63450,アイチ　コーポレーション,none,missing_total_div; missing_shares
-59650,フジマック,none,missing_total_div; missing_shares
-30760,あい　ホールディングス,none,missing_total_div; missing_shares
-65430,日宣,none,missing_dps; missing_total_div; missing_shares
-21460,ＵＴグループ,none,missing_dps; missing_total_div; missing_shares
-65840,三櫻工業,none,missing_total_div; missing_shares
-34750,グッドコムアセット,none,missing_dps; missing_total_div; missing_shares
-38770,中越パルプ工業,none,missing_dps; missing_total_div; missing_shares
-78180,トランザクション,none,missing_total_div; missing_shares
-22240,コモ,none,missing_dps; missing_total_div; missing_shares
-62300,ＳＡＮＥＩ,none,missing_dps; missing_total_div; missing_shares
-78040,ビーアンドピー,none,missing_total_div; missing_shares
-42160,旭有機材,none,missing_dps; missing_total_div; missing_shares
-46710,ファルコホールディングス,none,missing_total_div; missing_shares
+77220,国際計測器,none,missing_total_div; missing_shares
+19290,日特建設,none,missing_dps; missing_total_div; missing_shares
+94050,朝日放送グループホールディングス,none,missing_total_div; missing_shares
+38610,王子ホールディングス,none,missing_dps; missing_total_div; missing_shares
+76190,田中商事,none,missing_total_div; missing_shares
+65160,山洋電気,none,missing_dps; missing_total_div; missing_shares
+94410,ベルパーク,none,missing_total_div; missing_shares
+52880,アジアパイルホールディングス,none,missing_total_div; missing_shares
+63090,巴工業,none,missing_dps; missing_total_div; missing_shares
+85580,東和銀行,none,missing_dps; missing_total_div; missing_shares
+56590,日本精線,none,missing_total_div; missing_shares
+63490,小森コーポレーション,none,missing_dps; missing_total_div; missing_shares
+89200,東祥,none,missing_total_div; missing_shares
+90440,南海電気鉄道,none,missing_dps; missing_total_div; missing_shares
+40230,クレハ,none,missing_total_div; missing_shares
+80590,第一実業,none,missing_total_div; missing_shares
+19640,中外炉工業,none,missing_dps; missing_total_div; missing_shares
+57020,大紀アルミニウム工業所,none,missing_dps; missing_total_div; missing_shares
+98350,ジュンテンドー,none,missing_dps; missing_total_div; missing_shares
+82530,クレディセゾン,none,missing_dps; missing_total_div; missing_shares
+95370,北陸瓦斯,none,missing_dps; missing_total_div; missing_shares
+21750,エス・エム・エス,none,missing_total_div; missing_shares
+50210,コスモエネルギーホールディングス,none,missing_dps; missing_total_div; missing_shares
+72760,小糸製作所,none,missing_dps; missing_total_div; missing_shares
+38480,データ・アプリケーション,none,missing_dps; missing_total_div; missing_shares
+93060,東陽倉庫,none,missing_total_div; missing_shares
+77690,リズム,none,missing_total_div; missing_shares
+91930,東京汽船,none,missing_dps; missing_total_div; missing_shares
+93040,澁澤倉庫,none,missing_dps; missing_total_div; missing_shares
+27640,ひらまつ,none,missing_dps; missing_total_div; missing_shares
+90650,山九,none,missing_dps; missing_total_div; missing_shares
+40400,南海化学,none,missing_dps; missing_total_div; missing_shares
+59330,アルインコ,none,missing_dps; missing_total_div; missing_shares
+97090,ＮＣＳ＆Ａ,none,missing_total_div; missing_shares
+79110,ＴＯＰＰＡＮホールディングス,none,missing_dps; missing_total_div; missing_shares
+93530,櫻島埠頭,none,missing_total_div; missing_shares
+75700,橋本総業ホールディングス,none,missing_total_div; missing_shares
+33600,シップヘルスケアホールディングス,none,missing_total_div; missing_shares
+94750,昭文社ホールディングス,none,missing_dps; missing_total_div; missing_shares
+59900,スーパーツール,none,missing_dps; missing_total_div; missing_shares
+85110,日本証券金融,none,missing_dps; missing_total_div; missing_shares
+59560,トーソー,none,missing_total_div; missing_shares
+40050,住友化学,none,missing_dps; missing_total_div; missing_shares
+59840,兼房,none,missing_total_div; missing_shares
+76700,オーウエル,none,missing_dps; missing_total_div; missing_shares
+81330,伊藤忠エネクス,none,missing_total_div; missing_shares
+19690,高砂熱学工業,none,missing_dps; missing_total_div; missing_shares
+28100,ハウス食品グループ本社,none,missing_dps; missing_total_div; missing_shares
+27840,アルフレッサ　ホールディングス,none,missing_dps; missing_total_div; missing_shares
+80880,岩谷産業,none,missing_total_div; missing_shares
+78980,ウッドワン,none,missing_dps; missing_total_div; missing_shares
+17830,ｆａｎｔａｓｉｓｔａ,none,missing_dps; missing_total_div; missing_shares
+98490,共同紙販ホールディングス,none,missing_dps; missing_total_div; missing_shares
+65430,日宣,none,missing_total_div; missing_shares
+45520,ＪＣＲファーマ,none,missing_dps; missing_total_div; missing_shares
+18990,福田組,none,missing_total_div; missing_shares
+97290,トーカイ,none,missing_dps; missing_total_div; missing_shares
+34230,エスイー,none,missing_dps; missing_total_div; missing_shares
+21140,フジ日本,none,missing_total_div; missing_shares
 49560,コニシ,none,missing_total_div; missing_shares
+63100,井関農機,none,missing_dps; missing_total_div; missing_shares
+99820,タキヒヨー,none,missing_total_div; missing_shares
+14500,ＴＡＮＡＫＥＮ,none,missing_total_div; missing_shares
+34750,グッドコムアセット,none,missing_dps; missing_total_div; missing_shares
+68380,多摩川ホールディングス,none,missing_dps; missing_total_div; missing_shares
+85700,イオンフィナンシャルサービス,none,missing_dps; missing_total_div; missing_shares
+72260,極東開発工業,none,missing_dps; missing_total_div; missing_shares
+86970,日本取引所グループ,none,missing_total_div; missing_shares
+32770,サンセイランディック,none,missing_dps; missing_total_div; missing_shares
+29820,ＡＤワークスグループ,none,missing_total_div; missing_shares
+49180,アイビー化粧品,none,missing_dps; missing_total_div; missing_shares
+31830,ウイン・パートナーズ,none,missing_total_div; missing_shares
+98180,大丸エナウィン,none,missing_total_div; missing_shares
+78720,エステールホールディングス,none,missing_dps; missing_total_div; missing_shares
+46330,サカタインクス,none,missing_total_div; missing_shares
+59150,駒井ハルテック,none,missing_dps; missing_total_div; missing_shares
+51860,ニッタ,none,missing_total_div; missing_shares
+34890,フェイスネットワーク,none,missing_total_div; missing_shares
+97350,セコム,none,missing_dps; missing_total_div; missing_shares
+87040,トレイダーズホールディングス,none,missing_total_div; missing_shares
+72140,ＧＭＢ,none,missing_dps; missing_total_div; missing_shares
+81030,明和産業,none,missing_total_div; missing_shares
+71500,島根銀行,none,missing_dps; missing_total_div; missing_shares
+86280,松井証券,none,missing_dps; missing_total_div; missing_shares
+88870,シーラホールディングス,none,missing_total_div; missing_shares
+59430,ノーリツ,none,missing_dps; missing_total_div; missing_shares
+52790,日本興業,none,missing_total_div; missing_shares
+59820,マルゼン,none,missing_dps; missing_total_div; missing_shares
+91040,商船三井,none,missing_total_div; missing_shares
+33580,ワイエスフード,none,missing_dps; missing_total_div; missing_shares
+63350,東京機械製作所,none,missing_dps; missing_total_div; missing_shares
+28020,味の素,none,missing_dps; missing_total_div; missing_shares
+70920,Ｆａｓｔ　Ｆｉｔｎｅｓｓ　Ｊａｐａｎ,none,missing_total_div; missing_shares
+72780,エクセディ,none,missing_dps; missing_total_div; missing_shares
+53510,品川リフラ,none,missing_dps; missing_total_div; missing_shares
+35240,日東製網,none,missing_dps; missing_total_div; missing_shares
+81730,上新電機,none,missing_total_div; missing_shares
+66770,エスケーエレクトロニクス,none,missing_total_div; missing_shares
+75250,リックス,none,missing_total_div; missing_shares
+79360,アシックス,none,missing_dps; missing_total_div; missing_shares
+61570,日進工具,none,missing_dps; missing_total_div; missing_shares
+75540,幸楽苑,none,missing_dps; missing_total_div; missing_shares
+28710,ニチレイ,none,missing_total_div; missing_shares
+75230,アールビバン,none,missing_total_div; missing_shares
+32800,エストラスト,none,missing_total_div; missing_shares
+62010,豊田自動織機,none,missing_total_div; missing_shares
+39180,ＰＣＩホールディングス,none,missing_dps; missing_total_div; missing_shares
+96860,東洋テック,none,missing_dps; missing_total_div; missing_shares
+87930,ＮＥＣキャピタルソリューション,none,missing_dps; missing_total_div; missing_shares
+62660,タツモ,none,missing_dps; missing_total_div; missing_shares
+96390,三協フロンテア,none,missing_dps; missing_total_div; missing_shares
+91470,ＮＩＰＰＯＮ　ＥＸＰＲＥＳＳホールディングス,none,missing_dps; missing_total_div; missing_shares
+74420,中山福,none,missing_dps; missing_total_div; missing_shares
+51990,不二ラテックス,none,missing_total_div; missing_shares
+76060,ユナイテッドアローズ,none,missing_dps; missing_total_div; missing_shares
+80660,三谷商事,none,missing_total_div; missing_shares
+17620,高松コンストラクショングループ,none,missing_dps; missing_total_div; missing_shares
+32040,トーア紡コーポレーション,none,missing_dps; missing_total_div; missing_shares
+18970,金下建設,none,missing_dps; missing_total_div; missing_shares
+19760,明星工業,none,missing_dps; missing_total_div; missing_shares
+23590,コア,none,missing_total_div; missing_shares
+29070,あじかん,none,missing_total_div; missing_shares
+70040,カナデビア,none,missing_dps; missing_total_div; missing_shares
+52160,倉元製作所,none,missing_dps; missing_total_div; missing_shares
+30860,Ｊ．フロント　リテイリング,none,missing_total_div; missing_shares
+18520,淺沼組,none,missing_total_div; missing_shares
+25970,ユニカフェ,none,missing_dps; missing_total_div
+79530,菊水化学工業,none,missing_total_div; missing_shares
+34470,信和,none,missing_dps; missing_total_div; missing_shares
+42060,アイカ工業,none,missing_total_div; missing_shares
+72380,曙ブレーキ工業,none,missing_dps; missing_total_div; missing_shares
+76490,スギホールディングス,none,missing_dps; missing_total_div; missing_shares
+76730,ダイコー通産,none,missing_total_div; missing_shares
+17760,三井住建道路,none,missing_dps; missing_total_div; missing_shares
+33920,デリカフーズホールディングス,none,missing_total_div; missing_shares
+82300,はせがわ,none,missing_dps; missing_total_div; missing_shares
+15180,三井松島ホールディングス,none,missing_dps; missing_total_div; missing_shares
+43180,クイック,none,missing_dps; missing_total_div; missing_shares
+74430,横浜魚類,none,missing_dps; missing_total_div; missing_shares
+30790,ディーブイエックス,none,missing_dps; missing_total_div; missing_shares
+63450,アイチ　コーポレーション,none,missing_total_div; missing_shares
+33230,レカム,none,missing_total_div; missing_shares
+98880,ＵＥＸ,none,missing_total_div; missing_shares
+39120,モバイルファクトリー,none,missing_total_div; missing_shares
+37500,ＡＤＲ１２０Ｓ,none,missing_dps; missing_total_div; missing_shares
+22960,伊藤ハム米久ホールディングス,none,missing_dps; missing_total_div; missing_shares
+22240,コモ,none,missing_dps; missing_total_div; missing_shares
+48280,ビジネスエンジニアリング,none,missing_dps; missing_total_div; missing_shares
+79140,共同印刷,none,missing_total_div; missing_shares
+33150,日本コークス工業,none,missing_dps; missing_total_div; missing_shares
+52320,住友大阪セメント,none,missing_dps; missing_total_div; missing_shares
+71750,今村証券,none,missing_dps; missing_total_div; missing_shares
+61450,ＮＩＴＴＯＫＵ,none,missing_dps; missing_total_div; missing_shares
+38370,アドソル日進,none,missing_total_div; missing_shares
+89960,ハウスフリーダム,none,missing_total_div; missing_shares
+65700,共和コーポレーション,none,missing_total_div; missing_shares
+72640,ムロコーポレーション,none,missing_dps; missing_total_div; missing_shares
+58680,ロココ,none,missing_total_div; missing_shares
+24790,ジェイテック,none,missing_total_div; missing_shares
+82180,コメリ,none,missing_dps; missing_total_div; missing_shares
+99140,植松商会,none,missing_total_div; missing_shares
+66380,ミマキエンジニアリング,none,missing_total_div; missing_shares
+42880,アズジェント,none,missing_dps; missing_total_div; missing_shares
+18500,南海辰村建設,none,missing_total_div; missing_shares
+21850,シイエム・シイ,none,missing_dps; missing_total_div; missing_shares
+95090,北海道電力,none,missing_dps; missing_total_div; missing_shares
+77300,マニー,none,missing_dps; missing_total_div; missing_shares
+63380,タカトリ,none,missing_dps; missing_total_div; missing_shares
+89170,ファースト住建,none,missing_dps; missing_total_div; missing_shares
+71300,ヤマエグループホールディングス,none,missing_total_div; missing_shares
+30760,あい　ホールディングス,none,missing_total_div; missing_shares
+85720,アコム,none,missing_dps; missing_total_div; missing_shares
+59230,高田機工,none,missing_dps; missing_total_div; missing_shares
+97190,ＳＣＳＫ,none,missing_dps; missing_total_div; missing_shares
+40910,日本酸素ホールディングス,none,missing_total_div; missing_shares
+75950,アルゴグラフィックス,none,missing_dps; missing_total_div; missing_shares
+75990,ＩＤＯＭ,none,missing_total_div; missing_shares
+18200,西松建設,none,missing_dps; missing_total_div; missing_shares
+77310,ニコン,none,missing_dps; missing_total_div; missing_shares
+42490,森六,none,missing_dps; missing_total_div; missing_shares
+59410,中西製作所,none,missing_dps; missing_total_div; missing_shares
+33170,フライングガーデン,none,missing_dps; missing_total_div; missing_shares
+96510,日本プロセス,none,missing_dps; missing_total_div; missing_shares
+97060,日本空港ビルデング,none,missing_dps; missing_total_div; missing_shares
+90080,京王電鉄,none,missing_total_div; missing_shares
+96350,武蔵野興業,none,missing_dps; missing_total_div; missing_shares
+24100,キャリアデザインセンター,none,missing_total_div; missing_shares
+89140,エリアリンク,none,missing_dps; missing_total_div; missing_shares
+59110,横河ブリッジホールディングス,none,missing_dps; missing_total_div; missing_shares
+89180,ランド,none,missing_dps; missing_total_div; missing_shares
+45480,生化学工業,none,missing_dps; missing_total_div; missing_shares
+45950,ミズホメディー,none,missing_dps; missing_total_div; missing_shares
+96190,イチネンホールディングス,none,missing_total_div; missing_shares
+56120,日本鋳鉄管,none,missing_dps; missing_total_div; missing_shares
+26530,イオン九州,none,missing_dps; missing_total_div; missing_shares
 68480,東亜ディーケーケー,none,missing_total_div; missing_shares
 44650,ニイタカ,none,missing_total_div; missing_shares
-49020,コニカミノルタ,none,missing_dps; missing_total_div; missing_shares
-51990,不二ラテックス,none,missing_total_div; missing_shares
-40910,日本酸素ホールディングス,none,missing_total_div; missing_shares
-98180,大丸エナウィン,none,missing_total_div; missing_shares
-77430,シード,none,missing_dps; missing_total_div; missing_shares
-71300,ヤマエグループホールディングス,none,missing_total_div; missing_shares
-14300,ファーストコーポレーション,none,missing_total_div; missing_shares
-28100,ハウス食品グループ本社,none,missing_dps; missing_total_div; missing_shares
-79810,タカラスタンダード,none,missing_dps; missing_total_div; missing_shares
-96390,三協フロンテア,none,missing_dps; missing_total_div; missing_shares
-97060,日本空港ビルデング,none,missing_dps; missing_total_div; missing_shares
-17170,明豊ファシリティワークス,none,missing_total_div; missing_shares
-21680,パソナグループ,none,missing_dps; missing_total_div; missing_shares
-24100,キャリアデザインセンター,none,missing_total_div; missing_shares
-46570,環境管理センター,none,missing_dps; missing_total_div; missing_shares
-93600,鈴与シンワート,none,missing_total_div; missing_shares
-34050,クラレ,none,missing_total_div; missing_shares
-31500,グリムス,none,missing_total_div; missing_shares
-45950,ミズホメディー,none,missing_dps; missing_total_div; missing_shares
-35800,小松マテーレ,none,missing_total_div; missing_shares
-96210,建設技術研究所,none,missing_dps; missing_total_div; missing_shares
-24790,ジェイテック,none,missing_total_div; missing_shares
-74420,中山福,none,missing_dps; missing_total_div; missing_shares
-59410,中西製作所,none,missing_dps; missing_total_div; missing_shares
-78560,萩原工業,none,missing_dps; missing_total_div; missing_shares
-60740,ジェイエスエス,none,missing_dps; missing_total_div; missing_shares
-69050,コーセル,none,missing_total_div; missing_shares
-59110,横河ブリッジホールディングス,none,missing_dps; missing_total_div; missing_shares
-65380,ディスラプターズ,none,missing_total_div; missing_shares
-69880,日東電工,none,missing_dps; missing_total_div; missing_shares
-43180,クイック,none,missing_dps; missing_total_div; missing_shares
-32420,アーバネットコーポレーション,none,missing_dps; missing_total_div; missing_shares
-18970,金下建設,none,missing_dps; missing_total_div; missing_shares
-90080,京王電鉄,none,missing_total_div; missing_shares
-21850,シイエム・シイ,none,missing_dps; missing_total_div; missing_shares
-43670,広栄化学,none,missing_dps; missing_total_div; missing_shares
-37870,テクノマセマティカル,none,missing_dps; missing_total_div; missing_shares
-70440,ピアラ,none,missing_dps; missing_total_div; missing_shares
-89960,ハウスフリーダム,none,missing_total_div; missing_shares
-62010,豊田自動織機,none,missing_total_div; missing_shares
-37680,リスクモンスター,none,missing_dps; missing_total_div; missing_shares
-62220,島精機製作所,none,missing_total_div; missing_shares
-22880,丸大食品,none,missing_dps; missing_total_div; missing_shares
-35590,ピーバンドットコム,none,missing_total_div; missing_shares
-95040,中国電力,none,missing_dps; missing_total_div; missing_shares
-60540,リブセンス,none,missing_dps; missing_total_div; missing_shares
-61570,日進工具,none,missing_dps; missing_total_div; missing_shares
-99140,植松商会,none,missing_total_div; missing_shares
-87060,極東証券,none,missing_dps; missing_total_div; missing_shares
+69070,ジオマテック,none,missing_dps; missing_total_div; missing_shares
+72590,アイシン,none,missing_dps; missing_total_div; missing_shares
+21460,ＵＴグループ,none,missing_dps; missing_total_div; missing_shares
+75780,ニチリョク,none,missing_dps; missing_total_div; missing_shares
+43920,ＦＩＧ,none,missing_total_div; missing_shares
 76040,梅の花グループ,none,missing_dps; missing_total_div; missing_shares
-92470,ＴＲＥホールディングス,none,missing_total_div; missing_shares
-17760,三井住建道路,none,missing_dps; missing_total_div; missing_shares
-96120,ラックランド,none,missing_total_div; missing_shares
-33200,クロスプラス,none,missing_dps; missing_total_div; missing_shares
-72150,ファルテック,none,missing_dps; missing_total_div; missing_shares
-97190,ＳＣＳＫ,none,missing_dps; missing_total_div; missing_shares
-75540,幸楽苑,none,missing_dps; missing_total_div; missing_shares
-62450,ヒラノテクシード,none,missing_dps; missing_total_div; missing_shares
-96190,イチネンホールディングス,none,missing_total_div; missing_shares
-19940,高橋カーテンウォール工業,none,missing_dps; missing_total_div; missing_shares
-91040,商船三井,none,missing_total_div; missing_shares
-99820,タキヒヨー,none,missing_total_div; missing_shares
-90170,新潟交通,none,missing_dps; missing_total_div; missing_shares
-68740,協立電機,none,missing_total_div; missing_shares
 95390,京葉瓦斯,none,missing_total_div; missing_shares
-37660,システムズ・デザイン,none,missing_dps; missing_total_div; missing_shares
-89140,エリアリンク,none,missing_dps; missing_total_div; missing_shares
-30110,バナーズ,none,missing_dps; missing_total_div; missing_shares
-26540,アスモ,none,missing_dps; missing_total_div; missing_shares
+72470,ミクニ,none,missing_dps; missing_total_div; missing_shares
+62450,ヒラノテクシード,none,missing_dps; missing_total_div; missing_shares
+58520,アーレスティ,none,missing_dps; missing_total_div; missing_shares
+38780,巴川コーポレーション,none,missing_dps; missing_total_div; missing_shares
+14300,ファーストコーポレーション,none,missing_total_div; missing_shares
+74250,初穂商事,none,missing_total_div; missing_shares
 31430,オーウイル,none,missing_total_div; missing_shares
-23890,デジタルホールディングス,none,missing_total_div; missing_shares
-53860,鶴弥,none,missing_total_div; missing_shares
-78720,エステールホールディングス,none,missing_dps; missing_total_div; missing_shares
+31500,グリムス,none,missing_total_div; missing_shares
+46710,ファルコホールディングス,none,missing_total_div; missing_shares
+68980,トミタ電機,none,missing_dps; missing_total_div; missing_shares
+75130,コジマ,none,missing_total_div; missing_shares
+46760,フジ・メディア・ホールディングス,none,missing_dps; missing_total_div; missing_shares
+28200,やまみ,none,missing_dps; missing_total_div; missing_shares
+72550,桜井製作所,none,missing_total_div; missing_shares
+66140,シキノハイテック,none,missing_dps; missing_total_div; missing_shares
+60740,ジェイエスエス,none,missing_dps; missing_total_div; missing_shares
+37680,リスクモンスター,none,missing_dps; missing_total_div; missing_shares
+66640,オプトエレクトロニクス,none,missing_dps; missing_total_div; missing_shares
+93600,鈴与シンワート,none,missing_total_div; missing_shares
+78560,萩原工業,none,missing_dps; missing_total_div; missing_shares
+97650,オオバ,none,missing_total_div; missing_shares
+75200,エコス,none,missing_dps; missing_total_div; missing_shares
+35800,小松マテーレ,none,missing_total_div; missing_shares
+18780,大東建託,none,missing_total_div; missing_shares
+68740,協立電機,none,missing_total_div; missing_shares
 46780,秀英予備校,none,missing_dps; missing_total_div; missing_shares
 65490,ディーエムソリューションズ,none,missing_total_div; missing_shares
+48290,日本エンタープライズ,none,missing_dps; missing_total_div; missing_shares
+34050,クラレ,none,missing_total_div; missing_shares
+62300,ＳＡＮＥＩ,none,missing_dps; missing_total_div; missing_shares
 53520,黒崎播磨,none,missing_dps; missing_total_div; missing_shares
-38420,ネクストジェン,none,missing_dps; missing_total_div; missing_shares
-59520,アマテイ,none,missing_dps; missing_total_div; missing_shares
-81730,上新電機,none,missing_total_div; missing_shares
-92160,ビーウィズ,none,missing_dps; missing_total_div; missing_shares
-75440,スリーエフ,none,missing_dps; missing_total_div; missing_shares
-99870,スズケン,none,missing_dps; missing_total_div; missing_shares
-80570,内田洋行,none,missing_total_div; missing_shares
-59230,高田機工,none,missing_dps; missing_total_div; missing_shares
-65400,船場,none,missing_dps; missing_total_div; missing_shares
-17160,第一カッター興業,none,missing_dps; missing_total_div; missing_shares
-92010,日本航空,none,missing_dps; missing_total_div; missing_shares
-80070,高島,none,missing_total_div; missing_shares
-82300,はせがわ,none,missing_dps; missing_total_div; missing_shares
-72640,ムロコーポレーション,none,missing_dps; missing_total_div; missing_shares
-79210,ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ,none,missing_dps; missing_total_div; missing_shares
-77250,インターアクション,none,missing_dps; missing_total_div; missing_shares
-39280,マイネット,none,missing_dps; missing_total_div; missing_shares
-72010,日産自動車,none,missing_dps; missing_total_div; missing_shares
-58450,全保連,none,missing_total_div; missing_shares
-97990,旭情報サービス,none,missing_dps; missing_total_div; missing_shares
-89450,サンネクスタグループ,none,missing_dps; missing_total_div; missing_shares
-75780,ニチリョク,none,missing_dps; missing_total_div; missing_shares
-42990,ハイマックス,none,missing_total_div; missing_shares
-72970,カーメイト,none,missing_dps; missing_total_div; missing_shares
-65700,共和コーポレーション,none,missing_total_div; missing_shares
 69420,ソフィアホールディングス,none,missing_dps; missing_total_div; missing_shares
-47610,さくらケーシーエス,none,missing_total_div; missing_shares
-75130,コジマ,none,missing_total_div; missing_shares
-61850,ＳＭＮ,none,missing_dps; missing_total_div; missing_shares
-97310,白洋舎,none,missing_dps; missing_total_div; missing_shares
-27640,ひらまつ,none,missing_dps; missing_total_div; missing_shares
-97350,セコム,none,missing_dps; missing_total_div; missing_shares
-37470,インタートレード,none,missing_dps; missing_total_div; missing_shares
-63580,酒井重工業,none,missing_dps; missing_total_div; missing_shares
-62790,瑞光,none,missing_dps; missing_total_div; missing_shares
-26940,焼肉坂井ホールディングス,none,missing_total_div; missing_shares
-34540,ファーストブラザーズ,none,missing_dps; missing_total_div; missing_shares
-82820,ケーズホールディングス,none,missing_total_div; missing_shares
-99460,ミニストップ,none,missing_dps; missing_total_div; missing_shares
-59590,岡部,none,missing_dps; missing_total_div; missing_shares
-80130,ナイガイ,none,missing_dps; missing_total_div; missing_shares
-68980,トミタ電機,none,missing_dps; missing_total_div; missing_shares
-32320,三重交通グループホールディングス,none,missing_total_div; missing_shares
-19050,テノックス,none,missing_total_div; missing_shares
-71980,ＳＢＩアルヒ,none,missing_dps; missing_total_div; missing_shares
-23590,コア,none,missing_total_div; missing_shares
-52830,高見澤,none,missing_dps; missing_total_div; missing_shares
-76370,白銅,none,missing_total_div; missing_shares
+89450,サンネクスタグループ,none,missing_dps; missing_total_div; missing_shares
 21090,ＤＭ三井製糖,none,missing_dps; missing_total_div; missing_shares
-97440,メイテックグループホールディングス,none,missing_total_div; missing_shares
-30830,スターシーズ,none,missing_dps; missing_total_div; missing_shares
-72130,レシップホールディングス,none,missing_total_div; missing_shares
-94090,テレビ朝日ホールディングス,none,missing_total_div; missing_shares
-13760,カネコ種苗,none,missing_total_div; missing_shares
-36480,ＡＧＳ,none,missing_total_div; missing_shares
-74130,創健社,none,missing_total_div; missing_shares
-23410,アルバイトタイムス,none,missing_dps; missing_total_div; missing_shares
-35240,日東製網,none,missing_dps; missing_total_div; missing_shares
-82890,Ｏｌｙｍｐｉｃグループ,none,missing_dps; missing_total_div; missing_shares
-76280,オーハシテクニカ,none,missing_dps; missing_total_div; missing_shares
-66330,ＣＧＳホールディングス,none,missing_dps; missing_total_div; missing_shares
-46620,フォーカスシステムズ,none,missing_total_div; missing_shares
-62460,テクノスマート,none,missing_total_div; missing_shares
-89080,毎日コムネット,none,missing_total_div; missing_shares
-29350,ピックルスホールディングス,none,missing_total_div; missing_shares
-94660,アイドママーケティングコミュニケーション,none,missing_dps; missing_total_div; missing_shares
-81310,ミツウロコグループホールディングス,none,missing_dps; missing_total_div; missing_shares
-45690,杏林製薬,none,missing_dps; missing_total_div; missing_shares
-26590,サンエー,none,missing_total_div; missing_shares
-69770,日本抵抗器製作所,none,missing_dps; missing_total_div; missing_shares
-82140,ＡＯＫＩホールディングス,none,missing_total_div; missing_shares
-97650,オオバ,none,missing_total_div; missing_shares
-94410,ベルパーク,none,missing_total_div; missing_shares
-68190,伊豆シャボテンリゾート,none,missing_total_div; missing_shares
-82190,青山商事,none,missing_dps; missing_total_div; missing_shares
-18400,土屋ホールディングス,none,missing_dps; missing_total_div; missing_shares
-54640,モリ工業,none,missing_total_div; missing_shares
-36330,ＧＭＯペパボ,none,missing_total_div; missing_shares
-69230,スタンレー電気,none,missing_total_div; missing_shares
-40250,多木化学,none,missing_total_div; missing_shares
-73130,テイ・エス　テック,none,missing_dps; missing_total_div; missing_shares
-43430,イオンファンタジー,none,missing_total_div; missing_shares
-27530,あみやき亭,none,missing_total_div; missing_shares
-34860,グローバル・リンク・マネジメント,none,missing_total_div; missing_shares
-95010,東京電力ホールディングス,none,missing_dps; missing_total_div; missing_shares
-81230,川辺,none,missing_dps; missing_total_div; missing_shares
-78200,ニホンフラッシュ,none,missing_dps; missing_total_div; missing_shares
-78330,アイフィスジャパン,none,missing_total_div; missing_shares
-95350,広島ガス,none,missing_dps; missing_total_div; missing_shares
-74160,はるやまホールディングス,none,missing_dps; missing_total_div; missing_shares
-27780,パレモ・ホールディングス,none,missing_dps; missing_total_div; missing_shares
-89460,ＡＳＩＡＮ　ＳＴＡＲ,none,missing_dps; missing_total_div; missing_shares
-27210,ジェイホールディングス,none,missing_dps; missing_total_div; missing_shares
-30240,クリエイト,none,missing_total_div; missing_shares
-29840,ヤマイチエステート,none,missing_dps; missing_total_div; missing_shares
+19940,高橋カーテンウォール工業,none,missing_dps; missing_total_div; missing_shares
+61030,オークマ,none,missing_dps; missing_total_div; missing_shares
+97310,白洋舎,none,missing_dps; missing_total_div; missing_shares
+61960,ストライク,none,missing_total_div; missing_shares
+21680,パソナグループ,none,missing_dps; missing_total_div; missing_shares
+17160,第一カッター興業,none,missing_dps; missing_total_div; missing_shares
+69050,コーセル,none,missing_total_div; missing_shares
+33930,スターティアホールディングス,none,missing_total_div; missing_shares
+87890,フィンテック　グローバル,none,missing_dps; missing_total_div; missing_shares
+36730,ブロードリーフ,none,missing_total_div; missing_shares
+30110,バナーズ,none,missing_dps; missing_total_div; missing_shares
 36700,協立情報通信,none,missing_total_div; missing_shares
-13830,ベルグアース,none,missing_dps; missing_total_div; missing_shares
-64200,ガリレイ,none,missing_dps; missing_total_div; missing_shares
-29230,サトウ食品,none,missing_dps; missing_total_div; missing_shares
-19720,三晃金属工業,none,missing_total_div; missing_shares
-74190,ノジマ,none,missing_dps; missing_total_div; missing_shares
-61560,エーワン精密,none,missing_dps; missing_total_div; missing_shares
-70300,スプリックス,none,missing_dps; missing_total_div; missing_shares
-39810,ビーグリー,none,missing_dps; missing_total_div; missing_shares
-55760,オービーシステム,none,missing_total_div; missing_shares
-18780,大東建託,none,missing_total_div; missing_shares
-77180,スター精密,none,missing_dps; missing_total_div; missing_shares
-80400,東京ソワール,none,missing_total_div; missing_shares
-72290,ユタカ技研,none,missing_total_div; missing_shares
-45740,大幸薬品,none,missing_dps; missing_total_div; missing_shares
-26130,Ｊ−オイルミルズ,none,missing_total_div; missing_shares
-81190,三栄コーポレーション,none,missing_total_div; missing_shares
-46120,日本ペイントホールディングス,none,missing_dps; missing_total_div; missing_shares
-72730,イクヨ,none,missing_dps; missing_total_div; missing_shares
-72550,桜井製作所,none,missing_total_div; missing_shares
-34520,ビーロット,none,missing_total_div; missing_shares
-62910,日本エアーテック,none,missing_dps; missing_total_div; missing_shares
-24980,オリエンタルコンサルタンツホールディングス,none,missing_total_div; missing_shares
-71720,ジャパンインベストメントアドバイザー,none,missing_total_div; missing_shares
-45210,科研製薬,none,missing_dps; missing_total_div; missing_shares
-39450,スーパーバッグ,none,missing_total_div; missing_shares
-94010,ＴＢＳホールディングス,none,missing_dps; missing_total_div; missing_shares
-87080,アイザワ証券グループ,none,missing_dps; missing_total_div; missing_shares
-99720,アルテック,none,missing_dps; missing_total_div; missing_shares
-47650,ＳＢＩグローバルアセットマネジメント,none,missing_total_div; missing_shares
-44060,新日本理化,none,missing_dps; missing_total_div; missing_shares
-89270,明豊エンタープライズ,none,missing_dps; missing_total_div; missing_shares
+74160,はるやまホールディングス,none,missing_dps; missing_total_div; missing_shares
+37660,システムズ・デザイン,none,missing_dps; missing_total_div; missing_shares
+45690,杏林製薬,none,missing_dps; missing_total_div; missing_shares
+46620,フォーカスシステムズ,none,missing_total_div; missing_shares
+37870,テクノマセマティカル,none,missing_dps; missing_total_div; missing_shares
+39280,マイネット,none,missing_dps; missing_total_div; missing_shares
+79970,くろがね工作所,none,missing_total_div; missing_shares
+87060,極東証券,none,missing_dps; missing_total_div; missing_shares
+72130,レシップホールディングス,none,missing_total_div; missing_shares
+79810,タカラスタンダード,none,missing_dps; missing_total_div; missing_shares
+38420,ネクストジェン,none,missing_dps; missing_total_div; missing_shares
+90170,新潟交通,none,missing_dps; missing_total_div; missing_shares
+26940,焼肉坂井ホールディングス,none,missing_total_div; missing_shares
+89080,毎日コムネット,none,missing_total_div; missing_shares
+30240,クリエイト,none,missing_total_div; missing_shares
+42990,ハイマックス,none,missing_total_div; missing_shares
+59590,岡部,none,missing_dps; missing_total_div; missing_shares
 39500,ザ・パック,none,missing_dps; missing_total_div; missing_shares
-88480,レオパレス２１,none,missing_dps; missing_total_div; missing_shares
-22150,第一屋製パン,none,missing_dps; missing_total_div; missing_shares
-77090,クボテック,none,missing_dps; missing_total_div; missing_shares
+23410,アルバイトタイムス,none,missing_dps; missing_total_div; missing_shares
+32320,三重交通グループホールディングス,none,missing_total_div; missing_shares
+18070,佐藤渡辺,none,missing_dps; missing_total_div; missing_shares
+76280,オーハシテクニカ,none,missing_dps; missing_total_div; missing_shares
+54630,丸一鋼管,none,missing_dps; missing_total_div; missing_shares
+47050,クリップコーポレーション,none,missing_dps; missing_total_div; missing_shares
+38430,フリービット,none,missing_total_div; missing_shares
+26540,アスモ,none,missing_dps; missing_total_div; missing_shares
+77180,スター精密,none,missing_dps; missing_total_div; missing_shares
+75440,スリーエフ,none,missing_dps; missing_total_div; missing_shares
+78180,トランザクション,none,missing_total_div; missing_shares
+32420,アーバネットコーポレーション,none,missing_dps; missing_total_div; missing_shares
+80070,高島,none,missing_total_div; missing_shares
+65400,船場,none,missing_dps; missing_total_div; missing_shares
+47610,さくらケーシーエス,none,missing_total_div; missing_shares
+92160,ビーウィズ,none,missing_dps; missing_total_div; missing_shares
+26590,サンエー,none,missing_total_div; missing_shares
+46730,川崎地質,none,missing_dps; missing_total_div; missing_shares
+97990,旭情報サービス,none,missing_dps; missing_total_div; missing_shares
+48130,ＡＣＣＥＳＳ,none,missing_dps; missing_total_div; missing_shares
+76370,白銅,none,missing_total_div; missing_shares
+35010,ＳＵＭＩＮＯＥ,none,missing_dps; missing_total_div; missing_shares
+43820,ＨＥＲＯＺ,none,missing_dps; missing_total_div; missing_shares
+53860,鶴弥,none,missing_total_div; missing_shares
 80080,ヨンドシーホールディングス,none,missing_dps; missing_total_div; missing_shares
-35470,串カツ田中ホールディングス,none,missing_total_div; missing_shares
-22930,滝沢ハム,none,missing_total_div; missing_shares
-31090,シキボウ,none,missing_dps; missing_total_div; missing_shares
-84240,芙蓉総合リース,none,missing_dps; missing_total_div; missing_shares
-32380,セントラル総合開発,none,missing_total_div; missing_shares
-35970,自重堂,none,missing_total_div; missing_shares
-35770,東海染工,none,missing_total_div; missing_shares
-60440,三機サービス,none,missing_total_div; missing_shares
-28200,やまみ,none,missing_dps; missing_total_div; missing_shares
-76780,あさくま,none,missing_dps; missing_total_div; missing_shares
-96970,カプコン,none,missing_total_div; missing_shares
-91430,ＳＧホールディングス,none,missing_dps; missing_total_div; missing_shares
+58450,全保連,none,missing_total_div; missing_shares
+70440,ピアラ,none,missing_dps; missing_total_div; missing_shares
+74870,小津産業,none,missing_dps; missing_total_div; missing_shares
+29350,ピックルスホールディングス,none,missing_total_div; missing_shares
+54640,モリ工業,none,missing_total_div; missing_shares
+78200,ニホンフラッシュ,none,missing_dps; missing_total_div; missing_shares
+24350,シダー,none,missing_total_div; missing_shares
+44940,バリオセキュア,none,missing_dps; missing_total_div; missing_shares
+59280,アルメタックス,none,missing_dps; missing_total_div; missing_shares
+17170,明豊ファシリティワークス,none,missing_total_div; missing_shares
+24850,ティア,none,missing_dps; missing_total_div; missing_shares
+61850,ＳＭＮ,none,missing_dps; missing_total_div; missing_shares
+99870,スズケン,none,missing_dps; missing_total_div; missing_shares
+60540,リブセンス,none,missing_dps; missing_total_div; missing_shares
+17950,マサル,none,missing_total_div; missing_shares
+81230,川辺,none,missing_dps; missing_total_div; missing_shares
+43670,広栄化学,none,missing_dps; missing_total_div; missing_shares
+77250,インターアクション,none,missing_dps; missing_total_div; missing_shares
+86130,丸三証券,none,missing_dps; missing_total_div; missing_shares
+61560,エーワン精密,none,missing_dps; missing_total_div; missing_shares
 18530,森組,none,missing_dps; missing_total_div; missing_shares
+62540,野村マイクロ・サイエンス,none,missing_dps; missing_total_div; missing_shares
+73540,ダイレクトマーケティングミックス,none,missing_dps; missing_total_div; missing_shares
+72290,ユタカ技研,none,missing_total_div; missing_shares
+59520,アマテイ,none,missing_dps; missing_total_div; missing_shares
+56020,栗本鐵工所,none,missing_dps; missing_total_div; missing_shares
+58510,リョービ,none,missing_total_div; missing_shares
+96100,ウィルソン・ラーニング　ワールドワイド,none,missing_total_div; missing_shares
+78210,前田工繊,none,missing_total_div; missing_shares
+46570,環境管理センター,none,missing_dps; missing_total_div; missing_shares
+33530,メディカル一光グループ,none,missing_dps; missing_total_div; missing_shares
+22930,滝沢ハム,none,missing_total_div; missing_shares
+98780,セキド,none,missing_dps; missing_total_div; missing_shares
+82820,ケーズホールディングス,none,missing_total_div; missing_shares
+96210,建設技術研究所,none,missing_dps; missing_total_div; missing_shares
+23890,デジタルホールディングス,none,missing_total_div; missing_shares
+92470,ＴＲＥホールディングス,none,missing_total_div; missing_shares
+22200,亀田製菓,none,missing_dps; missing_total_div; missing_shares
+74130,創健社,none,missing_total_div; missing_shares
+73580,ポピンズ,none,missing_dps; missing_total_div; missing_shares
+99460,ミニストップ,none,missing_dps; missing_total_div; missing_shares
+65380,ディスラプターズ,none,missing_total_div; missing_shares
+35770,東海染工,none,missing_total_div; missing_shares
+68190,伊豆シャボテンリゾート,none,missing_total_div; missing_shares
+81410,新光商事,none,missing_total_div; missing_shares
+62460,テクノスマート,none,missing_total_div; missing_shares
+13830,ベルグアース,none,missing_dps; missing_total_div; missing_shares
+22880,丸大食品,none,missing_dps; missing_total_div; missing_shares
+96910,両毛システムズ,none,missing_total_div; missing_shares
+80400,東京ソワール,none,missing_total_div; missing_shares
+78040,ビーアンドピー,none,missing_total_div; missing_shares
+94010,ＴＢＳホールディングス,none,missing_dps; missing_total_div; missing_shares
+88480,レオパレス２１,none,missing_dps; missing_total_div; missing_shares
+32380,セントラル総合開発,none,missing_total_div; missing_shares
+75750,日本ライフライン,none,missing_total_div; missing_shares
+62790,瑞光,none,missing_dps; missing_total_div; missing_shares
+38770,中越パルプ工業,none,missing_dps; missing_total_div; missing_shares
+61580,和井田製作所,none,missing_total_div; missing_shares
+31090,シキボウ,none,missing_dps; missing_total_div; missing_shares
+77430,シード,none,missing_dps; missing_total_div; missing_shares
+76780,あさくま,none,missing_dps; missing_total_div; missing_shares
+95350,広島ガス,none,missing_dps; missing_total_div; missing_shares
+73130,テイ・エス　テック,none,missing_dps; missing_total_div; missing_shares
+36330,ＧＭＯペパボ,none,missing_total_div; missing_shares
+94090,テレビ朝日ホールディングス,none,missing_total_div; missing_shares
+72150,ファルテック,none,missing_dps; missing_total_div; missing_shares
+63420,太平製作所,none,missing_total_div; missing_shares
+22150,第一屋製パン,none,missing_dps; missing_total_div; missing_shares
+19050,テノックス,none,missing_total_div; missing_shares
+34540,ファーストブラザーズ,none,missing_dps; missing_total_div; missing_shares
+78330,アイフィスジャパン,none,missing_total_div; missing_shares
+95010,東京電力ホールディングス,none,missing_dps; missing_total_div; missing_shares
+73990,ナンシン,none,missing_dps; missing_total_div; missing_shares
+59650,フジマック,none,missing_total_div; missing_shares
+89230,トーセイ,none,missing_total_div; missing_shares
+43430,イオンファンタジー,none,missing_total_div; missing_shares
+27210,ジェイホールディングス,none,missing_dps; missing_total_div; missing_shares
+68100,マクセル,none,missing_dps; missing_total_div; missing_shares
+45210,科研製薬,none,missing_dps; missing_total_div; missing_shares
+30830,スターシーズ,none,missing_dps; missing_total_div; missing_shares
+94660,アイドママーケティングコミュニケーション,none,missing_dps; missing_total_div; missing_shares
+99720,アルテック,none,missing_dps; missing_total_div; missing_shares
+97440,メイテックグループホールディングス,none,missing_total_div; missing_shares
+40310,片倉コープアグリ,none,missing_total_div; missing_shares
+26130,Ｊ−オイルミルズ,none,missing_total_div; missing_shares
+37630,プロシップ,none,missing_total_div; missing_shares
+79210,ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ,none,missing_dps; missing_total_div; missing_shares
+18440,大盛工業,none,missing_dps; missing_total_div; missing_shares
+29840,ヤマイチエステート,none,missing_dps; missing_total_div; missing_shares
+63390,新東工業,none,missing_dps; missing_total_div; missing_shares
+46440,イマジニア,none,missing_total_div; missing_shares
+82140,ＡＯＫＩホールディングス,none,missing_total_div; missing_shares
+72970,カーメイト,none,missing_dps; missing_total_div; missing_shares
+87000,丸八証券,none,missing_total_div; missing_shares
+60440,三機サービス,none,missing_total_div; missing_shares
+84240,芙蓉総合リース,none,missing_dps; missing_total_div; missing_shares
+95040,中国電力,none,missing_dps; missing_total_div; missing_shares
+99030,カンセキ,none,missing_dps; missing_total_div; missing_shares
+34520,ビーロット,none,missing_total_div; missing_shares
+35380,ウイルプラスホールディングス,none,missing_dps; missing_total_div; missing_shares
+32860,トラストホールディングス,none,missing_total_div; missing_shares
+88030,平和不動産,none,missing_total_div; missing_shares
+49020,コニカミノルタ,none,missing_dps; missing_total_div; missing_shares
+62220,島精機製作所,none,missing_total_div; missing_shares
+63580,酒井重工業,none,missing_dps; missing_total_div; missing_shares
+87080,アイザワ証券グループ,none,missing_dps; missing_total_div; missing_shares
+72730,イクヨ,none,missing_dps; missing_total_div; missing_shares
+46650,ダスキン,none,missing_total_div; missing_shares
+69880,日東電工,none,missing_dps; missing_total_div; missing_shares
+82890,Ｏｌｙｍｐｉｃグループ,none,missing_dps; missing_total_div; missing_shares
+64000,不二精機,none,missing_dps; missing_total_div; missing_shares
+47920,山田コンサルティンググループ,none,missing_total_div; missing_shares
+68640,エヌエフホールディングス,none,missing_dps; missing_total_div; missing_shares
+69770,日本抵抗器製作所,none,missing_dps; missing_total_div; missing_shares
+82190,青山商事,none,missing_dps; missing_total_div; missing_shares
+39650,キャピタル・アセット・プランニング,none,missing_dps; missing_total_div; missing_shares
+96120,ラックランド,none,missing_total_div; missing_shares
+21700,リンクアンドモチベーション,none,missing_total_div; missing_shares
+39810,ビーグリー,none,missing_dps; missing_total_div; missing_shares
+33960,フェリシモ,none,missing_dps; missing_total_div; missing_shares
+28180,ピエトロ,none,missing_dps; missing_total_div; missing_shares
+22220,寿スピリッツ,none,missing_total_div; missing_shares
+35590,ピーバンドットコム,none,missing_total_div; missing_shares
+81320,シナネンホールディングス,none,missing_dps; missing_total_div; missing_shares
+81600,木曽路,none,missing_dps; missing_total_div; missing_shares
+62910,日本エアーテック,none,missing_dps; missing_total_div; missing_shares
+13760,カネコ種苗,none,missing_total_div; missing_shares
+24980,オリエンタルコンサルタンツホールディングス,none,missing_total_div; missing_shares
+14190,タマホーム,none,missing_dps; missing_total_div; missing_shares
+40800,田中化学研究所,none,missing_total_div; missing_shares
+80700,東京産業,none,missing_dps; missing_total_div; missing_shares
+77090,クボテック,none,missing_dps; missing_total_div; missing_shares
+18220,大豊建設,none,missing_dps; missing_total_div; missing_shares
+21560,セーラー広告,none,missing_dps; missing_total_div; missing_shares
 78830,サンメッセ,none,missing_total_div; missing_shares
 74340,オータケ,none,missing_total_div; missing_shares
-74870,小津産業,none,missing_dps; missing_total_div; missing_shares
-24850,ティア,none,missing_dps; missing_total_div; missing_shares
-33530,メディカル一光グループ,none,missing_dps; missing_total_div; missing_shares
-79900,グローブライド,none,missing_dps; missing_total_div; missing_shares
-80250,ツカモトコーポレーション,none,missing_dps; missing_total_div; missing_shares
-63510,鶴見製作所,none,missing_dps; missing_total_div; missing_shares
-73990,ナンシン,none,missing_dps; missing_total_div; missing_shares
-81320,シナネンホールディングス,none,missing_dps; missing_total_div; missing_shares
-18220,大豊建設,none,missing_dps; missing_total_div; missing_shares
-63420,太平製作所,none,missing_total_div; missing_shares
-24990,日本和装ホールディングス,none,missing_total_div; missing_shares
-47920,山田コンサルティンググループ,none,missing_total_div; missing_shares
-39650,キャピタル・アセット・プランニング,none,missing_dps; missing_total_div; missing_shares
-35380,ウイルプラスホールディングス,none,missing_dps; missing_total_div; missing_shares
-47050,クリップコーポレーション,none,missing_dps; missing_total_div; missing_shares
-21560,セーラー広告,none,missing_dps; missing_total_div; missing_shares
-73580,ポピンズ,none,missing_dps; missing_total_div; missing_shares
-54610,中部鋼鈑,none,missing_dps; missing_total_div; missing_shares
-39630,シンクロ・フード,none,missing_total_div; missing_shares
-39400,ノムラシステムコーポレーション,none,missing_dps; missing_total_div; missing_shares
-81600,木曽路,none,missing_dps; missing_total_div; missing_shares
-72720,ヤマハ発動機,none,missing_dps; missing_total_div; missing_shares
-46440,イマジニア,none,missing_total_div; missing_shares
-67970,名古屋電機工業,none,missing_total_div; missing_shares
-18980,世紀東急工業,none,missing_dps; missing_total_div; missing_shares
-27470,北雄ラッキー,none,missing_dps; missing_total_div; missing_shares
-80950,アステナホールディングス,none,missing_dps; missing_total_div; missing_shares
-96630,ナガワ,none,missing_dps; missing_total_div; missing_shares
-32860,トラストホールディングス,none,missing_total_div; missing_shares
-22200,亀田製菓,none,missing_dps; missing_total_div; missing_shares
-23110,エプコ,none,missing_total_div; missing_shares
-49200,日本色材工業研究所,none,missing_total_div; missing_shares
-46740,クレスコ,none,missing_total_div; missing_shares
-22220,寿スピリッツ,none,missing_total_div; missing_shares
-21860,ソーバル,none,missing_dps; missing_total_div; missing_shares
-46760,フジ・メディア・ホールディングス,none,missing_dps; missing_total_div; missing_shares
-78600,エイベックス,none,missing_dps; missing_total_div; missing_shares
-78210,前田工繊,none,missing_total_div; missing_shares
-63330,帝国電機製作所,none,missing_total_div; missing_shares
-90730,京極運輸商事,none,missing_dps; missing_total_div; missing_shares
-71640,全国保証,none,missing_total_div; missing_shares
-67300,アクセル,none,missing_total_div; missing_shares
-43820,ＨＥＲＯＺ,none,missing_dps; missing_total_div; missing_shares
-66620,ユビテック,none,missing_dps; missing_total_div; missing_shares
-78310,ウイルコホールディングス,none,missing_dps; missing_total_div; missing_shares
-19110,住友林業,none,missing_dps; missing_total_div; missing_shares
-22120,山崎製パン,none,missing_total_div; missing_shares
-87000,丸八証券,none,missing_total_div; missing_shares
-40800,田中化学研究所,none,missing_total_div; missing_shares
-96250,セレスポ,none,missing_dps; missing_total_div; missing_shares
-64000,不二精機,none,missing_dps; missing_total_div; missing_shares
-28180,ピエトロ,none,missing_dps; missing_total_div; missing_shares
-46650,ダスキン,none,missing_total_div; missing_shares
-89230,トーセイ,none,missing_total_div; missing_shares
-68670,リーダー電子,none,missing_dps; missing_total_div; missing_shares
-88030,平和不動産,none,missing_total_div; missing_shares
-33580,ワイエスフード,none,missing_dps; missing_total_div; missing_shares
-21300,メンバーズ,none,missing_dps; missing_total_div; missing_shares
-72170,テイン,none,missing_total_div; missing_shares
-36590,ネクソン,none,missing_dps; missing_total_div; missing_shares
-47120,ＫｅｙＨｏｌｄｅｒ,none,missing_dps; missing_total_div; missing_shares
-46150,神東塗料,none,missing_dps; missing_total_div; missing_shares
-71770,ＧＭＯフィナンシャルホールディングス,none,missing_dps; missing_total_div; missing_shares
-79910,マミヤ・オーピー,none,missing_dps; missing_total_div; missing_shares
-18880,若築建設,none,missing_dps; missing_total_div; missing_shares
-94160,ビジョン,none,missing_total_div; missing_shares
-98430,ニトリホールディングス,none,missing_dps; missing_total_div; missing_shares
-78930,プロネクサス,none,missing_dps; missing_total_div; missing_shares
-25935,伊藤園（優先株式）,none,missing_dps; missing_total_div; missing_shares
-96290,ピー・シー・エー,none,missing_dps; missing_total_div; missing_shares
-96560,グリーンランドリゾート,none,missing_total_div; missing_shares
-21540,オープンアップグループ,none,missing_dps; missing_total_div; missing_shares
-29270,ＡＦＣ−ＨＤアムスライフサイエンス,none,missing_dps; missing_total_div; missing_shares
-25930,伊藤園,none,missing_dps; missing_total_div; missing_shares
-57420,エヌアイシ・オートテック,none,missing_dps; missing_total_div; missing_shares
-70380,フロンティア・マネジメント,none,missing_dps; missing_total_div; missing_shares
-34800,ジェイ・エス・ビー,none,missing_total_div; missing_shares
-48260,ＣＩＪ,none,missing_total_div; missing_shares
-31600,大光,none,missing_dps; missing_total_div; missing_shares
-52850,ヤマックス,none,missing_dps; missing_total_div; missing_shares
-78360,アビックス,none,missing_dps; missing_total_div; missing_shares
-72110,三菱自動車工業,none,missing_dps; missing_total_div; missing_shares
-77260,黒田精工,none,missing_total_div; missing_shares
-79970,くろがね工作所,none,missing_total_div; missing_shares
-60230,ダイハツインフィニアース,none,missing_total_div; missing_shares
-47460,東計電算,none,missing_total_div; missing_shares
-29300,北の達人コーポレーション,none,missing_dps; missing_total_div; missing_shares
-96280,燦ホールディングス,none,missing_dps; missing_total_div; missing_shares
-36360,三菱総合研究所,none,missing_dps; missing_total_div; missing_shares
-23750,ギグワークス,none,missing_total_div; missing_shares
-40310,片倉コープアグリ,none,missing_total_div; missing_shares
-81670,リテールパートナーズ,none,missing_total_div; missing_shares
-39920,ニーズウェル,none,missing_total_div; missing_shares
-64130,理想科学工業,none,missing_dps; missing_total_div; missing_shares
-33960,フェリシモ,none,missing_dps; missing_total_div; missing_shares
-37440,サイオス,none,missing_total_div; missing_shares
-31610,アゼアス,none,missing_dps; missing_total_div; missing_shares
-14190,タマホーム,none,missing_dps; missing_total_div; missing_shares
-99500,ハチバン,none,missing_dps; missing_total_div; missing_shares
-49510,エステー,none,missing_dps; missing_total_div; missing_shares
-29240,イフジ産業,none,missing_total_div; missing_shares
-21700,リンクアンドモチベーション,none,missing_total_div; missing_shares
-99030,カンセキ,none,missing_dps; missing_total_div; missing_shares
-49980,フマキラー,none,missing_dps; missing_total_div; missing_shares
-77400,タムロン,none,missing_dps; missing_total_div; missing_shares
-38430,フリービット,none,missing_total_div; missing_shares
-47090,ＩＤホールディングス,none,missing_total_div; missing_shares
-31390,ラクト・ジャパン,none,missing_total_div; missing_shares
-93400,アソインターナショナル,none,missing_total_div; missing_shares
-30680,ＷＤＩ,none,missing_dps; missing_total_div; missing_shares
-28770,日東ベスト,none,missing_dps; missing_total_div; missing_shares
-22040,中村屋,none,missing_total_div; missing_shares
-90060,京浜急行電鉄,none,missing_dps; missing_total_div; missing_shares
-61510,日東工器,none,missing_total_div; missing_shares
-65940,ニデック,none,missing_dps; missing_total_div; missing_shares
-81410,新光商事,none,missing_total_div; missing_shares
-38510,日本一ソフトウェア,none,missing_dps; missing_total_div; missing_shares
-71280,フルサト・マルカホールディングス,none,missing_total_div; missing_shares
-67690,ザインエレクトロニクス,none,missing_dps; missing_total_div; missing_shares
-59000,ダイケン,none,missing_total_div; missing_shares
-61470,ヤマザキ,none,missing_dps; missing_total_div; missing_shares
-36790,じげん,none,missing_total_div; missing_shares
-49850,アース製薬,none,missing_total_div; missing_shares
-98950,コンセック,none,missing_dps; missing_total_div; missing_shares
-31920,白鳩,none,missing_dps; missing_total_div; missing_shares
-62920,カワタ,none,missing_dps; missing_total_div; missing_shares
-89040,ＡＶＡＮＴＩＡ,none,missing_dps; missing_total_div; missing_shares
-74260,山大,none,missing_dps; missing_total_div; missing_shares
-30930,トレジャー・ファクトリー,none,missing_total_div; missing_shares
-32710,ＴＨＥグローバル社,none,missing_total_div; missing_shares
-37710,システムリサーチ,none,missing_total_div; missing_shares
-60820,ライドオンエクスプレスホールディングス,none,missing_dps; missing_total_div; missing_shares
-43730,シンプレクス・ホールディングス,none,missing_dps; missing_total_div; missing_shares
-82540,さいか屋,none,missing_dps; missing_total_div
-29080,フジッコ,none,missing_dps; missing_total_div; missing_shares
-77520,リコー,none,missing_dps; missing_total_div; missing_shares
-88360,ＲＩＳＥ,none,missing_dps; missing_total_div; missing_shares
-21930,クックパッド,none,missing_dps; missing_total_div; missing_shares
-75960,魚力,none,missing_dps; missing_total_div; missing_shares
-29910,ランドネット,none,missing_total_div; missing_shares
-23730,ケア２１,none,missing_dps; missing_total_div; missing_shares
-34900,アズ企画設計,none,missing_dps; missing_total_div; missing_shares
-47540,トスネット,none,missing_total_div; missing_shares
-98280,Ｇｅｎｋｉ　Ｇｌｏｂａｌ　Ｄｉｎｉｎｇ　Ｃｏｎｃｅｐｔｓ,none,missing_total_div; missing_shares
-82030,ＭｒＭａｘＨＤ,none,missing_total_div; missing_shares
-21690,ＣＤＳ,none,missing_dps; missing_total_div; missing_shares
-13790,ホクト,none,missing_total_div; missing_shares
-99020,日伝,none,missing_total_div; missing_shares
-28830,大冷,none,missing_dps; missing_total_div; missing_shares
-24320,ディー・エヌ・エー,none,missing_dps; missing_total_div; missing_shares
-74940,コナカ,none,missing_dps; missing_total_div; missing_shares
-65130,オリジン,none,missing_total_div; missing_shares
-74140,小野建,none,missing_dps; missing_total_div; missing_shares
-90240,西武ホールディングス,none,missing_total_div; missing_shares
-96440,タナベコンサルティンググループ,none,missing_dps; missing_total_div; missing_shares
-99360,王将フードサービス,none,missing_dps; missing_total_div; missing_shares
-34690,デュアルタップ,none,missing_dps; missing_total_div; missing_shares
 60350,アイ・アールジャパンホールディングス,none,missing_total_div; missing_shares
-40710,プラスアルファ・コンサルティング,none,missing_dps; missing_total_div; missing_shares
-22110,不二家,none,missing_dps; missing_total_div; missing_shares
-52710,トーヨーアサノ,none,missing_total_div; missing_shares
-79650,象印マホービン,none,missing_dps; missing_total_div; missing_shares
-35360,アクサスホールディングス,none,missing_dps; missing_total_div; missing_shares
-36900,イルグルム,none,missing_total_div; missing_shares
-85950,ジャフコ　グループ,none,missing_dps; missing_total_div; missing_shares
-45440,Ｈ．Ｕ．グループホールディングス,none,missing_dps; missing_total_div; missing_shares
-89290,青山財産ネットワークス,none,missing_dps; missing_total_div; missing_shares
-68450,アズビル,none,missing_dps; missing_total_div; missing_shares
-39680,セグエグループ,none,missing_dps; missing_total_div; missing_shares
-91730,東海汽船,none,missing_dps; missing_total_div; missing_shares
-66590,メディアリンクス,none,missing_dps; missing_total_div; missing_shares
-34570,Ａｎｄ　Ｄｏホールディングス,none,missing_dps; missing_total_div; missing_shares
-96580,ビジネスブレイン太田昭和,none,missing_total_div; missing_shares
-38020,エコミック,none,missing_total_div; missing_shares
-94345,ソフトバンク（優先株式）,none,missing_dps; missing_total_div; missing_shares
-78670,タカラトミー,none,missing_total_div; missing_shares
-23710,カカクコム,none,missing_dps; missing_total_div; missing_shares
-95190,レノバ,none,missing_dps; missing_total_div; missing_shares
-50765,インフロニア・ホールディングス（優先株式）,none,missing_dps; missing_total_div; missing_shares
-47710,エフアンドエム,none,missing_dps; missing_total_div; missing_shares
-75550,大田花き,none,missing_dps; missing_total_div; missing_shares
-26830,魚喜,none,missing_dps; missing_total_div; missing_shares
-37630,プロシップ,none,missing_total_div; missing_shares
-26700,エービーシー・マート,none,missing_dps; missing_total_div; missing_shares
-47330,オービックビジネスコンサルタント,none,missing_total_div; missing_shares
-76830,ダブルエー,none,missing_dps; missing_total_div; missing_shares
-54010,日本製鉄,none,missing_dps; missing_total_div; missing_shares
-41240,大阪油化工業,none,missing_dps; missing_total_div; missing_shares
-36760,デジタルハーツホールディングス,none,missing_dps; missing_total_div; missing_shares
-96020,東宝,none,missing_total_div; missing_shares
-47070,キタック,none,missing_dps; missing_total_div; missing_shares
-27620,ＳＡＮＫＯ　ＭＡＲＫＥＴＩＮＧ　ＦＯＯＤＳ,none,missing_dps; missing_total_div
-54460,北越メタル,none,missing_total_div; missing_shares
-34610,パルマ,none,missing_total_div; missing_shares
-43510,山田再生系債権回収総合事務所,none,missing_dps; missing_total_div; missing_shares
-24590,アウンコンサルティング,none,missing_dps; missing_total_div; missing_shares
-33720,関門海,none,missing_dps; missing_total_div; missing_shares
-26930,ＹＫＴ,none,missing_dps; missing_total_div; missing_shares
-48490,エン,none,missing_dps; missing_total_div; missing_shares
-63250,タカキタ,none,missing_dps; missing_total_div; missing_shares
-70590,コプロ・ホールディングス,none,missing_dps; missing_total_div; missing_shares
-42930,セプテーニ・ホールディングス,none,missing_total_div; missing_shares
-44390,東名,none,missing_total_div; missing_shares
-13820,ホーブ,none,missing_dps; missing_total_div; missing_shares
-97880,ナック,none,missing_dps; missing_total_div; missing_shares
-54080,中山製鋼所,none,missing_total_div; missing_shares
-91420,九州旅客鉄道,none,missing_dps; missing_total_div; missing_shares
-78500,総合商研,none,missing_total_div; missing_shares
-35980,山喜,none,missing_dps; missing_total_div; missing_shares
-62570,藤商事,none,missing_dps; missing_total_div; missing_shares
-78970,ホクシン,none,missing_dps; missing_total_div; missing_shares
-81290,東邦ホールディングス,none,missing_dps; missing_total_div; missing_shares
-64240,高見沢サイバネティックス,none,missing_total_div; missing_shares
-20030,日東富士製粉,none,missing_total_div; missing_shares
-49350,リベルタ,none,missing_total_div; missing_shares
-36730,ブロードリーフ,none,missing_total_div; missing_shares
-78740,レック,none,missing_dps; missing_total_div; missing_shares
-65600,エル・ティー・エス,none,missing_dps; missing_total_div; missing_shares
-75270,システムソフト,none,missing_dps; missing_total_div; missing_shares
-68970,ツインバード,none,missing_dps; missing_total_div; missing_shares
-48390,ＷＯＷＯＷ,none,missing_dps; missing_total_div; missing_shares
-27880,アップルインターナショナル,none,missing_dps; missing_total_div; missing_shares
-60370,楽待,none,missing_dps; missing_total_div; missing_shares
-82810,ゼビオホールディングス,none,missing_total_div; missing_shares
-31110,オーミケンシ,none,missing_dps; missing_total_div; missing_shares
-43370,ぴあ,none,missing_total_div; missing_shares
-34940,マリオン,none,missing_total_div; missing_shares
-33770,バイク王＆カンパニー,none,missing_dps; missing_total_div; missing_shares
-36860,ディー・エル・イー,none,missing_dps; missing_total_div; missing_shares
-60880,シグマクシス・ホールディングス,none,missing_total_div; missing_shares
-94040,日本テレビホールディングス,none,missing_dps; missing_total_div; missing_shares
-98850,シャルレ,none,missing_dps; missing_total_div; missing_shares
-23250,ＮＪＳ,none,missing_dps; missing_total_div; missing_shares
-78470,グラファイトデザイン,none,missing_dps; missing_total_div; missing_shares
-31340,Ｈａｍｅｅ,none,missing_dps; missing_total_div; missing_shares
-23290,東北新社,none,missing_dps; missing_total_div; missing_shares
-46680,明光ネットワークジャパン,none,missing_dps; missing_total_div; missing_shares
-41970,アスマーク,none,missing_dps; missing_total_div; missing_shares
-96050,東映,none,missing_dps; missing_total_div; missing_shares
-64360,アマノ,none,missing_total_div; missing_shares
-60630,日本エマージェンシーアシスタンス,none,missing_dps; missing_total_div; missing_shares
-58890,Ｊａｐａｎ　Ｅｙｅｗｅａｒ　Ｈｏｌｄｉｎｇｓ,none,missing_dps; missing_total_div; missing_shares
-75140,ヒマラヤ,none,missing_dps; missing_total_div; missing_shares
-35650,アセンテック,none,missing_total_div; missing_shares
-92290,サンウェルズ,none,missing_dps; missing_total_div; missing_shares
-29260,篠崎屋,none,missing_dps; missing_total_div; missing_shares
-90090,京成電鉄,none,missing_total_div; missing_shares
-39330,チエル,none,missing_dps; missing_total_div; missing_shares
-75900,タカショー,none,missing_total_div; missing_shares
-64060,フジテック,none,missing_total_div; missing_shares
-22660,六甲バター,none,missing_dps; missing_total_div; missing_shares
-78510,カワセコンピュータサプライ,none,missing_total_div; missing_shares
-22910,福留ハム,none,missing_dps; missing_total_div; missing_shares
-88710,ゴールドクレスト,none,missing_dps; missing_total_div; missing_shares
-47600,アルファ,none,missing_total_div; missing_shares
-82170,オークワ,none,missing_dps; missing_total_div; missing_shares
-60500,イー・ガーディアン,none,missing_dps; missing_total_div; missing_shares
-43980,ブロードバンドセキュリティ,none,missing_dps; missing_total_div; missing_shares
-71960,Ｃａｓａ,none,missing_dps; missing_total_div; missing_shares
-87460,ｕｎｂａｎｋｅｄ,none,missing_total_div; missing_shares
-43230,日本システム技術,none,missing_total_div; missing_shares
-62280,ジェイ・イー・ティ,none,missing_total_div; missing_shares
-81850,チヨダ,none,missing_dps; missing_total_div; missing_shares
-24840,出前館,none,missing_dps; missing_total_div; missing_shares
-90640,ヤマトホールディングス,none,missing_dps; missing_total_div; missing_shares
-73470,マーキュリアホールディングス,none,missing_dps; missing_total_div; missing_shares
-94380,エムティーアイ,none,missing_dps; missing_total_div; missing_shares
-43340,ユークス,none,missing_total_div; missing_shares
-28820,イートアンドホールディングス,none,missing_total_div; missing_shares
-43960,システムサポートホールディングス,none,missing_total_div; missing_shares
+27530,あみやき亭,none,missing_total_div; missing_shares
+27470,北雄ラッキー,none,missing_dps; missing_total_div; missing_shares
+40250,多木化学,none,missing_total_div; missing_shares
+79900,グローブライド,none,missing_dps; missing_total_div; missing_shares
+48260,ＣＩＪ,none,missing_total_div; missing_shares
+61470,ヤマザキ,none,missing_dps; missing_total_div; missing_shares
+21860,ソーバル,none,missing_dps; missing_total_div; missing_shares
+22040,中村屋,none,missing_total_div; missing_shares
+74190,ノジマ,none,missing_dps; missing_total_div; missing_shares
+91430,ＳＧホールディングス,none,missing_dps; missing_total_div; missing_shares
+35970,自重堂,none,missing_total_div; missing_shares
+66330,ＣＧＳホールディングス,none,missing_dps; missing_total_div; missing_shares
+31610,アゼアス,none,missing_dps; missing_total_div; missing_shares
+78930,プロネクサス,none,missing_dps; missing_total_div; missing_shares
+31600,大光,none,missing_dps; missing_total_div; missing_shares
+71720,ジャパンインベストメントアドバイザー,none,missing_total_div; missing_shares
+34690,デュアルタップ,none,missing_dps; missing_total_div; missing_shares
+81190,三栄コーポレーション,none,missing_total_div; missing_shares
+38510,日本一ソフトウェア,none,missing_dps; missing_total_div; missing_shares
+57420,エヌアイシ・オートテック,none,missing_dps; missing_total_div; missing_shares
+67970,名古屋電機工業,none,missing_total_div; missing_shares
+80950,アステナホールディングス,none,missing_dps; missing_total_div; missing_shares
+30930,トレジャー・ファクトリー,none,missing_total_div; missing_shares
+80570,内田洋行,none,missing_total_div; missing_shares
+55760,オービーシステム,none,missing_total_div; missing_shares
+52830,高見澤,none,missing_dps; missing_total_div; missing_shares
+24990,日本和装ホールディングス,none,missing_total_div; missing_shares
+81310,ミツウロコグループホールディングス,none,missing_dps; missing_total_div; missing_shares
+96250,セレスポ,none,missing_dps; missing_total_div; missing_shares
+39400,ノムラシステムコーポレーション,none,missing_dps; missing_total_div; missing_shares
+93400,アソインターナショナル,none,missing_total_div; missing_shares
+71640,全国保証,none,missing_total_div; missing_shares
+96560,グリーンランドリゾート,none,missing_total_div; missing_shares
+36480,ＡＧＳ,none,missing_total_div; missing_shares
+80250,ツカモトコーポレーション,none,missing_dps; missing_total_div; missing_shares
+31390,ラクト・ジャパン,none,missing_total_div; missing_shares
+98950,コンセック,none,missing_dps; missing_total_div; missing_shares
+78600,エイベックス,none,missing_dps; missing_total_div; missing_shares
+66620,ユビテック,none,missing_dps; missing_total_div; missing_shares
+47650,ＳＢＩグローバルアセットマネジメント,none,missing_total_div; missing_shares
+89270,明豊エンタープライズ,none,missing_dps; missing_total_div; missing_shares
+68670,リーダー電子,none,missing_dps; missing_total_div; missing_shares
+99500,ハチバン,none,missing_dps; missing_total_div; missing_shares
 34960,アズーム,none,missing_total_div; missing_shares
-71620,アストマックス,none,missing_dps; missing_total_div; missing_shares
-31690,ミサワ,none,missing_dps; missing_total_div; missing_shares
-36600,アイスタイル,none,missing_dps; missing_total_div; missing_shares
-43880,エーアイ,none,missing_dps; missing_total_div; missing_shares
-37980,ＵＬＳグループ,none,missing_total_div; missing_shares
-98120,テーオーホールディングス,none,missing_dps; missing_total_div; missing_shares
-48200,イーエムシステムズ,none,missing_total_div; missing_shares
-47360,日本ラッド,none,missing_dps; missing_total_div; missing_shares
-49960,クミアイ化学工業,none,missing_total_div; missing_shares
-67720,東京コスモス電機,none,missing_dps; missing_total_div; missing_shares
-82020,ラオックスホールディングス,none,missing_dps; missing_total_div; missing_shares
-47660,ピーエイ,none,missing_total_div; missing_shares
-32450,ディア・ライフ,none,missing_total_div; missing_shares
-68360,ぷらっとホーム,none,missing_dps; missing_total_div; missing_shares
-79830,ミロク,none,missing_total_div; missing_shares
-61910,エアトリ,none,missing_dps; missing_total_div; missing_shares
-60290,アトラグループ,none,missing_dps; missing_total_div; missing_shares
-23070,クロスキャット,none,missing_total_div; missing_shares
-25330,オエノンホールディングス,none,missing_dps; missing_total_div; missing_shares
-47760,サイボウズ,none,missing_dps; missing_total_div; missing_shares
+23730,ケア２１,none,missing_dps; missing_total_div; missing_shares
+21540,オープンアップグループ,none,missing_dps; missing_total_div; missing_shares
+28770,日東ベスト,none,missing_dps; missing_total_div; missing_shares
+67690,ザインエレクトロニクス,none,missing_dps; missing_total_div; missing_shares
+78360,アビックス,none,missing_dps; missing_total_div; missing_shares
+63330,帝国電機製作所,none,missing_total_div; missing_shares
+18400,土屋ホールディングス,none,missing_dps; missing_total_div; missing_shares
+46120,日本ペイントホールディングス,none,missing_dps; missing_total_div; missing_shares
+72010,日産自動車,none,missing_dps; missing_total_div; missing_shares
+39920,ニーズウェル,none,missing_total_div; missing_shares
+34860,グローバル・リンク・マネジメント,none,missing_total_div; missing_shares
+29230,サトウ食品,none,missing_dps; missing_total_div; missing_shares
+61510,日東工器,none,missing_total_div; missing_shares
+25930,伊藤園,none,missing_dps; missing_total_div; missing_shares
+45740,大幸薬品,none,missing_dps; missing_total_div; missing_shares
+96970,カプコン,none,missing_total_div; missing_shares
+22120,山崎製パン,none,missing_total_div; missing_shares
+32710,ＴＨＥグローバル社,none,missing_total_div; missing_shares
+19720,三晃金属工業,none,missing_total_div; missing_shares
+44390,東名,none,missing_total_div; missing_shares
+34570,Ａｎｄ　Ｄｏホールディングス,none,missing_dps; missing_total_div; missing_shares
+29270,ＡＦＣ−ＨＤアムスライフサイエンス,none,missing_dps; missing_total_div; missing_shares
+60820,ライドオンエクスプレスホールディングス,none,missing_dps; missing_total_div; missing_shares
+24320,ディー・エヌ・エー,none,missing_dps; missing_total_div; missing_shares
+68450,アズビル,none,missing_dps; missing_total_div; missing_shares
+30680,ＷＤＩ,none,missing_dps; missing_total_div; missing_shares
+71770,ＧＭＯフィナンシャルホールディングス,none,missing_dps; missing_total_div; missing_shares
+40710,プラスアルファ・コンサルティング,none,missing_dps; missing_total_div; missing_shares
+89460,ＡＳＩＡＮ　ＳＴＡＲ,none,missing_dps; missing_total_div; missing_shares
+70380,フロンティア・マネジメント,none,missing_dps; missing_total_div; missing_shares
+49510,エステー,none,missing_dps; missing_total_div; missing_shares
+47540,トスネット,none,missing_total_div; missing_shares
+69230,スタンレー電気,none,missing_total_div; missing_shares
+35360,アクサスホールディングス,none,missing_dps; missing_total_div; missing_shares
+80130,ナイガイ,none,missing_dps; missing_total_div; missing_shares
+46740,クレスコ,none,missing_total_div; missing_shares
+72170,テイン,none,missing_total_div; missing_shares
+28830,大冷,none,missing_dps; missing_total_div; missing_shares
+52620,日本ヒューム,none,missing_dps; missing_total_div; missing_shares
+21690,ＣＤＳ,none,missing_dps; missing_total_div; missing_shares
+96290,ピー・シー・エー,none,missing_dps; missing_total_div; missing_shares
+47460,東計電算,none,missing_total_div; missing_shares
+25935,伊藤園（優先株式）,none,missing_dps; missing_total_div; missing_shares
+96280,燦ホールディングス,none,missing_dps; missing_total_div; missing_shares
+47090,ＩＤホールディングス,none,missing_total_div; missing_shares
+96440,タナベコンサルティンググループ,none,missing_dps; missing_total_div; missing_shares
+43690,トリケミカル研究所,none,missing_dps; missing_total_div; missing_shares
+75960,魚力,none,missing_dps; missing_total_div; missing_shares
+74140,小野建,none,missing_dps; missing_total_div; missing_shares
+42930,セプテーニ・ホールディングス,none,missing_total_div; missing_shares
+13820,ホーブ,none,missing_dps; missing_total_div; missing_shares
+36790,じげん,none,missing_total_div; missing_shares
+27780,パレモ・ホールディングス,none,missing_dps; missing_total_div; missing_shares
+18980,世紀東急工業,none,missing_dps; missing_total_div; missing_shares
+96050,東映,none,missing_dps; missing_total_div; missing_shares
+78740,レック,none,missing_dps; missing_total_div; missing_shares
+59000,ダイケン,none,missing_total_div; missing_shares
+81290,東邦ホールディングス,none,missing_dps; missing_total_div; missing_shares
+39450,スーパーバッグ,none,missing_total_div; missing_shares
+23110,エプコ,none,missing_total_div; missing_shares
+46150,神東塗料,none,missing_dps; missing_total_div; missing_shares
+78500,総合商研,none,missing_total_div; missing_shares
+52850,ヤマックス,none,missing_dps; missing_total_div; missing_shares
+90060,京浜急行電鉄,none,missing_dps; missing_total_div; missing_shares
+62920,カワタ,none,missing_dps; missing_total_div; missing_shares
+79910,マミヤ・オーピー,none,missing_dps; missing_total_div; missing_shares
+81670,リテールパートナーズ,none,missing_total_div; missing_shares
+98430,ニトリホールディングス,none,missing_dps; missing_total_div; missing_shares
+21300,メンバーズ,none,missing_dps; missing_total_div; missing_shares
+74260,山大,none,missing_dps; missing_total_div; missing_shares
+21930,クックパッド,none,missing_dps; missing_total_div; missing_shares
+96630,ナガワ,none,missing_dps; missing_total_div; missing_shares
+82540,さいか屋,none,missing_dps; missing_total_div
+98280,Ｇｅｎｋｉ　Ｇｌｏｂａｌ　Ｄｉｎｉｎｇ　Ｃｏｎｃｅｐｔｓ,none,missing_total_div; missing_shares
+49980,フマキラー,none,missing_dps; missing_total_div; missing_shares
+34610,パルマ,none,missing_total_div; missing_shares
+23290,東北新社,none,missing_dps; missing_total_div; missing_shares
+65130,オリジン,none,missing_total_div; missing_shares
+92010,日本航空,none,missing_dps; missing_total_div; missing_shares
+43730,シンプレクス・ホールディングス,none,missing_dps; missing_total_div; missing_shares
+26830,魚喜,none,missing_dps; missing_total_div; missing_shares
+82810,ゼビオホールディングス,none,missing_total_div; missing_shares
+29080,フジッコ,none,missing_dps; missing_total_div; missing_shares
+99360,王将フードサービス,none,missing_dps; missing_total_div; missing_shares
+36760,デジタルハーツホールディングス,none,missing_dps; missing_total_div; missing_shares
+31920,白鳩,none,missing_dps; missing_total_div; missing_shares
+36900,イルグルム,none,missing_total_div; missing_shares
+37710,システムリサーチ,none,missing_total_div; missing_shares
+54460,北越メタル,none,missing_total_div; missing_shares
+24890,アドウェイズ,none,missing_dps; missing_total_div; missing_shares
+63250,タカキタ,none,missing_dps; missing_total_div; missing_shares
+96580,ビジネスブレイン太田昭和,none,missing_total_div; missing_shares
+77400,タムロン,none,missing_dps; missing_total_div; missing_shares
+44060,新日本理化,none,missing_dps; missing_total_div; missing_shares
+29240,イフジ産業,none,missing_total_div; missing_shares
+72720,ヤマハ発動機,none,missing_dps; missing_total_div; missing_shares
+35470,串カツ田中ホールディングス,none,missing_total_div; missing_shares
+82030,ＭｒＭａｘＨＤ,none,missing_total_div; missing_shares
+77520,リコー,none,missing_dps; missing_total_div; missing_shares
+27620,ＳＡＮＫＯ　ＭＡＲＫＥＴＩＮＧ　ＦＯＯＤＳ,none,missing_dps; missing_total_div
+77260,黒田精工,none,missing_total_div; missing_shares
+96020,東宝,none,missing_total_div; missing_shares
+33770,バイク王＆カンパニー,none,missing_dps; missing_total_div; missing_shares
+36360,三菱総合研究所,none,missing_dps; missing_total_div; missing_shares
+45440,Ｈ．Ｕ．グループホールディングス,none,missing_dps; missing_total_div; missing_shares
+20030,日東富士製粉,none,missing_total_div; missing_shares
+78670,タカラトミー,none,missing_total_div; missing_shares
+27880,アップルインターナショナル,none,missing_dps; missing_total_div; missing_shares
+90730,京極運輸商事,none,missing_dps; missing_total_div; missing_shares
+76830,ダブルエー,none,missing_dps; missing_total_div; missing_shares
+78470,グラファイトデザイン,none,missing_dps; missing_total_div; missing_shares
+22110,不二家,none,missing_dps; missing_total_div; missing_shares
+47120,ＫｅｙＨｏｌｄｅｒ,none,missing_dps; missing_total_div; missing_shares
+88360,ＲＩＳＥ,none,missing_dps; missing_total_div; missing_shares
+39680,セグエグループ,none,missing_dps; missing_total_div; missing_shares
+47710,エフアンドエム,none,missing_dps; missing_total_div; missing_shares
+26700,エービーシー・マート,none,missing_dps; missing_total_div; missing_shares
+23710,カカクコム,none,missing_dps; missing_total_div; missing_shares
+89040,ＡＶＡＮＴＩＡ,none,missing_dps; missing_total_div; missing_shares
+85950,ジャフコ　グループ,none,missing_dps; missing_total_div; missing_shares
+71980,ＳＢＩアルヒ,none,missing_dps; missing_total_div; missing_shares
+37440,サイオス,none,missing_total_div; missing_shares
+64200,ガリレイ,none,missing_dps; missing_total_div; missing_shares
+65840,三櫻工業,none,missing_total_div; missing_shares
+39630,シンクロ・フード,none,missing_total_div; missing_shares
+13790,ホクト,none,missing_total_div; missing_shares
+47330,オービックビジネスコンサルタント,none,missing_total_div; missing_shares
+66590,メディアリンクス,none,missing_dps; missing_total_div; missing_shares
+67300,アクセル,none,missing_total_div; missing_shares
+99020,日伝,none,missing_total_div; missing_shares
+41240,大阪油化工業,none,missing_dps; missing_total_div; missing_shares
+34900,アズ企画設計,none,missing_dps; missing_total_div; missing_shares
+49200,日本色材工業研究所,none,missing_total_div; missing_shares
+70300,スプリックス,none,missing_dps; missing_total_div; missing_shares
+49850,アース製薬,none,missing_total_div; missing_shares
+75140,ヒマラヤ,none,missing_dps; missing_total_div; missing_shares
+29300,北の達人コーポレーション,none,missing_dps; missing_total_div; missing_shares
+38020,エコミック,none,missing_total_div; missing_shares
+90090,京成電鉄,none,missing_total_div; missing_shares
+63510,鶴見製作所,none,missing_dps; missing_total_div; missing_shares
+64240,高見沢サイバネティックス,none,missing_total_div; missing_shares
+54080,中山製鋼所,none,missing_total_div; missing_shares
+94345,ソフトバンク（優先株式）,none,missing_dps; missing_total_div; missing_shares
+79650,象印マホービン,none,missing_dps; missing_total_div; missing_shares
+50765,インフロニア・ホールディングス（優先株式）,none,missing_dps; missing_total_div; missing_shares
+68970,ツインバード,none,missing_dps; missing_total_div; missing_shares
+43510,山田再生系債権回収総合事務所,none,missing_dps; missing_total_div; missing_shares
+26930,ＹＫＴ,none,missing_dps; missing_total_div; missing_shares
+75550,大田花き,none,missing_dps; missing_total_div; missing_shares
+70590,コプロ・ホールディングス,none,missing_dps; missing_total_div; missing_shares
+31800,ビューティガレージ,none,missing_total_div; missing_shares
+59670,ＴＯＮＥ,none,missing_total_div; missing_shares
+24590,アウンコンサルティング,none,missing_dps; missing_total_div; missing_shares
+35980,山喜,none,missing_dps; missing_total_div; missing_shares
+30380,神戸物産,none,missing_total_div; missing_shares
+71280,フルサト・マルカホールディングス,none,missing_total_div; missing_shares
+94160,ビジョン,none,missing_total_div; missing_shares
+62570,藤商事,none,missing_dps; missing_total_div; missing_shares
+18880,若築建設,none,missing_dps; missing_total_div; missing_shares
+37470,インタートレード,none,missing_dps; missing_total_div; missing_shares
+48490,エン,none,missing_dps; missing_total_div; missing_shares
+97880,ナック,none,missing_dps; missing_total_div; missing_shares
+74940,コナカ,none,missing_dps; missing_total_div; missing_shares
+81850,チヨダ,none,missing_dps; missing_total_div; missing_shares
+52710,トーヨーアサノ,none,missing_total_div; missing_shares
+36590,ネクソン,none,missing_dps; missing_total_div; missing_shares
+60230,ダイハツインフィニアース,none,missing_total_div; missing_shares
+43370,ぴあ,none,missing_total_div; missing_shares
+64130,理想科学工業,none,missing_dps; missing_total_div; missing_shares
+95190,レノバ,none,missing_dps; missing_total_div; missing_shares
+88710,ゴールドクレスト,none,missing_dps; missing_total_div; missing_shares
+65600,エル・ティー・エス,none,missing_dps; missing_total_div; missing_shares
+91730,東海汽船,none,missing_dps; missing_total_div; missing_shares
+33720,関門海,none,missing_dps; missing_total_div; missing_shares
 74760,アズワン,none,missing_dps; missing_total_div; missing_shares
-76860,ひとまいる,none,missing_dps; missing_total_div; missing_shares
-38230,ＴＨＥ　ＷＨＹ　ＨＯＷ　ＤＯ　ＣＯＭＰＡＮＹ,none,missing_dps; missing_total_div; missing_shares
-27670,円谷フィールズホールディングス,none,missing_dps; missing_total_div; missing_shares
-48130,ＡＣＣＥＳＳ,none,missing_dps; missing_total_div; missing_shares
-91450,ビーイングホールディングス,none,missing_total_div; missing_shares
+64060,フジテック,none,missing_total_div; missing_shares
+29260,篠崎屋,none,missing_dps; missing_total_div; missing_shares
+46680,明光ネットワークジャパン,none,missing_dps; missing_total_div; missing_shares
+47760,サイボウズ,none,missing_dps; missing_total_div; missing_shares
+82170,オークワ,none,missing_dps; missing_total_div; missing_shares
+60370,楽待,none,missing_dps; missing_total_div; missing_shares
+31110,オーミケンシ,none,missing_dps; missing_total_div; missing_shares
+39330,チエル,none,missing_dps; missing_total_div; missing_shares
+60880,シグマクシス・ホールディングス,none,missing_total_div; missing_shares
+98850,シャルレ,none,missing_dps; missing_total_div; missing_shares
+49960,クミアイ化学工業,none,missing_total_div; missing_shares
+73470,マーキュリアホールディングス,none,missing_dps; missing_total_div; missing_shares
+72110,三菱自動車工業,none,missing_dps; missing_total_div; missing_shares
+52500,プライム・ストラテジー,none,missing_dps; missing_total_div; missing_shares
+64360,アマノ,none,missing_total_div; missing_shares
+43230,日本システム技術,none,missing_total_div; missing_shares
+54010,日本製鉄,none,missing_dps; missing_total_div; missing_shares
+94040,日本テレビホールディングス,none,missing_dps; missing_total_div; missing_shares
+79830,ミロク,none,missing_dps; missing_total_div; missing_shares
+41970,アスマーク,none,missing_dps; missing_total_div; missing_shares
+71960,Ｃａｓａ,none,missing_dps; missing_total_div; missing_shares
+58890,Ｊａｐａｎ　Ｅｙｅｗｅａｒ　Ｈｏｌｄｉｎｇｓ,none,missing_dps; missing_total_div; missing_shares
+47600,アルファ,none,missing_total_div; missing_shares
+19110,住友林業,none,missing_dps; missing_total_div; missing_shares
+92290,サンウェルズ,none,missing_dps; missing_total_div; missing_shares
+91420,九州旅客鉄道,none,missing_dps; missing_total_div; missing_shares
+34260,アトムリビンテック,none,missing_dps; missing_total_div; missing_shares
+54610,中部鋼鈑,none,missing_dps; missing_total_div; missing_shares
+60500,イー・ガーディアン,none,missing_dps; missing_total_div; missing_shares
+75270,システムソフト,none,missing_dps; missing_total_div; missing_shares
+90240,西武ホールディングス,none,missing_total_div; missing_shares
+48390,ＷＯＷＯＷ,none,missing_dps; missing_total_div; missing_shares
+29910,ランドネット,none,missing_total_div; missing_shares
+60630,日本エマージェンシーアシスタンス,none,missing_dps; missing_total_div; missing_shares
 70350,ａｎｄ　ｆａｃｔｏｒｙ,none,missing_dps; missing_total_div; missing_shares
-36620,エイチームホールディングス,none,missing_dps; missing_total_div; missing_shares
-81110,ゴールドウイン,none,missing_dps; missing_total_div; missing_shares
-96010,松竹,none,missing_dps; missing_total_div; missing_shares
-36630,セルシス,none,missing_total_div; missing_shares
-78090,壽屋,none,missing_dps; missing_total_div; missing_shares
-58910,魁力屋,none,missing_dps; missing_total_div; missing_shares
-71050,三菱ロジスネクスト,none,missing_total_div; missing_shares
-48450,スカラ,none,missing_total_div; missing_shares
-24350,シダー,none,missing_total_div; missing_shares
-99410,太洋物産,none,missing_dps; missing_total_div; missing_shares
-39220,ＰＲ　ＴＩＭＥＳ,none,missing_total_div; missing_shares
-22160,カンロ,none,missing_dps; missing_total_div; missing_shares
-76110,ハイデイ日高,none,missing_total_div; missing_shares
-43310,テイクアンドギヴ・ニーズ,none,missing_total_div; missing_shares
+43980,ブロードバンドセキュリティ,none,missing_dps; missing_total_div; missing_shares
+47070,キタック,none,missing_dps; missing_total_div; missing_shares
+31690,ミサワ,none,missing_dps; missing_total_div; missing_shares
+78970,ホクシン,none,missing_dps; missing_total_div; missing_shares
+35650,アセンテック,none,missing_total_div; missing_shares
+94380,エムティーアイ,none,missing_dps; missing_total_div; missing_shares
+76860,ひとまいる,none,missing_dps; missing_total_div; missing_shares
+28820,イートアンドホールディングス,none,missing_total_div; missing_shares
+32450,ディア・ライフ,none,missing_total_div; missing_shares
 17730,ワイ・ティー・エル・コーポレーション・バーハッド,none,missing_dps; missing_total_div; missing_shares
+71620,アストマックス,none,missing_dps; missing_total_div; missing_shares
+47660,ピーエイ,none,missing_total_div; missing_shares
 26870,シー・ヴイ・エス・ベイエリア,none,missing_dps; missing_total_div; missing_shares
+23250,ＮＪＳ,none,missing_dps; missing_total_div; missing_shares
+37980,ＵＬＳグループ,none,missing_total_div; missing_shares
+90640,ヤマトホールディングス,none,missing_dps; missing_total_div; missing_shares
+43340,ユークス,none,missing_total_div; missing_shares
+22660,六甲バター,none,missing_dps; missing_total_div; missing_shares
+36860,ディー・エル・イー,none,missing_dps; missing_total_div; missing_shares
+39010,マークラインズ,none,missing_dps; missing_total_div; missing_shares
+39940,マネーフォワード,none,missing_dps; missing_total_div; missing_shares
+78510,カワセコンピュータサプライ,none,missing_total_div; missing_shares
+99410,太洋物産,none,missing_dps; missing_total_div; missing_shares
+48160,東映アニメーション,none,missing_dps; missing_total_div; missing_shares
+61910,エアトリ,none,missing_dps; missing_total_div; missing_shares
+36630,セルシス,none,missing_total_div; missing_shares
+36600,アイスタイル,none,missing_dps; missing_total_div; missing_shares
+48200,イーエムシステムズ,none,missing_total_div; missing_shares
+23070,クロスキャット,none,missing_total_div; missing_shares
+75900,タカショー,none,missing_total_div; missing_shares
+34940,マリオン,none,missing_total_div; missing_shares
+65940,ニデック,none,missing_dps; missing_total_div; missing_shares
+24840,出前館,none,missing_dps; missing_total_div; missing_shares
+43960,システムサポートホールディングス,none,missing_total_div; missing_shares
+22910,福留ハム,none,missing_dps; missing_total_div; missing_shares
+78090,壽屋,none,missing_dps; missing_total_div; missing_shares
+66190,ダブル・スコープ,none,missing_dps; missing_total_div; missing_shares
+58910,魁力屋,none,missing_dps; missing_total_div; missing_shares
+27670,円谷フィールズホールディングス,none,missing_dps; missing_total_div; missing_shares
+71050,三菱ロジスネクスト,none,missing_total_div; missing_shares
+60290,アトラグループ,none,missing_dps; missing_total_div; missing_shares
+78650,ピープル,none,missing_total_div; missing_shares
+87460,ｕｎｂａｎｋｅｄ,none,missing_total_div; missing_shares
+31340,Ｈａｍｅｅ,none,missing_dps; missing_total_div; missing_shares
+96010,松竹,none,missing_dps; missing_total_div; missing_shares
+43460,ＮＥＸＹＺ．Ｇｒｏｕｐ,none,missing_dps; missing_total_div; missing_shares
+82020,ラオックスホールディングス,none,missing_dps; missing_total_div; missing_shares
+88940,ＲＥＶＯＬＵＴＩＯＮ,none,missing_dps; missing_total_div; missing_shares
+81110,ゴールドウイン,none,missing_dps; missing_total_div; missing_shares
+43310,テイクアンドギヴ・ニーズ,none,missing_total_div; missing_shares
+39220,ＰＲ　ＴＩＭＥＳ,none,missing_total_div; missing_shares
+78370,アールシーコア,none,missing_dps; missing_total_div; missing_shares
+36620,エイチームホールディングス,none,missing_dps; missing_total_div; missing_shares
+25330,オエノンホールディングス,none,missing_dps; missing_total_div; missing_shares
+67720,東京コスモス電機,none,missing_dps; missing_total_div; missing_shares
+78320,バンダイナムコホールディングス,none,missing_total_div; missing_shares
+76110,ハイデイ日高,none,missing_total_div; missing_shares
+48450,スカラ,none,missing_total_div; missing_shares
+62280,ジェイ・イー・ティ,none,missing_total_div; missing_shares
+99320,杉本商事,none,missing_dps; missing_total_div; missing_shares
+38230,ＴＨＥ　ＷＨＹ　ＨＯＷ　ＤＯ　ＣＯＭＰＡＮＹ,none,missing_dps; missing_total_div; missing_shares
 23260,デジタルアーツ,none,missing_dps; missing_total_div; missing_shares
 49360,アクシージア,none,missing_dps; missing_total_div; missing_shares
-96030,エイチ・アイ・エス,none,missing_dps; missing_total_div; missing_shares
-31800,ビューティガレージ,none,missing_total_div; missing_shares
-78370,アールシーコア,none,missing_dps; missing_total_div; missing_shares
-88940,ＲＥＶＯＬＵＴＩＯＮ,none,missing_dps; missing_total_div; missing_shares
-99320,杉本商事,none,missing_dps; missing_total_div; missing_shares
-43460,ＮＥＸＹＺ．Ｇｒｏｕｐ,none,missing_dps; missing_total_div; missing_shares
-78320,バンダイナムコホールディングス,none,missing_total_div; missing_shares
-59670,ＴＯＮＥ,none,missing_total_div; missing_shares
-70340,プロレド・パートナーズ,none,missing_dps; missing_total_div; missing_shares
-74220,東邦レマック,none,missing_dps; missing_total_div; missing_shares
-41740,アピリッツ,none,missing_dps; missing_total_div; missing_shares
-94170,スマートバリュー,none,missing_dps; missing_total_div; missing_shares
-39230,ラクス,none,missing_total_div; missing_shares
-77820,シンシア,none,missing_total_div; missing_shares
-78650,ピープル,none,missing_total_div; missing_shares
-64170,ＳＡＮＫＹＯ,none,missing_total_div; missing_shares
-92130,セイファート,none,missing_dps; missing_total_div; missing_shares
-66190,ダブル・スコープ,none,missing_dps; missing_total_div; missing_shares
-36960,セレス,none,missing_dps; missing_total_div; missing_shares
-46870,ＴＤＣソフト,none,missing_total_div; missing_shares
+32050,ダイドーリミテッド,none,missing_total_div; missing_shares
+78150,東京ボード工業,none,missing_dps; missing_total_div; missing_shares
+49350,リベルタ,none,missing_total_div; missing_shares
 45870,ペプチドリーム,none,missing_dps; missing_total_div; missing_shares
+91450,ビーイングホールディングス,none,missing_total_div; missing_shares
+70340,プロレド・パートナーズ,none,missing_dps; missing_total_div; missing_shares
+39230,ラクス,none,missing_total_div; missing_shares
+41740,アピリッツ,none,missing_dps; missing_total_div; missing_shares
+74220,東邦レマック,none,missing_dps; missing_total_div; missing_shares
+43880,エーアイ,none,missing_dps; missing_total_div; missing_shares
+47360,日本ラッド,none,missing_dps; missing_total_div; missing_shares
+98120,テーオーホールディングス,none,missing_dps; missing_total_div; missing_shares
 48120,電通総研,none,missing_dps; missing_total_div; missing_shares
-48160,東映アニメーション,none,missing_dps; missing_total_div; missing_shares
-31740,ハピネス・アンド・ディ,none,missing_dps; missing_total_div; missing_shares
+94170,スマートバリュー,none,missing_dps; missing_total_div; missing_shares
+77820,シンシア,none,missing_total_div; missing_shares
+64170,ＳＡＮＫＹＯ,none,missing_total_div; missing_shares
+36960,セレス,none,missing_dps; missing_total_div; missing_shares
+89290,青山財産ネットワークス,none,missing_total_div; missing_shares
+46870,ＴＤＣソフト,none,missing_total_div; missing_shares
 38250,リミックスポイント,none,missing_dps; missing_total_div; missing_shares
+22160,カンロ,none,missing_dps; missing_total_div; missing_shares
+92130,セイファート,none,missing_dps; missing_total_div; missing_shares
 95640,ＦＣＥ,none,missing_total_div; missing_shares
-76030,ジーイエット,none,missing_dps; missing_total_div; missing_shares
 65720,オープングループ,none,missing_dps; missing_total_div; missing_shares
+76030,ジーイエット,none,missing_dps; missing_total_div; missing_shares
+31740,ハピネス・アンド・ディ,none,missing_dps; missing_total_div; missing_shares
+81650,千趣会,none,missing_dps; missing_total_div; missing_shares
 48800,セルソース,none,missing_dps; missing_total_div; missing_shares
 97040,アゴーラ　ホスピタリティー　グループ,none,missing_dps; missing_total_div; missing_shares
-81650,千趣会,none,missing_dps; missing_total_div; missing_shares
-87980,アドバンスクリエイト,none,missing_dps; missing_total_div; missing_shares
 27000,木徳神糧,none,missing_total_div; missing_shares
-29010,ウェルディッシュ,none,missing_total_div; missing_shares
 55350,ミガロホールディングス,none,missing_total_div; missing_shares
-29290,ファーマフーズ,none,missing_dps; missing_total_div; missing_shares
-24400,ぐるなび,none,missing_dps; missing_total_div; missing_shares
+68360,ぷらっとホーム,none,missing_dps; missing_total_div; missing_shares
 71110,ＩＮＥＳＴ,none,missing_dps; missing_total_div; missing_shares
-94250,ＲｅＹｕｕ　Ｊａｐａｎ,none,missing_dps; missing_total_div; missing_shares
-78150,東京ボード工業,none,missing_dps; missing_total_div; missing_shares
-39940,マネーフォワード,none,missing_dps; missing_total_div; missing_shares
+29010,ウェルディッシュ,none,missing_total_div; missing_shares
+87980,アドバンスクリエイト,none,missing_dps; missing_total_div; missing_shares
+24400,ぐるなび,none,missing_dps; missing_total_div; missing_shares
+29290,ファーマフーズ,none,missing_dps; missing_total_div; missing_shares
 47160,日本オラクル,none,missing_total_div; missing_shares
+94250,ＲｅＹｕｕ　Ｊａｐａｎ,none,missing_dps; missing_total_div; missing_shares
 31350,マーケットエンタープライズ,none,missing_dps; missing_total_div; missing_shares
-33500,メタプラネット,none,missing_dps; missing_total_div; missing_shares
 24910,バリューコマース,none,missing_total_div; missing_shares
+33500,メタプラネット,none,missing_dps; missing_total_div; missing_shares
 23380,クオンタムソリューションズ,none,missing_dps; missing_total_div; missing_shares
 21340,北浜キャピタルパートナーズ,none,missing_dps; missing_total_div; missing_shares
 23230,ｆｏｎｆｕｎ,none,missing_dps; missing_total_div; missing_shares

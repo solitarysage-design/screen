@@ -1,187 +1,209 @@
 ﻿code,Name,yield_basis,effective_yield,manual_dividend_check_reason
-76090,ダイトロン,dps_fallback,0.05337465564738292,yf_high_yield
-18610,熊谷組,dps_fallback,0.07445589919816724,high_yield_risk; yf_high_yield
-41070,伊勢化学工業,fwd,0.058919803600654665,yf_high_yield
-65900,芝浦メカトロニクス,fwd,0.05325670498084291,yf_high_yield
-51610,西川ゴム工業,fwd,0.05,yf_high_yield
-62980,ワイエイシイホールディングス,dps_fallback,0.05,yf_high_yield
-72390,タチエス,fwd,0.04718181818181818,yf_high_yield
-79460,光陽社,fwd,0.04838709677419355,yf_high_yield
-21200,ＬＩＦＵＬＬ,dps_fallback,0.04910377358490566,yf_high_yield
-97820,ディーエムエス,fwd,0.061780104712041886,high_yield_risk; yf_high_yield
-80010,伊藤忠商事,fwd,0.01938836222891775,yield_split_mismatch
-66480,かわでん,fwd,0.1259774109470026,high_yield_risk; yf_high_yield
-89990,グランディハウス,dps_fallback,0.05152979066022544,yf_high_yield
-41830,三井化学,dps_fallback,0.06957328385899815,high_yield_risk; yf_high_yield
-30020,グンゼ,fwd,0.08666666666666667,high_yield_risk; yf_high_yield
-43100,ドリームインキュベータ,fwd,0.14029850746268657,high_yield_risk; yf_high_yield
-93220,川西倉庫,fwd,0.045060658578856154,yf_high_yield
-97610,東海リース,fwd,0.04504504504504504,yf_high_yield
-81420,トーホー,dps_fallback,0.094553706505295,high_yield_risk; yf_high_yield
-13840,ホクリヨウ,fwd,0.14757281553398058,high_yield_risk; yf_high_yield
-74200,佐鳥電機,fwd,0.04523934771173067,yf_high_yield
-99340,因幡電機産業,fwd,0.026335138387535057,yield_split_mismatch
-19680,太平電業,dps_fallback,0.061210213361315144,high_yield_risk; yf_high_yield
-87500,第一生命ホールディングス,dps_fallback,0.08896103896103896,high_yield_risk; yf_high_yield
-63690,トーヨーカネツ,dps_fallback,0.08324514991181658,high_yield_risk; yf_high_yield
-72960,エフ・シー・シー,dps_fallback,0.05595567867036011,yf_high_yield
-75050,扶桑電通,fwd,0.060749881347887995,high_yield_risk; yf_high_yield
-80610,西華産業,dps_fallback,0.08494208494208494,high_yield_risk; yf_high_yield
-61370,小池酸素工業,fwd,0.10270774976657329,high_yield_risk; yf_high_yield
-13330,マルハニチロ,fwd,0.024255197198266052,yield_split_mismatch
-62100,ＴＯＹＯイノベックス,dps_fallback,0.05247376311844078,yf_high_yield
-18260,佐田建設,dps_fallback,0.04780876494023904,yf_high_yield
-36120,ワールド,dps_fallback,0.049813200498132,yf_high_yield
-68940,パルステック工業,fwd,0.04782608695652174,yf_high_yield
-86040,野村ホールディングス,dps_fallback,0.0457280385078219,yf_high_yield
-41140,日本触媒,dps_fallback,0.046416938110749185,yf_high_yield
-68500,チノー,dps_fallback,0.047031158142269255,yf_high_yield
-24080,ＫＧ情報,dps_fallback,0.04834254143646409,yf_high_yield
-63930,油研工業,fwd,0.046801872074883,yf_high_yield
-86140,東洋証券,fwd,0.0655307994757536,high_yield_risk; yf_high_yield
-79170,ＺＡＣＲＯＳ,dps_fallback,0.09193776520509193,high_yield_risk; yf_high_yield
-63310,三菱化工機,dps_fallback,0.06363636363636363,high_yield_risk; yf_high_yield
-39530,大村紙業,fwd,0.06180469715698393,high_yield_risk; yf_high_yield
-80760,カノークス,fwd,0.047397769516728624,yf_high_yield
-98270,リリカラ,dps_fallback,0.053811659192825115,yf_high_yield
-69190,ケル,dps_fallback,0.051347881899871634,yf_high_yield
-84730,ＳＢＩホールディングス,fwd,0.025996633839402306,yield_split_mismatch
-29930,長栄,fwd,0.049721559268098646,yf_high_yield
-18660,北野建設,dps_fallback,0.07840342124019957,high_yield_risk; yf_high_yield
-54510,ヨドコウ,dps_fallback,0.2215909090909091,high_yield_risk; yf_high_yield
-54060,神戸製鋼所,fwd,0.04775549188156638,yf_high_yield
-81300,サンゲツ,dps_fallback,0.046224961479198766,yf_high_yield
-71200,ＳＨＩＮＫＯ,fwd,0.1033013844515442,high_yield_risk; yf_high_yield
-63600,東京自働機械製作所,dps_fallback,0.06153846153846154,high_yield_risk; yf_high_yield
-98230,マミーマートホールディングス,dps_fallback,0.06205673758865248,high_yield_risk; yf_high_yield
-98560,ケーユーホールディングス,dps_fallback,0.050078247261345854,yf_high_yield
-59420,日本フイルコン,fwd,0.04827586206896552,yf_high_yield
-52840,ヤマウホールディングス,fwd,0.04909240924092409,yf_high_yield
-40230,クレハ,fwd,0.04640171858216971,yf_high_yield
-21480,アイティメディア,dps_fallback,0.052994170641229466,yf_high_yield
-51920,三ツ星ベルト,dps_fallback,0.04514563106796116,yf_high_yield
-23040,ＣＳＳホールディングス,fwd,0.04648760330578512,yf_high_yield
-81170,中央自動車工業,dps_fallback,0.075177304964539,high_yield_risk; yf_high_yield
-67370,ＥＩＺＯ,actual,0.0473114092879205,yf_high_yield
-49760,東洋ドライルーブ,dps_fallback,0.06499661475964794,high_yield_risk; yf_high_yield
-53570,ヨータイ,dps_fallback,0.0473186119873817,yf_high_yield
-54450,東京鐵鋼,dps_fallback,0.06019261637239166,high_yield_risk; yf_high_yield
-21140,フジ日本,fwd,0.05421686746987952,yf_high_yield
-80750,神鋼商事,dps_fallback,0.1192368839427663,high_yield_risk; yf_high_yield
-37080,特種東海製紙,dps_fallback,0.07411982705373688,high_yield_risk; yf_high_yield
-18820,東亜道路工業,dps_fallback,0.048833423765599564,yf_high_yield
-70810,コーユーレンティア,dps_fallback,0.04552352048558422,yf_high_yield
-45770,ダイト,dps_fallback,0.04685408299866131,yf_high_yield
-74670,萩原電気ホールディングス,dps_fallback,0.049531459170013385,yf_high_yield
-73050,新家工業,dps_fallback,0.05385996409335727,yf_high_yield
-69150,千代田インテグレ,dps_fallback,0.048558421851289835,yf_high_yield
-54110,ＪＦＥホールディングス,dps_fallback,0.05,yf_high_yield
-77750,大研医器,fwd,0.04893617021276596,yf_high_yield
-74330,伯東,dps_fallback,0.06153846153846154,high_yield_risk; yf_high_yield
-79560,ピジョン,dps_fallback,0.04627092846270928,yf_high_yield
-14140,ショーボンドホールディングス,fwd,0.031398956223653504,yield_split_mismatch
-49280,ノエビアホールディングス,dps_fallback,0.05,yf_high_yield
-93680,キムラユニティー,dps_fallback,0.06638566912539515,high_yield_risk; yf_high_yield
-32310,野村不動産ホールディングス,dps_fallback,0.15482695810564662,high_yield_risk; yf_high_yield
-73670,セルム,dps_fallback,0.05604719764011799,yf_high_yield
-59700,ジーテクト,dps_fallback,0.0451948051948052,yf_high_yield
-79140,共同印刷,fwd,0.0830860534124629,high_yield_risk; yf_high_yield
-35710,ソトー,dps_fallback,0.05025125628140704,yf_high_yield
-79570,フジコピアン,dps_fallback,0.053830227743271224,yf_high_yield
-72610,マツダ,dps_fallback,0.04577611319184353,yf_high_yield
-67180,アイホン,dps_fallback,0.045406915822563745,yf_high_yield
-81250,ワキタ,fwd,0.05094243504839532,yf_high_yield
-46710,ファルコホールディングス,fwd,0.045929798356982826,yf_high_yield
-86980,マネックスグループ,dps_fallback,0.05543328748280605,yf_high_yield
-88970,ＭＩＲＡＲＴＨホールディングス,dps_fallback,0.07246376811594203,high_yield_risk; yf_high_yield
-93080,乾汽船,dps_fallback,0.04636973764490543,yf_high_yield
-18780,大東建託,fwd,0.17293439472961844,high_yield_risk; yf_high_yield
-68740,協立電機,fwd,0.04881450488145049,yf_high_yield
-55420,新報国マテリアル,dps_fallback,0.0625782227784731,high_yield_risk; yf_high_yield
-78790,ノダ,dps_fallback,0.061683599419448475,high_yield_risk; yf_high_yield
-47250,ＣＡＣ　Ｈｏｌｄｉｎｇｓ,fwd,0.04782146652497343,yf_high_yield
-24750,ＷＤＢホールディングス,dps_fallback,0.04582806573957016,yf_high_yield
-65390,ＭＳ−Ｊａｐａｎ,dps_fallback,0.052980132450331126,yf_high_yield
-74800,スズデン,dps_fallback,0.05819209039548023,yf_high_yield
-74640,セフテック,dps_fallback,0.04941860465116279,yf_high_yield
-51080,ブリヂストン,dps_fallback,0.060431654676258995,high_yield_risk; yf_high_yield
-80430,スターゼン,dps_fallback,0.08409785932721713,high_yield_risk; yf_high_yield
-80070,高島,fwd,0.09695603156708005,high_yield_risk; yf_high_yield
-35480,バロックジャパンリミテッド,dps_fallback,0.05114401076716016,yf_high_yield
-26760,高千穂交易,dps_fallback,0.07655502392344497,high_yield_risk; yf_high_yield
-54640,モリ工業,fwd,0.21212121212121213,high_yield_risk; yf_high_yield
-66940,ズーム,dps_fallback,0.04866562009419152,yf_high_yield
-82270,しまむら,dps_fallback,0.05714285714285714,yf_high_yield
-64630,ＴＰＲ,dps_fallback,0.07782101167315175,high_yield_risk; yf_high_yield
-82910,日産東京販売ホールディングス,dps_fallback,0.04519774011299435,yf_high_yield
-59380,ＬＩＸＩＬ,fwd,0.05187319884726225,yf_high_yield
-79840,コクヨ,dps_fallback,0.08802012011255642,high_yield_risk; yf_high_yield
-94330,ＫＤＤＩ,dps_fallback,0.05433764287052651,yf_high_yield
-36330,ＧＭＯペパボ,fwd,0.04846037354871277,yf_high_yield
-29320,ＳＴＩフードホールディングス,dps_fallback,0.0946372239747634,high_yield_risk; yf_high_yield
-78330,アイフィスジャパン,fwd,0.046255506607929514,yf_high_yield
-89230,トーセイ,fwd,0.05953827460510328,yf_high_yield
-91010,日本郵船,dps_fallback,0.05865367262227035,yf_high_yield
-97440,メイテックグループホールディングス,fwd,0.054831061055127445,yf_high_yield
-46440,イマジニア,fwd,0.05032021957913998,yf_high_yield
-88030,平和不動産,fwd,0.05050100200400802,yf_high_yield
-47920,山田コンサルティンググループ,fwd,0.04542772861356932,yf_high_yield
-21830,リニカル,fwd,0.050473186119873815,yf_high_yield
-24980,オリエンタルコンサルタンツホールディングス,fwd,0.07085346215780998,high_yield_risk; yf_high_yield
-32840,フージャースホールディングス,dps_fallback,0.04791344667697063,yf_high_yield
-35970,自重堂,fwd,0.06072874493927125,high_yield_risk; yf_high_yield
-75370,丸文,dps_fallback,0.055790363482671176,yf_high_yield
-48320,ＪＦＥシステムズ,dps_fallback,0.058150619637750235,yf_high_yield
-68880,アクモス,dps_fallback,0.045207956600361664,yf_high_yield
-67970,名古屋電機工業,fwd,0.06904955320877336,high_yield_risk
-24990,日本和装ホールディングス,fwd,0.04507042253521127,yf_high_yield
-64300,ダイコク電機,dps_fallback,0.0477326968973747,yf_high_yield
-71640,全国保証,fwd,0.06647582697201018,high_yield_risk; yf_high_yield
-72670,本田技研工業,dps_fallback,0.046511627906976744,yf_high_yield
-36570,ポールトゥウィンホールディングス,dps_fallback,0.050156739811912224,yf_high_yield
-97570,船井総研ホールディングス,dps_fallback,0.06555944055944056,high_yield_risk; yf_high_yield
-36080,ＴＳＩホールディングス,dps_fallback,0.059144676979071886,yf_high_yield
-19720,三晃金属工業,fwd,0.048694424841213835,yf_high_yield
-42350,ウルトラファブリックス・ホールディングス,dps_fallback,0.05693430656934306,yf_high_yield
-47140,リソー教育グループ,dps_fallback,0.05102040816326531,yf_high_yield
-98820,イエローハット,dps_fallback,0.05980861244019139,yf_high_yield
-59880,パイオラックス,dps_fallback,0.053927315357561546,yf_high_yield
-21210,ＭＩＸＩ,dps_fallback,0.0456968773800457,yf_high_yield
-98890,ＪＢＣＣホールディングス,dps_fallback,0.10136157337367625,high_yield_risk; yf_high_yield
-59500,日本パワーファスニング,dps_fallback,0.1388888888888889,high_yield_risk; yf_high_yield
-93050,ヤマタネ,dps_fallback,0.04681230494872938,yf_high_yield
-64190,マースグループホールディングス,dps_fallback,0.0630048465266559,high_yield_risk; yf_high_yield
-96020,東宝,dps_fallback,0.054140127388535034,yf_high_yield
-82730,イズミ,dps_fallback,0.0891089108910891,high_yield_risk; yf_high_yield
-46850,菱友システムズ,dps_fallback,0.049635036496350364,yf_high_yield
-67570,ＯＳＧコーポレーション,dps_fallback,0.049019607843137254,yf_high_yield
-54100,合同製鐵,dps_fallback,0.06290956749672345,high_yield_risk; yf_high_yield
-34310,宮地エンジニアリンググループ,actual,0.05315006631866656,yf_high_yield
-39160,デジタル・インフォメーション・テクノロジー,dps_fallback,0.07157057654075547,high_yield_risk; yf_high_yield
-65350,アイモバイル,dps_fallback,0.04914933837429111,yf_high_yield
-30920,ＺＯＺＯ,dps_fallback,0.09188492915414341,high_yield_risk; yf_high_yield
-79310,未来工業,dps_fallback,0.045871559633027525,yf_high_yield
-74470,ナガイレーベン,dps_fallback,0.05790387955993052,yf_high_yield
-33910,ツルハホールディングス,dps_fallback,0.11749174917491749,high_yield_risk; yf_high_yield
-60880,シグマクシス・ホールディングス,dps_fallback,0.04728789986091794,yf_high_yield
-43240,電通グループ,dps_fallback,0.04810344827586207,yf_high_yield
-71480,ＦＰＧ,fwd,0.06471464019851117,high_yield_risk; yf_high_yield
-81130,ユニ・チャーム,dps_fallback,0.04618937762719961,yf_high_yield
-96820,ＤＴＳ,dps_fallback,0.11369740376007162,high_yield_risk; yf_high_yield
-49140,高砂香料工業,dps_fallback,0.19002375296912113,high_yield_risk; yf_high_yield
+76090,ダイトロン,dps_fallback,0.05430974071478627,yf_high_yield
+39970,トレードワークス,dps_fallback,0.046620046620046623,yf_high_yield
+41070,伊勢化学工業,fwd,0.05901639344262295,yf_high_yield
+18610,熊谷組,dps_fallback,0.07859733978234583,high_yield_risk; yf_high_yield
+51610,西川ゴム工業,fwd,0.051288343558282205,yf_high_yield
+65900,芝浦メカトロニクス,fwd,0.06076502732240437,high_yield_risk; yf_high_yield
+79460,光陽社,fwd,0.049019607843137254,yf_high_yield
+59490,ユニプレス,dps_fallback,0.04640371229698376,yf_high_yield
+63900,加藤製作所,dps_fallback,0.045307443365695796,yf_high_yield
+62980,ワイエイシイホールディングス,dps_fallback,0.051837888784165884,yf_high_yield
+42310,タイガースポリマー,fwd,0.046819787985865724,yf_high_yield
+81420,トーホー,dps_fallback,0.09534706331045004,high_yield_risk; yf_high_yield
+97610,東海リース,fwd,0.04540295119182747,yf_high_yield
+72390,タチエス,fwd,0.04926435690555292,yf_high_yield
+89990,グランディハウス,dps_fallback,0.05245901639344262,yf_high_yield
+21200,ＬＩＦＵＬＬ,dps_fallback,0.05153465346534654,yf_high_yield
+80010,伊藤忠商事,fwd,0.019548882953069988,yield_split_mismatch
+66480,かわでん,fwd,0.12414383561643835,high_yield_risk; yf_high_yield
+93220,川西倉庫,fwd,0.04603399433427762,yf_high_yield
+43100,ドリームインキュベータ,fwd,0.14412265758091994,high_yield_risk; yf_high_yield
+97820,ディーエムエス,fwd,0.06465753424657535,high_yield_risk; yf_high_yield
+19680,太平電業,dps_fallback,0.06036564332528458,high_yield_risk; yf_high_yield
+99340,因幡電機産業,fwd,0.027033763742683046,yield_split_mismatch
+30020,グンゼ,fwd,0.09101516919486581,high_yield_risk; yf_high_yield
+63930,油研工業,fwd,0.04608294930875576,yf_high_yield
+13840,ホクリヨウ,fwd,0.15024711696869852,high_yield_risk; yf_high_yield
+63690,トーヨーカネツ,dps_fallback,0.08556925308194344,high_yield_risk; yf_high_yield
+74200,佐鳥電機,fwd,0.045989304812834225,yf_high_yield
+29930,長栄,fwd,0.04807692307692308,yf_high_yield
+61370,小池酸素工業,fwd,0.10907288051561725,high_yield_risk; yf_high_yield
+18260,佐田建設,dps_fallback,0.04914004914004914,yf_high_yield
+62100,ＴＯＹＯイノベックス,dps_fallback,0.05223880597014925,yf_high_yield
+13330,マルハニチロ,fwd,0.025442279046567165,yield_split_mismatch
+75050,扶桑電通,fwd,0.06364992541024365,high_yield_risk; yf_high_yield
+63600,東京自働機械製作所,dps_fallback,0.06091370558375635,high_yield_risk; yf_high_yield
+86140,東洋証券,fwd,0.06587615283267458,high_yield_risk; yf_high_yield
+41140,日本触媒,dps_fallback,0.04825396825396826,yf_high_yield
+87500,第一生命ホールディングス,dps_fallback,0.0964109781843772,high_yield_risk; yf_high_yield
+59420,日本フイルコン,fwd,0.04878048780487805,yf_high_yield
+21480,アイティメディア,dps_fallback,0.05238344683080147,yf_high_yield
+68500,チノー,dps_fallback,0.04959702417854929,yf_high_yield
+63820,トリニティ工業,dps_fallback,0.0468384074941452,yf_high_yield
+23040,ＣＳＳホールディングス,fwd,0.04591836734693878,yf_high_yield
+79170,ＺＡＣＲＯＳ,dps_fallback,0.09701492537313433,high_yield_risk; yf_high_yield
+86040,野村ホールディングス,dps_fallback,0.04826418289585097,yf_high_yield
+39530,大村紙業,fwd,0.06188118811881188,high_yield_risk; yf_high_yield
+67980,ＳＭＫ,dps_fallback,0.04628099173553719,yf_high_yield
+80610,西華産業,dps_fallback,0.09079653322327692,high_yield_risk; yf_high_yield
+36120,ワールド,dps_fallback,0.052083333333333336,yf_high_yield
+71200,ＳＨＩＮＫＯ,fwd,0.10543478260869565,high_yield_risk; yf_high_yield
+54510,ヨドコウ,dps_fallback,0.22866449511400652,high_yield_risk; yf_high_yield
+63310,三菱化工機,dps_fallback,0.06521739130434782,high_yield_risk; yf_high_yield
+54800,日本冶金工業,dps_fallback,0.04656084656084656,yf_high_yield
+18660,北野建設,dps_fallback,0.0804093567251462,high_yield_risk; yf_high_yield
+41830,三井化学,dps_fallback,0.07765984985762361,high_yield_risk; yf_high_yield
+24080,ＫＧ情報,dps_fallback,0.04943502824858757,yf_high_yield
+75930,ＶＴホールディングス,fwd,0.047058823529411764,yf_high_yield
+68940,パルステック工業,fwd,0.05011389521640091,yf_high_yield
+21140,フジ日本,fwd,0.055130168453292494,yf_high_yield
+72960,エフ・シー・シー,dps_fallback,0.06020864381520119,high_yield_risk; yf_high_yield
+54060,神戸製鋼所,fwd,0.04928536224741252,yf_high_yield
+40230,クレハ,fwd,0.04832214765100671,yf_high_yield
+80760,カノークス,fwd,0.04880382775119617,yf_high_yield
+52840,ヤマウホールディングス,fwd,0.04985337243401759,yf_high_yield
+98270,リリカラ,dps_fallback,0.055299539170506916,yf_high_yield
+49760,東洋ドライルーブ,dps_fallback,0.06548431105047749,high_yield_risk; yf_high_yield
+54450,東京鐵鋼,dps_fallback,0.05990415335463259,yf_high_yield
+45770,ダイト,dps_fallback,0.04752206381534284,yf_high_yield
+81300,サンゲツ,dps_fallback,0.047244094488188976,yf_high_yield
+69190,ケル,dps_fallback,0.052805280528052806,yf_high_yield
+56030,虹技,dps_fallback,0.04573170731707317,yf_high_yield
+84730,ＳＢＩホールディングス,fwd,0.02669332434681255,yield_split_mismatch
+81170,中央自動車工業,dps_fallback,0.07946026986506746,high_yield_risk; yf_high_yield
+60700,キャリアリンク,fwd,0.045317220543806644,yf_high_yield
+73050,新家工業,dps_fallback,0.05555555555555555,yf_high_yield
+35710,ソトー,dps_fallback,0.050314465408805034,yf_high_yield
+55420,新報国マテリアル,dps_fallback,0.062111801242236024,high_yield_risk; yf_high_yield
+51920,三ツ星ベルト,dps_fallback,0.046153846153846156,yf_high_yield
+53570,ヨータイ,dps_fallback,0.048154093097913325,yf_high_yield
+49280,ノエビアホールディングス,dps_fallback,0.05043859649122807,yf_high_yield
+70810,コーユーレンティア,dps_fallback,0.046875,yf_high_yield
+93680,キムラユニティー,dps_fallback,0.06774193548387097,high_yield_risk; yf_high_yield
+80750,神鋼商事,dps_fallback,0.12562814070351758,high_yield_risk; yf_high_yield
+37080,特種東海製紙,dps_fallback,0.07462686567164178,high_yield_risk; yf_high_yield
+79570,フジコピアン,dps_fallback,0.053461274845784786,yf_high_yield
+28710,ニチレイ,fwd,0.047022744697163305,yf_high_yield
+69150,千代田インテグレ,dps_fallback,0.04923076923076923,yf_high_yield
+18780,大東建託,fwd,0.1744186046511628,high_yield_risk; yf_high_yield
+14140,ショーボンドホールディングス,fwd,0.0314885715107706,yield_split_mismatch
+74330,伯東,dps_fallback,0.06205250596658711,high_yield_risk; yf_high_yield
+67370,ＥＩＺＯ,actual,0.049035038397896115,yf_high_yield
+93080,乾汽船,dps_fallback,0.047322540473225407,yf_high_yield
+34890,フェイスネットワーク,fwd,0.045871559633027525,yf_high_yield
+45950,ミズホメディー,fwd,0.05473453749315818,yf_high_yield
+68740,協立電機,fwd,0.0495926319518243,yf_high_yield
+98560,ケーユーホールディングス,dps_fallback,0.05199025182778229,yf_high_yield
+74670,萩原電気ホールディングス,dps_fallback,0.050546448087431695,yf_high_yield
+32310,野村不動産ホールディングス,dps_fallback,0.16106110847939364,high_yield_risk; yf_high_yield
+79140,共同印刷,fwd,0.08647313156269303,high_yield_risk; yf_high_yield
+77750,大研医器,fwd,0.04946236559139785,yf_high_yield
+59700,ジーテクト,dps_fallback,0.04644954618259477,yf_high_yield
+18820,東亜道路工業,dps_fallback,0.05039193729003359,yf_high_yield
+88970,ＭＩＲＡＲＴＨホールディングス,dps_fallback,0.07352941176470588,high_yield_risk; yf_high_yield
+35480,バロックジャパンリミテッド,dps_fallback,0.05080213903743316,yf_high_yield
+91010,日本郵船,dps_fallback,0.057624113475177305,yf_high_yield
+73670,セルム,dps_fallback,0.05688622754491018,yf_high_yield
+72610,マツダ,dps_fallback,0.04807692307692308,yf_high_yield
+79560,ピジョン,dps_fallback,0.04770872567482737,yf_high_yield
+81500,三信電気,dps_fallback,0.04556193047586905,yf_high_yield
+64180,日本金銭機械,dps_fallback,0.04533091568449683,yf_high_yield
+47250,ＣＡＣ　Ｈｏｌｄｉｎｇｓ,fwd,0.04888647474198805,yf_high_yield
+86980,マネックスグループ,dps_fallback,0.05612813370473537,yf_high_yield
+46710,ファルコホールディングス,fwd,0.04683929931454684,yf_high_yield
+65390,ＭＳ−Ｊａｐａｎ,dps_fallback,0.05384615384615385,yf_high_yield
+24750,ＷＤＢホールディングス,dps_fallback,0.04707792207792208,yf_high_yield
+81250,ワキタ,fwd,0.052273915316257184,yf_high_yield
+78790,ノダ,dps_fallback,0.0625920471281296,high_yield_risk; yf_high_yield
+67180,アイホン,dps_fallback,0.046263345195729534,yf_high_yield
+74800,スズデン,dps_fallback,0.05868945868945869,yf_high_yield
+99040,ベリテ,dps_fallback,0.045454545454545456,yf_high_yield
+54110,ＪＦＥホールディングス,dps_fallback,0.05209690023443605,yf_high_yield
+82270,しまむら,dps_fallback,0.056818181818181816,yf_high_yield
+81030,明和産業,fwd,0.04528763769889841,yf_high_yield
+51080,ブリヂストン,dps_fallback,0.0626865671641791,high_yield_risk; yf_high_yield
+26760,高千穂交易,dps_fallback,0.07782101167315175,high_yield_risk; yf_high_yield
+98230,マミーマートホールディングス,dps_fallback,0.07276507276507277,high_yield_risk; yf_high_yield
+94330,ＫＤＤＩ,dps_fallback,0.055091185410334344,yf_high_yield
+54640,モリ工業,fwd,0.2171664943123061,high_yield_risk; yf_high_yield
+74640,セフテック,dps_fallback,0.051515151515151514,yf_high_yield
+80430,スターゼン,dps_fallback,0.08688783570300158,high_yield_risk; yf_high_yield
+59380,ＬＩＸＩＬ,fwd,0.05261619409529377,yf_high_yield
+29320,ＳＴＩフードホールディングス,dps_fallback,0.096,high_yield_risk; yf_high_yield
+66940,ズーム,dps_fallback,0.04889589905362776,yf_high_yield
+78330,アイフィスジャパン,fwd,0.04598540145985401,yf_high_yield
+85840,ジャックス,dps_fallback,0.046228710462287104,yf_high_yield
+88030,平和不動産,fwd,0.05151267375306623,yf_high_yield
+97440,メイテックグループホールディングス,fwd,0.055891238670694864,yf_high_yield
+80070,高島,fwd,0.10141509433962265,high_yield_risk; yf_high_yield
+71640,全国保証,fwd,0.06634920634920635,high_yield_risk; yf_high_yield
+82910,日産東京販売ホールディングス,dps_fallback,0.04669260700389105,yf_high_yield
+89230,トーセイ,fwd,0.061946902654867256,high_yield_risk; yf_high_yield
+64630,ＴＰＲ,dps_fallback,0.08257638315441784,high_yield_risk; yf_high_yield
+46440,イマジニア,fwd,0.050784856879039705,yf_high_yield
+79840,コクヨ,dps_fallback,0.09258145830209841,high_yield_risk; yf_high_yield
+36330,ＧＭＯペパボ,fwd,0.050078247261345854,yf_high_yield
+32840,フージャースホールディングス,dps_fallback,0.04936305732484077,yf_high_yield
+97570,船井総研ホールディングス,dps_fallback,0.06775067750677506,high_yield_risk; yf_high_yield
+47920,山田コンサルティンググループ,fwd,0.04632972322503008,yf_high_yield
+35970,自重堂,fwd,0.06134969325153374,high_yield_risk; yf_high_yield
+46850,菱友システムズ,dps_fallback,0.049204052098408106,yf_high_yield
+64300,ダイコク電機,dps_fallback,0.049689440993788817,yf_high_yield
+24980,オリエンタルコンサルタンツホールディングス,dps_fallback,0.07201309328968904,high_yield_risk; yf_high_yield
+96020,東宝,dps_fallback,0.0523237919359803,yf_high_yield
+47140,リソー教育グループ,dps_fallback,0.05181347150259067,yf_high_yield
+36080,ＴＳＩホールディングス,dps_fallback,0.06057781919850885,high_yield_risk; yf_high_yield
+59500,日本パワーファスニング,dps_fallback,0.1358695652173913,high_yield_risk; yf_high_yield
+34520,ビーロット,dps_fallback,0.0466977985323549,yf_high_yield
+21210,ＭＩＸＩ,dps_fallback,0.04533434076312807,yf_high_yield
+98890,ＪＢＣＣホールディングス,dps_fallback,0.10014947683109118,high_yield_risk; yf_high_yield
+21830,リニカル,fwd,0.05161290322580645,yf_high_yield
+42350,ウルトラファブリックス・ホールディングス,dps_fallback,0.057777777777777775,yf_high_yield
+59880,パイオラックス,dps_fallback,0.05555555555555555,yf_high_yield
+68880,アクモス,dps_fallback,0.04621072088724584,yf_high_yield
+72670,本田技研工業,dps_fallback,0.049707602339181284,yf_high_yield
+67970,名古屋電機工業,dps_fallback,0.06961506961506962,high_yield_risk
+82140,ＡＯＫＩホールディングス,dps_fallback,0.045018007202881155,yf_high_yield
+75370,丸文,dps_fallback,0.058771148708815675,yf_high_yield
+64190,マースグループホールディングス,dps_fallback,0.06341463414634146,high_yield_risk; yf_high_yield
+19720,三晃金属工業,dps_fallback,0.0501453488372093,yf_high_yield
+96580,ビジネスブレイン太田昭和,dps_fallback,0.04526889040163377,yf_high_yield
+48320,ＪＦＥシステムズ,dps_fallback,0.05933852140077821,yf_high_yield
+36570,ポールトゥウィンホールディングス,dps_fallback,0.052805280528052806,yf_high_yield
+67570,ＯＳＧコーポレーション,dps_fallback,0.04914004914004914,yf_high_yield
+24990,日本和装ホールディングス,dps_fallback,0.045845272206303724,yf_high_yield
+93050,ヤマタネ,dps_fallback,0.04962192816635161,yf_high_yield
+98820,イエローハット,dps_fallback,0.06329113924050633,high_yield_risk; yf_high_yield
+82730,イズミ,dps_fallback,0.09036144578313253,high_yield_risk; yf_high_yield
+54100,合同製鐵,dps_fallback,0.0642570281124498,high_yield_risk; yf_high_yield
+74470,ナガイレーベン,dps_fallback,0.0589622641509434,yf_high_yield
+39160,デジタル・インフォメーション・テクノロジー,dps_fallback,0.0728744939271255,high_yield_risk; yf_high_yield
+30920,ＺＯＺＯ,dps_fallback,0.09344978165938865,high_yield_risk; yf_high_yield
+34310,宮地エンジニアリンググループ,actual,0.0549477010306846,yf_high_yield
+79310,未来工業,dps_fallback,0.046875,yf_high_yield
+60880,シグマクシス・ホールディングス,dps_fallback,0.05105105105105105,yf_high_yield
+21270,日本Ｍ＆Ａセンターホールディングス,dps_fallback,0.045369210647960935,yf_high_yield
 22170,モロゾフ,dps_fallback,0.054412740544127404,yf_high_yield
-32450,ディア・ライフ,dps_fallback,0.05732484076433121,yf_high_yield
-64640,ツバキ・ナカシマ,dps_fallback,0.07668711656441718,high_yield_risk; yf_high_yield
-23790,ディップ,dps_fallback,0.0472636815920398,yf_high_yield
-96840,スクウェア・エニックス・ホールディングス,dps_fallback,0.05026300409117475,yf_high_yield
-48200,イーエムシステムズ,dps_fallback,0.056768558951965066,yf_high_yield
-41980,テンダ,dps_fallback,0.04918032786885246,yf_high_yield
-49320,アルマード,dps_fallback,0.0718232044198895,high_yield_risk; yf_high_yield
-43310,テイクアンドギヴ・ニーズ,dps_fallback,0.05517241379310345,yf_high_yield
-48450,スカラ,dps_fallback,0.045706371191135735,yf_high_yield
-32050,ダイドーリミテッド,dps_fallback,0.11750881316098707,high_yield_risk; yf_high_yield
-91450,ビーイングホールディングス,dps_fallback,0.05750350631136045,yf_high_yield
-64170,ＳＡＮＫＹＯ,dps_fallback,0.04640371229698376,yf_high_yield
-27000,木徳神糧,dps_fallback,0.07278020378457059,high_yield_risk; yf_high_yield
-55350,ミガロホールディングス,dps_fallback,0.0663265306122449,high_yield_risk
-24910,バリューコマース,dps_fallback,0.12300683371298406,high_yield_risk; yf_high_yield
+71480,ＦＰＧ,fwd,0.06575895108421584,high_yield_risk; yf_high_yield
+33910,ツルハホールディングス,dps_fallback,0.11806323236789741,high_yield_risk; yf_high_yield
+23790,ディップ,dps_fallback,0.04752376188094047,yf_high_yield
+65350,アイモバイル,dps_fallback,0.05029013539651837,yf_high_yield
+64360,アマノ,dps_fallback,0.045278137128072445,yf_high_yield
+32450,ディア・ライフ,dps_fallback,0.059322033898305086,yf_high_yield
+49140,高砂香料工業,dps_fallback,0.19528071602929212,high_yield_risk; yf_high_yield
+96820,ＤＴＳ,dps_fallback,0.11792014856081709,high_yield_risk; yf_high_yield
+43240,電通グループ,dps_fallback,0.05027027027027027,yf_high_yield
+96840,スクウェア・エニックス・ホールディングス,dps_fallback,0.04878048780487805,yf_high_yield
+81130,ユニ・チャーム,dps_fallback,0.04795640326975477,yf_high_yield
+64640,ツバキ・ナカシマ,dps_fallback,0.07987220447284345,high_yield_risk; yf_high_yield
+41980,テンダ,dps_fallback,0.049723756906077346,yf_high_yield
+48200,イーエムシステムズ,dps_fallback,0.058823529411764705,yf_high_yield
+49320,アルマード,dps_fallback,0.07286995515695067,high_yield_risk; yf_high_yield
+48450,スカラ,dps_fallback,0.046348314606741575,yf_high_yield
+43310,テイクアンドギヴ・ニーズ,dps_fallback,0.056818181818181816,yf_high_yield
+32050,ダイドーリミテッド,dps_fallback,0.11534025374855825,high_yield_risk; yf_high_yield
+91450,ビーイングホールディングス,dps_fallback,0.05782792665726375,yf_high_yield
+64170,ＳＡＮＫＹＯ,dps_fallback,0.04839099927413501,yf_high_yield
+27000,木徳神糧,dps_fallback,0.07371007371007371,high_yield_risk; yf_high_yield
+24910,バリューコマース,dps_fallback,0.12442396313364056,high_yield_risk; yf_high_yield

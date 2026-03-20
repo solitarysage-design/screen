@@ -1,22 +1,22 @@
 ﻿code,Name,net_shares_source,net_shares_latest,yield_basis,effective_yield,core_pass,core_fin_pass,core_pass_verified,core_buyable_now_verified,needs_manual_shares_check,shares_check_reason,needs_manual_dividend_check,manual_dividend_check_reason,needs_manual_history_check,history_check_reason,needs_data_fill,data_fill_reason,drop_reason_core,trend_score,data_quality_flags
-62090,リケンＮＰＲ,yfinance_verified,26868885.0,fwd,0.033121019108280254,False,False,False,False,False,,False,,True,div_history_short;coverage_years=2,False,,data_missing:non_cut_years,6,div_history_short
-85910,オリックス,yfinance_verified,1139702549.0,fwd,0.025117203850983677,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years,6,div_split_adjusted
-51610,西川ゴム工業,yfinance_verified,38627414.0,fwd,0.051288343558282205,False,False,False,False,False,,True,yf_high_yield,False,,False,,F_value_pass,6,div_split_adjusted; yield_split_mismatch
-27680,双日,yfinance_verified,210829285.0,fwd,0.0239769820971867,False,False,False,False,False,,False,,False,,False,,E_div_yield; B_cfo_pos_ratio; C_fcf_pos_ratio; D_fcf_payout; D_fcf_hard_fail,6,div_split_adjusted
-69320,遠藤照明,yfinance_verified,14776125.0,fwd,0.018018018018018018,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years; C_fcf_pos_ratio; D_fcf_hard_fail,6,
-16050,ＩＮＰＥＸ,yfinance_verified,1197599828.0,fwd,0.019621263974446725,False,False,False,False,False,,False,,False,,False,,E_div_yield,6,div_split_adjusted
-85930,三菱ＨＣキャピタル,yfinance_verified,1435561047.0,fwd,0.028288543140028287,False,False,False,False,False,,False,,False,,False,,E_div_yield,6,div_split_adjusted
-83160,三井住友フィナンシャルグループ,yfinance_verified,3873793610.0,actual,0.02400833329702464,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years,6,div_split_adjusted
-80980,稲畑産業,yfinance_verified,54383723.0,fwd,0.0316055625790139,False,False,False,False,False,,False,,False,,False,,A_non_cut_years,5,
+62090,リケンＮＰＲ,yfinance_verified,26868885.0,fwd,0.033419023136246784,False,False,False,False,False,,False,,True,div_history_short;coverage_years=2,False,,data_missing:non_cut_years,6,div_history_short
+85910,オリックス,yfinance_verified,1139702549.0,fwd,0.025339949324324325,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years,6,div_split_adjusted
+27680,双日,yfinance_verified,210829285.0,fwd,0.024069319640564826,False,False,False,False,False,,False,,False,,False,,E_div_yield; B_cfo_pos_ratio; C_fcf_pos_ratio; D_fcf_payout; D_fcf_hard_fail,6,div_split_adjusted
+51610,西川ゴム工業,yfinance_verified,38627414.0,fwd,0.05277777777777778,False,False,False,False,False,,True,yf_high_yield,False,,False,,F_value_pass,6,div_split_adjusted; yield_split_mismatch
+16050,ＩＮＰＥＸ,yfinance_verified,1197599828.0,fwd,0.01829787234042553,False,False,False,False,False,,False,,False,,False,,E_div_yield,6,div_split_adjusted
+85930,三菱ＨＣキャピタル,yfinance_verified,1435561047.0,fwd,0.028011204481792718,False,False,False,False,False,,False,,False,,False,,E_div_yield,6,div_split_adjusted
+69320,遠藤照明,yfinance_verified,14776125.0,fwd,0.01886080724254998,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years; C_fcf_pos_ratio; D_fcf_hard_fail,6,
 87070,岩井コスモホールディングス,yfinance,23488735.0,none,,False,False,False,False,False,,False,,False,,True,missing_dps; missing_total_div,data_missing:yield; A_non_cut_years; F_value_pass; data_missing:cfo; data_missing:fcf; D_fcf_hard_fail,6,shares_missing
-74530,良品計画,yfinance_verified,530475922.0,fwd,0.013308490817141336,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years; F_value_pass,6,div_split_adjusted; yield_split_mismatch
-87250,ＭＳ＆ＡＤインシュアランスグループホールディングス,yfinance_verified,1511266728.0,fwd,0.0363317464294663,False,False,False,False,False,,False,,False,,False,,A_non_cut_years,5,div_split_adjusted
-39460,トーモク,yfinance,16496914.0,fwd,0.02967359050445104,False,False,False,False,False,,False,,False,,False,,E_div_yield; F_value_pass,5,div_split_adjusted; shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
-14140,ショーボンドホールディングス,yfinance_corrected,203088740.0,fwd,0.0314885715107706,False,False,False,False,True,shares_estimate_mismatch,True,yield_split_mismatch,False,,False,,A_non_cut_years,5,div_split_adjusted; shares_estimate_mismatch
-42060,アイカ工業,yfinance,62607005.0,fwd,0.0314448359989157,False,False,False,False,False,,False,,False,,False,,F_value_pass,4,shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
-19280,積水ハウス,yfinance_verified,648094654.0,fwd,0.03810330228619814,False,False,False,False,False,,False,,False,,False,,A_non_cut_years; C_fcf_pos_ratio; D_fcf_hard_fail,4,
-90080,京王電鉄,yfinance,116570322.0,fwd,0.0259000259000259,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years; D_fcf_payout; D_fcf_hard_fail,4,div_split_adjusted; shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
-87660,東京海上ホールディングス,yfinance_verified,1922849729.0,fwd,0.029127857747671466,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years,4,div_split_adjusted
-78670,タカラトミー,yfinance,88880722.0,fwd,0.02,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years; F_value_pass; D_fcf_hard_fail,1,div_split_adjusted; shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
-35430,コメダホールディングス,yfinance_verified,45491595.0,fwd,0.018442622950819672,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years,2,
-47330,オービックビジネスコンサルタント,yfinance,75176703.0,fwd,0.015122572429162687,False,False,False,False,False,,False,,False,,False,,E_div_yield; F_value_pass,1,div_split_adjusted; shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
+83160,三井住友フィナンシャルグループ,yfinance_verified,3873793610.0,actual,0.023784826703103543,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years,6,div_split_adjusted
+80980,稲畑産業,yfinance_verified,54383723.0,fwd,0.031446540880503145,False,False,False,False,False,,False,,False,,False,,A_non_cut_years,5,
+14140,ショーボンドホールディングス,yfinance_corrected,202094340.0,fwd,0.031397082880474866,False,False,False,False,True,shares_estimate_mismatch,True,yield_split_mismatch,False,,False,,A_non_cut_years,5,div_split_adjusted; shares_estimate_mismatch
+87250,ＭＳ＆ＡＤインシュアランスグループホールディングス,yfinance_verified,1511266728.0,fwd,0.03599801390268123,False,False,False,False,False,,False,,False,,False,,A_non_cut_years,5,div_split_adjusted
+74530,良品計画,yfinance_verified,530475922.0,fwd,0.01422070534698521,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years; F_value_pass,6,div_split_adjusted; yield_split_mismatch
+39460,トーモク,yfinance,16496914.0,fwd,0.02962962962962963,False,False,False,False,False,,False,,False,,False,,E_div_yield; F_value_pass,5,div_split_adjusted; shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
+42060,アイカ工業,yfinance,62607005.0,fwd,0.03185063152114223,False,False,False,False,False,,False,,False,,False,,F_value_pass,3,shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
+19280,積水ハウス,yfinance_verified,648094654.0,fwd,0.03868194842406877,False,False,False,False,False,,False,,False,,False,,A_non_cut_years; C_fcf_pos_ratio; D_fcf_hard_fail,4,
+90080,京王電鉄,yfinance,115981802.0,fwd,0.025793139025019344,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years; D_fcf_payout; D_fcf_hard_fail,4,div_split_adjusted; shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
+87660,東京海上ホールディングス,yfinance_verified,1922849729.0,fwd,0.028514588859416445,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years,4,div_split_adjusted
+35430,コメダホールディングス,yfinance_verified,45491595.0,fwd,0.01828029790115098,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years,2,
+78670,タカラトミー,yfinance,88954756.0,fwd,0.020334059549745823,False,False,False,False,False,,False,,False,,False,,E_div_yield; A_non_cut_years; F_value_pass; D_fcf_hard_fail,1,div_split_adjusted; shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps
+47330,オービックビジネスコンサルタント,yfinance,75176703.0,fwd,0.015520339813755923,False,False,False,False,False,,False,,False,,False,,E_div_yield; F_value_pass,1,div_split_adjusted; shares_missing; total_div_estimated_from_dps; yield_total_fallback_dps

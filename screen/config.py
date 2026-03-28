@@ -27,8 +27,8 @@ UNKNOWN_POLICY: str = "exclude"  # "include" | "exclude"
 RATE_LIMIT_RPS: float = 2.0  # J-Quants requests per second
 
 # --- Cache TTLs (seconds) ---
-CACHE_TTL_PRICES: int = 6 * 3600       # 6 hours
-CACHE_TTL_FUNDAMENTALS: int = 24 * 3600  # 24 hours
+CACHE_TTL_PRICES: int = 24 * 3600       # 24時間（週次実行なので毎回再取得される）
+CACHE_TTL_FUNDAMENTALS: int = 7 * 24 * 3600  # 7日間（週次実行間で再利用）
 
 # --- Cache directory ---
 CACHE_DIR: Path = Path.home() / ".cache" / "screen"

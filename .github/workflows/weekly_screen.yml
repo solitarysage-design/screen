@@ -16,7 +16,7 @@ permissions:
 jobs:
   screen:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 120
     steps:
       # 1. Checkout
       - uses: actions/checkout@v4
@@ -30,7 +30,15 @@ jobs:
       # 3. Install dependencies
       - run: |
           pip install -r requirements.txt
-          pip install -e .
+          pip install .
+
+      # 3.5. diskcache永続化（ファンダメンタルズ等のAPI応答をキャッシュ）
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/screen
+          key: screen-diskcache-${{ hashFiles('requirements.txt') }}-${{ github.run_number }}
+          restore-keys: |
+            screen-diskcache-${{ hashFiles('requirements.txt') }}-
 
       # 4. Download previous artifacts (for delta)
       - name: Download previous artifacts

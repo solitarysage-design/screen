@@ -1,14 +1,14 @@
 {
-  "date": "2026-03-27",
+  "date": "2026-04-03",
   "status": "success",
-  "total_candidates": 3092,
-  "core_pass_verified": 99,
-  "core_buyable_now_verified": 77,
-  "manual_shares_check": 828,
-  "manual_dividend_check": 217,
-  "data_fill": 908,
-  "delta_new": 4,
-  "delta_removed": 1,
-  "delta_changed": 84,
-  "elapsed_seconds": 5610.4
+  "total_candidates": 3091,
+  "core_pass_verified": 53,
+  "core_buyable_now_verified": 40,
+  "manual_shares_check": 440,
+  "manual_dividend_check": 269,
+  "data_fill": 912,
+  "delta_new": 3,
+  "delta_removed": 4,
+  "delta_changed": 162,
+  "elapsed_seconds": 5035.4
 }

@@ -1,125 +1,120 @@
 code,Name,delta_type,detail
-27950,日本プリメックス,new,
-13330,マルハニチロ,changed,satellite_buyable_now: True -> False
-14070,ウエストホールディングス,changed,satellite_buyable_now: False -> True
-16050,ＩＮＰＥＸ,changed,satellite_buyable_now: True -> False
-17980,守谷商会,changed,satellite_buyable_now: True -> False
-19260,ライト工業,changed,satellite_buyable_now: True -> False
-19380,日本リーテック,changed,satellite_buyable_now: True -> False
-22690,明治ホールディングス,changed,satellite_buyable_now: True -> False
-23370,いちご,changed,satellite_buyable_now: False -> True
-23540,ＹＥ　ＤＩＧＩＴＡＬ,changed,satellite_buyable_now: False -> True
-27340,サーラコーポレーション,changed,core_pass: False -> True; core_pass_verified: False -> True; core_buyable_now: False -> True; core_buyable_now_verified: False -> True
-27370,トーメンデバイス,changed,satellite_buyable_now: True -> False
-27680,双日,changed,satellite_buyable_now: True -> False
-27800,コメ兵ホールディングス,changed,satellite_buyable_now: True -> False
-29140,日本たばこ産業,changed,satellite_buyable_now: True -> False
-30210,パシフィックネット,changed,satellite_buyable_now: True -> False
-31050,日清紡ホールディングス,changed,satellite_buyable_now: True -> False
-34070,旭化成,changed,satellite_buyable_now: True -> False
-35600,ほぼ日,changed,satellite_buyable_now: False -> True
-40220,ラサ工業,changed,satellite_buyable_now: False -> True
-40270,テイカ,changed,satellite_buyable_now: False -> True
-40920,日本化学工業,changed,satellite_buyable_now: False -> True
-41120,保土谷化学工業,changed,satellite_buyable_now: False -> True
-41180,カネカ,changed,satellite_buyable_now: True -> False
-42840,ソルクシーズ,changed,core_pass: True -> False; core_pass_verified: True -> False; core_buyable_now: True -> False; core_buyable_now_verified: True -> False
-44300,東海ソフト,changed,core_pass: True -> False; core_pass_verified: True -> False; core_buyable_now: True -> False; core_buyable_now_verified: True -> False
-45020,武田薬品工業,changed,satellite_buyable_now: True -> False
-45160,日本新薬,changed,satellite_buyable_now: True -> False
-46250,アトミクス,changed,satellite_buyable_now: True -> False
-49920,北興化学工業,changed,satellite_buyable_now: True -> False
-51210,藤倉コンポジット,changed,satellite_buyable_now: True -> False
-51870,クリエートメディック,changed,core_pass: True -> False; core_pass_verified: True -> False; core_buyable_now: True -> False; core_buyable_now_verified: True -> False
-51890,櫻護謨,changed,satellite_buyable_now: True -> False
-52790,日本興業,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
-52880,アジアパイルホールディングス,changed,satellite_buyable_now: True -> False
-53040,ＳＥＣカーボン,changed,satellite_buyable_now: True -> False
-53670,ニッカトー,changed,satellite_buyable_now: False -> True
-53840,フジミインコーポレーテッド,changed,satellite_buyable_now: True -> False
-54440,大和工業,changed,satellite_buyable_now: True -> False
-56950,パウダーテック,changed,satellite_buyable_now: False -> True
-58320,ちゅうぎんフィナンシャルグループ,changed,satellite_buyable_now: True -> False
-59490,ユニプレス,changed,satellite_buyable_now: True -> False
-59510,ダイニチ工業,changed,satellite_buyable_now: True -> False
-59570,日東精工,changed,satellite_buyable_now: True -> False
-59580,三洋工業,changed,satellite_buyable_now: True -> False
-59620,浅香工業,changed,satellite_buyable_now: False -> True
-59810,東京製綱,changed,satellite_buyable_now: True -> False
-60130,タクマ,changed,satellite_buyable_now: True -> False
-61400,旭ダイヤモンド工業,changed,satellite_buyable_now: False -> True
-61430,ソディック,changed,satellite_buyable_now: False -> True
-62090,リケンＮＰＲ,changed,satellite_buyable_now: False -> True
-62230,西部技研,changed,satellite_buyable_now: True -> False
-62290,オーケーエム,changed,satellite_buyable_now: True -> False
-62480,横田製作所,changed,satellite_buyable_now: True -> False
-62820,オイレス工業,changed,satellite_buyable_now: True -> False
-63650,電業社機械製作所,changed,satellite_buyable_now: False -> True
-64320,竹内製作所,changed,satellite_buyable_now: True -> False
-64540,マックス,changed,satellite_buyable_now: False -> True
-64570,グローリー,changed,satellite_buyable_now: False -> True
-64590,大和冷機工業,changed,satellite_buyable_now: True -> False
-64740,不二越,changed,satellite_buyable_now: True -> False
-65430,日宣,changed,satellite_buyable_now: True -> False
-66450,オムロン,changed,satellite_buyable_now: False -> True
-66510,日東工業,changed,satellite_buyable_now: True -> False
-66750,サクサ,changed,satellite_buyable_now: False -> True
-66770,エスケーエレクトロニクス,changed,satellite_buyable_now: False -> True
-67420,京三製作所,changed,satellite_buyable_now: False -> True
-67450,ホーチキ,changed,satellite_buyable_now: True -> False
-67790,日本電波工業,changed,satellite_buyable_now: True -> False
-67850,鈴木,changed,core_pass: False -> True; core_pass_verified: False -> True; core_buyable_now: False -> True; core_buyable_now_verified: False -> True; satellite_buyable_now: True -> False
-68040,ホシデン,changed,satellite_buyable_now: False -> True
-68230,リオン,changed,satellite_buyable_now: False -> True
-68580,小野測器,changed,satellite_buyable_now: False -> True
-68660,日置電機,changed,satellite_buyable_now: True -> False
-69270,ヘリオス　テクノ　ホールディング,changed,satellite_buyable_now: True -> False
-70120,川崎重工業,changed,satellite_buyable_now: True -> False
-72080,カネミツ,changed,satellite_buyable_now: False -> True
-72240,新明和工業,changed,satellite_buyable_now: True -> False
-74600,ヤギ,changed,satellite_buyable_now: True -> False
-76080,エスケイジャパン,changed,satellite_buyable_now: False -> True
-77510,キヤノン,changed,core_buyable_now: False -> True; core_buyable_now_verified: False -> True
-77810,平山ホールディングス,changed,satellite_buyable_now: True -> False
-79160,光村印刷,changed,satellite_buyable_now: False -> True
-79370,ツツミ,changed,satellite_buyable_now: True -> False
-80160,オンワードホールディングス,changed,satellite_buyable_now: True -> False
-80460,丸藤シートパイル,changed,satellite_buyable_now: True -> False
-80510,山善,changed,satellite_buyable_now: True -> False
-80530,住友商事,changed,satellite_buyable_now: True -> False
-80590,第一実業,changed,satellite_buyable_now: True -> False
-80600,キヤノンマーケティングジャパン,changed,satellite_buyable_now: False -> True
-80740,ユアサ商事,changed,satellite_buyable_now: True -> False
-80970,三愛オブリ,changed,satellite_buyable_now: True -> False
-80980,稲畑産業,changed,satellite_buyable_now: True -> False
-81250,ワキタ,changed,core_pass: True -> False; core_pass_verified: True -> False
-81370,サンワテクノス,changed,satellite_buyable_now: False -> True
-81420,トーホー,changed,satellite_buyable_now: False -> True
-81730,上新電機,changed,satellite_buyable_now: True -> False
-82820,ケーズホールディングス,changed,satellite_buyable_now: False -> True
-83620,福井銀行,changed,satellite_buyable_now: True -> False
-84160,高知銀行,changed,satellite_buyable_now: False -> True
-85910,オリックス,changed,satellite_buyable_now: False -> True
-86010,大和証券グループ本社,changed,satellite_buyable_now: True -> False
-86040,野村ホールディングス,changed,satellite_buyable_now: False -> True
-86970,日本取引所グループ,changed,satellite_buyable_now: True -> False
-87130,フィデアホールディングス,changed,satellite_buyable_now: False -> True
-87660,東京海上ホールディングス,changed,satellite_buyable_now: True -> False
-88350,太平洋興発,changed,satellite_buyable_now: True -> False
-89280,穴吹興産,changed,satellite_buyable_now: True -> False
-89960,ハウスフリーダム,changed,satellite_buyable_now: True -> False
-92740,ＫＰＰグループホールディングス,changed,satellite_buyable_now: False -> True
-93610,伏木海陸運送,changed,satellite_buyable_now: False -> True
-94460,サカイホールディングス,changed,satellite_buyable_now: False -> True
-95030,関西電力,changed,satellite_buyable_now: True -> False
-95080,九州電力,changed,satellite_buyable_now: True -> False
-95330,東邦瓦斯,changed,satellite_buyable_now: True -> False
-95430,静岡ガス,changed,satellite_buyable_now: True -> False
-96980,クレオ,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
-96990,ニシオホールディングス,changed,core_pass: False -> True; core_pass_verified: False -> True
-97160,乃村工藝社,changed,satellite_buyable_now: True -> False
-97530,アイエックス・ナレッジ,changed,core_pass: True -> False; core_pass_verified: True -> False
-97650,オオバ,changed,satellite_buyable_now: True -> False
-98370,モリト,changed,satellite_buyable_now: True -> False
-99600,東テク,changed,satellite_buyable_now: True -> False
-99910,ジェコス,changed,satellite_buyable_now: True -> False
+30420,セキュアヴェイル,new,
+39130,ＧｒｅｅｎＢｅｅ,new,
+97200,ホテル、ニューグランド,new,
+17260,ビーアールホールディングス,changed,satellite_buyable_now: True -> False
+19500,日本電設工業,changed,satellite_buyable_now: False -> True
+24490,プラップジャパン,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+25030,キリンホールディングス,changed,satellite_buyable_now: True -> False
+26120,かどや製油,changed,satellite_buyable_now: True -> False
+27340,サーラコーポレーション,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+27370,トーメンデバイス,changed,satellite_buyable_now: False -> True
+27800,コメ兵ホールディングス,changed,satellite_buyable_now: False -> True
+31010,東洋紡,changed,satellite_buyable_now: True -> False
+31500,グリムス,changed,satellite_buyable_now: True -> False
+31570,ジオリーブグループ,changed,satellite_buyable_now: False -> True
+31910,ジョイフル本田,changed,core_pass: False -> True; core_pass_verified: False -> True
+32520,地主,changed,satellite_buyable_now: True -> False
+34390,三ツ知,changed,satellite_buyable_now: False -> True
+34430,川田テクノロジーズ,changed,satellite_buyable_now: True -> False
+35130,イチカワ,changed,satellite_buyable_now: True -> False
+39640,オークネット,changed,satellite_buyable_now: True -> False
+40260,神島化学工業,changed,satellite_buyable_now: True -> False
+40440,セントラル硝子,changed,satellite_buyable_now: True -> False
+40780,堺化学工業,changed,satellite_buyable_now: True -> False
+40930,東邦アセチレン,changed,satellite_buyable_now: True -> False
+41120,保土谷化学工業,changed,satellite_buyable_now: True -> False
+42460,ダイキョーニシカワ,changed,satellite_buyable_now: True -> False
+42480,竹本容器,changed,core_pass: True -> False; core_pass_verified: True -> False; core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+44650,ニイタカ,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+46340,ａｒｔｉｅｎｃｅ,changed,satellite_buyable_now: True -> False
+46580,日本空調サービス,changed,satellite_buyable_now: True -> False
+47520,昭和システムエンジニアリング,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+48000,オリコン,changed,core_buyable_now: False -> True; core_buyable_now_verified: False -> True
+52100,日本山村硝子,changed,satellite_buyable_now: False -> True
+52790,日本興業,changed,core_pass: True -> False; core_pass_verified: True -> False
+53670,ニッカトー,changed,satellite_buyable_now: True -> False
+53680,日本インシュレーション,changed,satellite_buyable_now: False -> True
+53840,フジミインコーポレーテッド,changed,satellite_buyable_now: False -> True
+55630,新日本電工,changed,satellite_buyable_now: True -> False
+57030,日本軽金属ホールディングス,changed,satellite_buyable_now: True -> False
+58310,しずおかフィナンシャルグループ,changed,satellite_buyable_now: True -> False
+59910,日本発條,changed,satellite_buyable_now: False -> True
+60700,キャリアリンク,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+61430,ソディック,changed,satellite_buyable_now: True -> False
+61710,土木管理総合試験所,changed,core_pass: False -> True; core_pass_verified: False -> True
+62090,リケンＮＰＲ,changed,satellite_buyable_now: True -> False
+62480,横田製作所,changed,satellite_buyable_now: False -> True
+62840,日精エー・エス・ビー機械,changed,satellite_buyable_now: True -> False
+63010,小松製作所,changed,satellite_buyable_now: False -> True
+63600,東京自働機械製作所,changed,satellite_buyable_now: False -> True
+63650,電業社機械製作所,changed,satellite_buyable_now: True -> False
+63690,トーヨーカネツ,changed,satellite_buyable_now: True -> False
+63920,ヤマダコーポレーション,changed,satellite_buyable_now: False -> True
+64020,兼松エンジニアリング,changed,satellite_buyable_now: True -> False
+64320,竹内製作所,changed,satellite_buyable_now: False -> True
+64570,グローリー,changed,satellite_buyable_now: True -> False
+66430,戸上電機製作所,changed,satellite_buyable_now: True -> False
+66750,サクサ,changed,satellite_buyable_now: True -> False
+66760,バッファロー,changed,satellite_buyable_now: True -> False
+66770,エスケーエレクトロニクス,changed,satellite_buyable_now: True -> False
+66780,テクノメディカ,changed,core_pass: False -> True; core_pass_verified: False -> True; core_buyable_now: False -> True; core_buyable_now_verified: False -> True
+67410,日本信号,changed,satellite_buyable_now: True -> False
+67630,帝国通信工業,changed,satellite_buyable_now: True -> False
+68090,ＴＯＡ,changed,satellite_buyable_now: True -> False
+68500,チノー,changed,satellite_buyable_now: True -> False
+68580,小野測器,changed,satellite_buyable_now: True -> False
+68770,ＯＢＡＲＡ　ＧＲＯＵＰ,changed,satellite_buyable_now: True -> False
+68900,フェローテック,changed,satellite_buyable_now: True -> False
+69180,アバールデータ,changed,satellite_buyable_now: False -> True
+70650,ユーピーアール,changed,satellite_buyable_now: False -> True
+71300,ヤマエグループホールディングス,changed,satellite_buyable_now: True -> False
+71840,富山第一銀行,changed,satellite_buyable_now: True -> False
+71920,日本モーゲージサービス,changed,satellite_buyable_now: True -> False
+72080,カネミツ,changed,satellite_buyable_now: True -> False
+72240,新明和工業,changed,satellite_buyable_now: False -> True
+73220,三十三フィナンシャルグループ,changed,satellite_buyable_now: True -> False
+73370,ひろぎんホールディングス,changed,satellite_buyable_now: True -> False
+75990,ＩＤＯＭ,changed,satellite_buyable_now: True -> False
+76080,エスケイジャパン,changed,satellite_buyable_now: True -> False
+76130,シークス,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+76730,ダイコー通産,changed,satellite_buyable_now: False -> True
+77510,キヤノン,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+78190,粧美堂,changed,satellite_buyable_now: True -> False
+80180,三共生興,changed,satellite_buyable_now: True -> False
+80370,カメイ,changed,satellite_buyable_now: True -> False
+80780,阪和興業,changed,satellite_buyable_now: True -> False
+80850,ナラサキ産業,changed,satellite_buyable_now: True -> False
+82820,ケーズホールディングス,changed,satellite_buyable_now: True -> False
+83060,三菱ＵＦＪフィナンシャル・グループ,changed,satellite_buyable_now: True -> False
+83090,三井住友トラストグループ,changed,satellite_buyable_now: True -> False
+83340,群馬銀行,changed,satellite_buyable_now: True -> False
+83410,七十七銀行,changed,satellite_buyable_now: True -> False
+83540,ふくおかフィナンシャルグループ,changed,satellite_buyable_now: True -> False
+83620,福井銀行,changed,satellite_buyable_now: False -> True
+83670,南都銀行,changed,satellite_buyable_now: True -> False
+83880,阿波銀行,changed,satellite_buyable_now: False -> True
+84110,みずほフィナンシャルグループ,changed,satellite_buyable_now: True -> False
+84160,高知銀行,changed,satellite_buyable_now: True -> False
+84180,山口フィナンシャルグループ,changed,satellite_buyable_now: True -> False
+85370,大光銀行,changed,satellite_buyable_now: True -> False
+85500,栃木銀行,changed,satellite_buyable_now: True -> False
+85510,北日本銀行,changed,satellite_buyable_now: True -> False
+85850,オリエントコーポレーション,changed,core_buyable_now: True -> False; core_buyable_now_verified: True -> False
+85910,オリックス,changed,satellite_buyable_now: True -> False
+85930,三菱ＨＣキャピタル,changed,satellite_buyable_now: True -> False
+86300,ＳＯＭＰＯホールディングス,changed,satellite_buyable_now: True -> False
+87130,フィデアホールディングス,changed,satellite_buyable_now: True -> False
+87370,あかつき本社,changed,satellite_buyable_now: True -> False
+87390,スパークス・グループ,changed,satellite_buyable_now: True -> False
+87500,第一生命ホールディングス,changed,satellite_buyable_now: True -> False
+89340,サンフロンティア不動産,changed,satellite_buyable_now: True -> False
+91070,川崎汽船,changed,satellite_buyable_now: True -> False
+91100,ＮＳユナイテッド海運,changed,satellite_buyable_now: True -> False
+91190,飯野海運,changed,satellite_buyable_now: True -> False
+93510,東洋埠頭,changed,satellite_buyable_now: True -> False
+95020,中部電力,changed,satellite_buyable_now: True -> False
+96400,セゾンテクノロジー,changed,satellite_buyable_now: False -> True
+97530,アイエックス・ナレッジ,changed,core_pass: False -> True; core_pass_verified: False -> True
+99060,藤井産業,changed,satellite_buyable_now: False -> True
+99340,因幡電機産業,changed,satellite_buyable_now: True -> False
